@@ -1,0 +1,53 @@
+Sujet : Segmentation en phrases des textes de loi de la Cour Suprême américaine
+But : aider les étudiants étrangers pour comprendre les textes de lois
+Problème : on a du mal avec la segmentation des phrases, par ex avec les points des abréviations
+
+Tous les mercredis à 9h, point avec tout le monde
+Journée : 9h à 17h (avec une heure de pause)
+En fin de journée, faire un mail avec une liste de ce qu'on a fait et de ce qu'il reste à faire
+
+Faire un répertoire pour le partager
+
+Faire un Overleaf (ou un word) avec les étapes faits/à faire (pour aider à la rédaction du rapport)
+
+
+Le but de ce stage est d'avoir le mindset d'un scientifique : regarder ce qu'il se fait déjà qui pourrait répondre à la problématique, y aller petit à petit pour bien comprendre ce qu'on fait et pourquoi on le fait (et pas juste coder un truc qui marche)
+
+TER 12 semaines
+Etape 1 : Etat de l'art*   (3 sem)
+Etape 2 : Evaluation des outils (par ex, qu'est-ce qui pourrait être amélioré, ce qui a été omis...)     (3 sem)
+Etape 3 : Notre contributions (la solution qu'on a trouvé/ce qu'on ferait pour répondre à la problématique)     (4 sem)
+Etape 4 : Ecrire un article scientifique    (2 sem)
+
+-------
+
+Définitions : 
+train set : partie du corpus où l'ia apprend
+dev set : partie du corpus où l'ia va modifier ses paramètres
+test set : partie du corpus où l'ia n'a pas vu les documents pour tester ses performances
+état de l'art : savoir ce qu'il existe pour ne pas répliquer quelque chose qui a été déjà fait
+
+------
+Les tâches à faire :
+
+Le dataset dataset_v20230110.tsv a été segmenté par des experts.
+- Pour le dataset, on va le diviser en 3 parties : une partie train set, une partie dev set et une partie test set (par ex, pour 18 documents, on prend 12 pour le train, 3 pour le dev et 3 pour le test)
+        on ne doit pas mettre une partie d'un même document dans deux parties différentes
+- Essayer de comprendre comment les documents ont été séparées
+- Ensuite, on concatène les phrases, pour essayer de ségmenter les doc en phrases à la main pour voir si on a bien compris la logique
+
+------
+
+TODO pour la prochaine fois :
+
+But : Comprendre le sujet
+1- Lire le sujet
+2.1- Lire un article lié au sujet (pas forcément le premier de la liste, mais celui qui semble le plus lié à la problématique)
+2.2- On analyse l'article en faisant une liste sur : sa problématique, son but, les questions qu'il traite, ses thèmes, ses liaisons avec le sujet, comment il peut aider (ou pas) pour le sujet, ce qu'on a compris, les difficultés qu'on a rencontré lors de la lecture...
+        (si on peut faire tous les articles, c'est bien, mais si on ne fait que l'un d'entre eux, c'est pas mal aussi)
+        (on peut parler d'autres articles)
+2.3- Faire un diapo pour présenter l'article
+
+3- Découper le dataset en Train/Dev/Test set  (12 / 3 / 3 docs)
+                dans la partie dev, concaténation et segmentation à la main
+4- Observation pour comprendre la problématique

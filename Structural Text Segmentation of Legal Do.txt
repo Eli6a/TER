@@ -1,0 +1,25 @@
+Structural Text Segmentation of Legal Documents
+Auteurs : Dennis Aumiller, Sebastian Lackner, Satya Almasian, Michael Gertz
+Institute of Computer Science, Heidelberg University 
+Heidelberg, Germany
+
+Problématique : Il faut un systeme de recherche d'informations juridique efficace.
+    Problème, il faut que la segmentation des textes soit correcte, ce qui n'est pas le cas avec des étapes de pre-processing relativement simples
+
+Thème : Segmentation de textes
+
+Hypothèse : en fine-tunant l'embeding (intégrations) des paragraphes pour la similarité des thèmes/sujets, on peut générer des caractéristiques de segment qui détéctent des structures thématiques cohérentes dans un document.
+
+Etat de l'art : Segmentation of legal documents, Mencìa
+                    pour les métadata des textes de lois Françaises
+                Legal document clustering with built-in topic segmentation : Lu et al.
+                    utilisant des techniques de clustering pour identifier des sous-sujets des documents juridiques mais ne se base pas sur le contenu textuel des paragraphes
+                Effective Document Clustering for Large Heterogeneous Law Firm Collections : Conrad et al.
+                    utilisent le clustering pour une colection de documents hétérogènes mais ne se base pas sur le contenu textuel des paragraphes
+                Document Segmentation Labeling Techniques for Court Filings : Lyte et Branting
+                    classent les étiquettes des métadonnées en se concentrant plus sur la classification d'éléments
+                Using Clustering Techniques to Identify Arguments in Legal Documents : Poudyal et al. 
+                    utilisent des phrases entières pour exploiter les décisions de la juriceprudence européenne
+                Sentence Embeddings and High-Speed Similarity Search for Fast Computer Assisted Annotation of Legal Documents : Westermann et al. 
+                    utilisent des phrases entières pour un susteme pour la recherche efficace de similarité basé sur l'embedding
+
