@@ -2,6 +2,8 @@ Github : <https://github.com/Eli6a/TER>
 
 OverLeaf : <https://www.overleaf.com/project/65a6da607fff3e22dccbcc49>
 
+Drive : <https://drive.google.com/drive/u/0/folders/1qwhtsf7RdiQQ5K90viqDScZrJD0t5Ok8>
+
 Semaine 1
 
 Article : <https://arxiv.org/pdf/2012.03619.pdf>
