@@ -2,7 +2,7 @@ import segmentation, eval
 from tokenize import tokenizer
 
 
-def pipeline(path):
+def pipeline(path, model='tok'):
     text = file(path)
     raw_toks = tokenizer(text)
     seg = segmentation(text)

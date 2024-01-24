@@ -1,3 +1,4 @@
-import tokenize
+from tokenize import tokenizer
 
-def segmentation(text, model='main')
+def segmentation(text, model='main'):
+    tokenizer(text, model)
