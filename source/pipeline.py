@@ -1,11 +1,14 @@
 import segmentation, eval
+import os
+
 #from tokenize import tokenizer
 
 
-def pipeline(path='C:\\Users\\elisa\\Downloads\\TER\\documents\\train\\ROSENBLATT v. BAER_MCL.txt', model='spacy'):
+def pipeline(path='ROSENBLATT v. BAER_MCL', model='spacy'):
     text = ''
-    
-    with open(path, 'r') as fichier:
+    script_directory = os.path.dirname(__file__)
+    input_file_path = os.path.join(script_directory, '../documents/train/' + path + '.txt')
+    with open(input_file_path, 'r') as fichier:
         text = fichier.read()
     
    # raw_toks = tokenizer(text)
