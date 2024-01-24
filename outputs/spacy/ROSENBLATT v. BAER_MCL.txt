@@ -1,0 +1,113 @@
+MR.
+JUSTICE BRENNAN delivered the opinion of the Court.
+A jury in New Hampshire Superior Court awarded respondent damages in this civil libel action based on one of petitioner's columns in the Laconia Evening Citizen.
+Respondent alleged that the column contained defamatory falsehoods concerning his performance as Supervisor of the Belknap Country Recreation Area, a facility owned and operated by Belknap County.
+In the interval between the trial and the decision of petitioner's appeal by the New Hampshire Supreme Court, we decided New York Times Co. v. Sullivan, 376 U. S. 254 .
+We there held that consistent with the First and Fourteenth Amendments a State cannot award damages to a public official for defamatory falsehood relating to his official conduct unless the official proves actual malicethat the falsehood was published with knowledge of its falsity or with reckless disregard of whether it was true or false.
+The New Hampshire Supreme Court affirmed the award, finding New York Times no bar.
+106 N. H. 26, 203 A. 2d 773.
+We granted certiorari and requested the parties to brief and argue, in addition to the questions presented in the petition for certiorari, the question whether respondent was a "public official" under New York Times and under our decision in Garrison v. Louisiana, 379 U. S. 64 .
+380 U. S. 941.
+The Recreation Area was used principally as a ski resort but also for other recreational activities.
+Respondent was employed by and directly responsible to the Belknap County Commissioners, three elected officials in charge of the county government.
+During the 1950's, a public controversy developed over the way respondent and the Commissioners operated the Area; some protested that respondent and the Commissioners had not developed the *78 Area's full potential, either as a resort for local residents or as a tourist attraction that might contribute to the county's taxes.
+some protested that respondent and the Commissioners had not developed the *78 Area's full potential, either as a resort for local residents or as a tourist attraction that might contribute to the county's taxes.
+The discussion culminated in 1959, when the New Hampshire Legislature enacted a law transferring control of the Area to a special five-man commission.
+[1] At least in part to give this new regime a fresh start, respondent was discharged.
+Petitioner regularly contributed an unpaid column to the Laconia Evening Citizen.
+In it he frequently commented on political matters.
+As an outspoken proponent of the change in operations at the Recreation Area, petitioner's views were often sharply stated, and he had indicated disagreement with the actions taken by respondent and the County Commissioners.
+In January 1960, during the first ski season under the new management, some six months after respondent's discharge, petitioner published the column that respondent alleges libeled him.
+In relevant part, it reads: Been doing a little listening and checking at Belknap Recreation Area and am thunderstruck by what am learning.
+This year, a year without snow till very late, a year with actually few very major changes in procedure; the difference in cash income simply fantastic, almost unbelievable.
+"On any sort of comparative basis, the Area this year is doing literally hundreds of per cent BETTER than last year.
+"When consider that last year was excellent snow year, that season started because of more snow, months earlier last year, one can only ponder following question: "What happened to all the money last year?
+and every other year?
+What magic has Dana Beane *79
+[Chairman of the new commission] and rest of commission, and Mr. Warner [respondent's replacement as Supervisor] wrought to make such tremendous difference in net cash results?"
+The column on its face contains no clearly actionable statement.
+Although the questions "What happened to all the money last year?
+and every other year?" could be read to imply peculation, they could also be read, in context, merely to praise the present administration.
+The only persons mentioned by name are officials of the new regime; no reference is made to respondent, the three elected commissioners, or anyone else who had a part in the administration of the Area during respondent's tenure.
+no reference is made to respondent, the three elected commissioners, or anyone else who had a part in the administration of the Area during respondent's tenure Persons familiar with the controversy over the Area might well read it as complimenting the luck or skill of the new management in attracting increased patronage and producing a "tremendous difference in net cash results" despite less favorable snow; indeed, witnesses for petitioner testified that they so read the column.
+indeed, witnesses for petitioner testified that they so read the column.
+Respondent offered extrinsic proofs to supply a defamatory meaning.
+These proofs were that the column greatly exaggerated any improvement under the new regime, and that a large part of the community understood it to say that the asserted improvements were not explicable by anything the new management had done.
+Rather, his witnesses testified, they read the column as imputing mismanagement and peculation during respondent's tenure.
+Respondent urged two theories to support a recovery based on that imputation.
+The first was that the jury could award him damages if it found that the column cast suspicion indiscriminately *80 on the small number of persons who composed the former management group, whether or not it found that the imputation of misconduct was specifically made of and concerning him.
+[2] This theory of recovery was open to respondent under New Hampshire law; the trial judge explicitly instructed the jury that "an imputation of impropriety or a crime to one or some of a small group that casts suspicion upon all is actionable."
+[3] The question is presented, however, whether that theory of recovery is precluded by our holding in New York Times that, in the absence of sufficient evidence that the attack focused on the plaintiff, an otherwise impersonal attack on governmental operations cannot be utilized to establish a libel of those administering the operations.
+376 U. S., at 290-292 .
+The plaintiff in New York Times was one of the three elected Commissioners of the City of Montgomery, Alabama.
+His duties included the supervision of the police department.
+The statements in the advertisement upon which he principally relied as referring to him were that "truckloads of police . . .
+ringed the Alabama State College Campus" after a demonstration on the State Capitol steps, and that Dr. Martin Luther King had been "arrested . . .
+seven times."
+These statements were false in that although the police had been "deployed near the campus," they had not actually "ringed" it and had not gone there in connection with a State Capitol demonstration, and in that Dr. King had been arrested only *81 four times.
+We held that evidence that Sullivan as Police Commissioner was the supervisory head of the Police Department was constitutionally insufficient to show that the statements about police activity were "of and concerning" him; we rejected as inconsistent with the First and Fourteenth Amendments the proposition followed by the Alabama Supreme Court in the case that "[i]n measuring the performance or deficiencies of . . .
+groups, praise or criticism is usually attached to the official in complete control of the body," we rejected as inconsistent with the First and Fourteenth Amendments the proposition followed by the Alabama Supreme Court in the case that "[i]n measuring the performance or deficiencies of . . .
+groups, praise or criticism is usually attached to the official in complete control of the body," 273 Ala. 656, 674-675, 144
+So.
+2d 25, 39.
+To allow the jury to connect the statements with Sullivan on that presumption alone was, in our view, to invite the spectre of prosecutions for libel on government, which the Constitution does not tolerate in any form.
+376 U. S., at 273-276, 290-292 .
+[4] We held "that such a proposition may not constitutionally be utilized to establish that an otherwise impersonal attack on governmental operations was a libel of an official responsible for those operations."
+376 U. S., at 292 .
+There must be evidence showing that the attack was read as specifically directed at the plaintiff.
+Were the statement at issue in this case an explicit charge that the Commissioners and Baer or the entire Area management were corrupt, we assume without deciding that any member of the identified group might recover.
+[5] The statement itself might be sufficient evidence that the attack was specifically directed at each individual.
+Even if a charge and reference were merely implicit, as is alleged here, but a plaintiff could show by extrinsic proofs that the statement referred to him, it would be no defense to a suit by one member of an *82 identifiable group engaged in governmental activity that another was also attacked.
+These situations are distinguishable from the present case; here, the jury was permitted to infer both defamatory content and reference from the challenged statement itself, although the statement on its face is only an impersonal discussion of government activity.
+To the extent the trial judge authorized the jury to award respondent a recovery without regard to evidence that the asserted implication of the column was made specifically of and concerning him, we hold that the instruction was erroneous.
+[6] Here, no explicit charge of peculation was made; no assault on the previous management appears.
+The jury was permitted to award damages upon a finding merely that respondent was one of a small group acting for an organ of government, only some of whom were implicated, but all of whom were tinged with suspicion.
+In effect, this permitted the jury to find liability merely on the basis of his relationship to the government agency, the operations of which were the subject of discussion.
+It is plain that the elected Commissioners, also members of that group, *83 would have been barred from suit on this theory under New York Times.
+They would be required to show specific reference.
+Whether or not respondent was a public official, as a member of the group he bears the same burden.
+[7] A theory that the column cast indiscriminate suspicion on the members of the group responsible for the conduct of this governmental operation is tantamount to a demand for recovery based on libel of government, and therefore is constitutionally insufficient.
+Since the trial judge's instructions were erroneous in this respect, the judgment must be reversed.
+Respondent's second theory, supported by testimony of several witnesses, was that the column was read as referring specifically to him, as the "man in charge" at the Area, personally responsible for its financial affairs.
+Even accepting respondent's reading, the column manifestly discusses the conduct of operations of government.
+[8] The subject matter may have been only of local interest, but at least here, where publication was addressed primarily to the interested community, that fact is constitutionally irrelevant.
+The question is squarely presented whether the "public official" designation under New York Times applies.
+If it does, it is clear that the jury instructions were improper.
+Under the instructions, the jury was permitted *84 to find that negligent misstatement of fact would defeat petitioner's privilege.
+That test was rejected in Garrison, 379 U. S., at 79 , where we said, "The test which we laid down in New York Times is not keyed to ordinary care; defeasance of the privilege is conditioned, not on mere negligence, but on reckless disregard for the truth."
+The trial court also charged that "[d]efamatory matter which constitutes comment rather than fact is justified if made without malice and represented fair comment on matters of public interest," and defined malice to include "ill will, evil motive, intention to injure . . . ."
+This definition of malice is constitutionally insufficient where discussion of public affairs is concerned; "[w]e held in New York Times that a public official might be allowed the civil remedy only if he establishes that the utterance was false and that it was made with knowledge of its falsity or in reckless disregard of whether it was false or true."
+Garrison, 379 U. S., at 74 .
+Turning, then, to the question whether respondent was a "public official" within New York Times, we reject at the outset his suggestion that it should be answered by reference to state-law standards.
+States have developed definitions of "public official" for local administrative purposes, not the purposes of a national constitutional protection.
+[9] If existing state-law standards reflect the purposes of New York Times, this is at best accidental.
+Our decision in New York Times, moreover, draws its force from the constitutional protections afforded free expression.
+The standards that set the scope of its principles cannot therefore be such that "the constitutional limits of free expression in the Nation would vary with state lines."
+Pennekamp v. Florida, 328 U. S. 331 , 335.
+[10] *85 We remarked in New York Times that we had no occasion "to determine how far down into the lower ranks of government employees the `public official' designation would extend for purposes of this rule, or otherwise to specify categories of persons who would or would not be included."
+376 U. S., at 283, n. 23 .
+No precise lines need be drawn for the purposes of this case.
+The motivating force for the decision in New York Times was twofold.
+We expressed "a profound national commitment to the principle that debate on public issues should be uninhibited, robust, and wide-open, and that [such debate] may well include vehement, caustic, and sometimes unpleasantly sharp attacks on government and public officials."
+376 U. S., at 270 .
+There is, first, a strong interest in debate on public issues, and, second, a strong interest in debate about those persons who are in a position significantly to influence the resolution of those issues.
+Criticism of government is at the very center of the constitutionally protected area of free discussion.
+Criticism of those responsible for government operations must be free, lest criticism of government itself be penalized.
+t is clear, therefore, that the "public official" designation applies at the very least to those among the hierarchy of government employees who have, or appear to the public to have, substantial responsibility for or control over the conduct of governmental affairs.
+[11] *86
+This conclusion does not ignore the important social values which underlie the law of defamation.
+Society has a pervasive and strong interest in preventing and redressing attacks upon reputation.
+But in cases like the present, there is tension between this interest and the values nurtured by the First and Fourteenth Amendments.
+The thrust of New York Times is that when interests in public discussion are particularly strong, as they were in that case, the Constitution limits the protections afforded by the law of defamation.
+Where a position in government has such apparent importance that the public has an independent interest in the qualifications and performance of the person who holds it, beyond the general public interest in the qualifications and performance of all government employees, both elements we identified in New York Times are present [12] and the New York Times malice standards apply.
+[13] *87 As respondent framed his case, he may have held such a position.
+Since New York Times had not been decided when his case went to trial, his presentation was not shaped to the "public official" issue.
+He did, however, seek to show that the article referred particularly to him.
+His theory was that his role in the management of the Area was so prominent and important that the public regarded him as the man responsible for its operations, chargeable with its failures and to be credited with its successes.
+Thus, to prove the article referred to him, he showed the importance of his role; the same showing, at the least, raises a substantial argument that he was a "public official."
+[14] The record here, however, leaves open the possibility that respondent could have adduced proofs to bring his claim outside the New York Times rule.
+Moreover, even if the claim falls within New York Times, the record suggests respondent may be able to present a jury question of malice as there defined.
+Because the trial here was had before New York Times, we have concluded that we should not foreclose him from attempting retrial of his *88 action.
+We remark only that, as is the case with questions of privilege generally, it is for the trial judge in the first instance to determine whether the proofs show respondent to be a "public official."
+[15] The judgment is reversed and the case remanded to the New Hampshire Supreme Court for further proceedings not inconsistent with this opinion.
+It is so ordered.
