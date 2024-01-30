@@ -1,13 +1,11 @@
 from sklearn.metrics import f1_score, recall_score, precision_score
 
 def eval(original, segmented):
-    print(original)
-    print(segmented)
     idx_ori = indexes_from_sentences(original)
     idx_segmented = indexes_from_sentences(segmented)
-    f1 = f1_score(idx_ori, idx_segmented) 
-    recall = recall_score(idx_ori, idx_segmented)
-    precision = precision_score(idx_ori, idx_segmented)
+    print(idx_ori)
+    print(idx_segmented)
+    precision, recall, f1 = evaluate_indices(idx_ori, idx_segmented)
     print("Precision : ", precision,"\nRecall : ", recall,"\nF1 : ", f1)
     return precision, recall, f1
 
@@ -22,12 +20,12 @@ def indexes_from_sentences(sentences):
     return indices
 
 def evaluate_indices(ori, seg):
-    true, pred = set(true), set(pred)
+    true, pred = set(ori), set(seg)
     tp = len(pred.intersection(true))
     fp = len(pred - true)
     fn = len(true - pred)
 
-    return tp, fp, fn
+    return score(tp, fp, fn)
 
 def score(tp, fp, fn):
     precision = tp / (tp + fp)
