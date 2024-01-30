@@ -1,12 +1,15 @@
 import segmentation, eval
-from tokenize import tokenizer
+from custom_tok import tokenizer
 
 
 def pipeline(path, model='tok'):
-    text = file(path)
-    raw_toks = tokenizer(text)
-    seg = segmentation(text)
-    eval(seg, raw_toks)
+    text = open(path, "r")
+    original = text.readlines()
+    original = [ori[:-1] for ori in original]
+    raw_toks = tokenizer(original)
+    print(raw_toks)
+    #seg = segmentation(text)
+    #eval(seg, raw_toks)
 
 
 if __name__ == "__main__":
