@@ -6,7 +6,7 @@ def tokenizer_openNlp():
 
 def tokenizer(text, model='main'):
     tokens = []
-    match text :
+    match model :
         case "nltk-punkt" :
             tokens = wordpunct_tokenize(text)
         case "nltk-word":
@@ -17,11 +17,3 @@ def tokenizer(text, model='main'):
             tokens = tokenizer(text)
     return tokens
 
-
-
-# Construction 1
-from spacy.tokenizer import Tokenizer
-from spacy.lang.en import English
-nlp = English()
-# Create a blank Tokenizer with just the English vocab
-tokenizer = Tokenizer(nlp.vocab)
