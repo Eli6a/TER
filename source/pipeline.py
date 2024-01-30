@@ -1,21 +1,13 @@
-import segmentation, eval
-import os
+import eval
 from custom_tok import tokenizer
+from segmentation import segmentation
 
-
-def pipeline(path='', model='spacy'):
-    
-    default_title = 'ROSENBLATT v. BAER_MCL'
-    if path == '':
-        script_directory = os.path.dirname(__file__)
-        path = os.path.join(script_directory, '../documents/train/' + default_title + '.txt')
-    
+def pipeline(path, tokeniz="tok", model='mod'):
     text = readfile(path)
-    
-   # raw_toks = tokenizer(text, model)
-    seg = segmentation.segmentation(default_title, text, model='spacy')
-    #seg2 = segmentation.segmentation(default_title, text, model='nltk')
-   # eval(seg, raw_toks)
+    raw_toks = tokenizer(text, tokenizer=tokeniz)
+    seg = segmentation(raw_toks, model=model)
+    print("seg : ",seg)
+    #eval(seg, raw_toks)
 
 
 def readfile(path):
