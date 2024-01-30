@@ -1,11 +1,12 @@
-import segmentation, eval
+import eval
 from custom_tok import tokenizer
+from segmentation import segmentation
 
-
-def pipeline(path, model='tok'):
+def pipeline(path, tokeniz="tok", model='mod'):
     text = readfile(path)
-    raw_toks = tokenizer(text, model)
-    seg = segmentation(text)
+    raw_toks = tokenizer(text, tokenizer=tokeniz)
+    seg = segmentation(raw_toks, model=model)
+    print("seg : ",seg)
     #eval(seg, raw_toks)
 
 

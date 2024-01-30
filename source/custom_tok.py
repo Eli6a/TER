@@ -4,9 +4,9 @@ from spacy.lang.en import English
 def tokenizer_openNlp():
     return 0
 
-def tokenizer(text, model='main'):
+def tokenizer(text, tokenizer='main'):
     tokens = []
-    match model :
+    match tokenizer :
         case "nltk-punkt" :
             tokens = wordpunct_tokenize(text)
         case "nltk-word":
@@ -15,5 +15,7 @@ def tokenizer(text, model='main'):
             nlp = English()
             tokenizer = spacyTok(nlp)
             tokens = tokenizer(text)
+        case None:
+            tokens = text
     return tokens
 
