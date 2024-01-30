@@ -1,6 +1,8 @@
 from sklearn.metrics import f1_score, recall_score, precision_score
 
 def eval(original, segmented):
+    print(original)
+    print(segmented)
     idx_ori = indexes_from_sentences(original)
     idx_segmented = indexes_from_sentences(segmented)
     f1 = f1_score(idx_ori, idx_segmented) 
