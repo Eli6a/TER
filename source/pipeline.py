@@ -3,15 +3,18 @@ import os
 from custom_tok import tokenizer
 
 
-def pipeline(path='ROSENBLATT v. BAER_MCL', model='spacy'):
-    script_directory = os.path.dirname(__file__)
-    input_file_path = os.path.join(script_directory, '../documents/train/' + path + '.txt')
-    text = readfile(input_file_path)
-
+def pipeline(path='', model='spacy'):
+    
+    default_title = 'ROSENBLATT v. BAER_MCL'
+    if path == '':
+        script_directory = os.path.dirname(__file__)
+        path = os.path.join(script_directory, '../documents/train/' + default_title + '.txt')
+    
+    text = readfile(path)
     
    # raw_toks = tokenizer(text, model)
-    seg = segmentation.segmentation('ROSENBLATT v. BAER_MCL', text, model='spacy')
-    #seg2 = segmentation.segmentation('ROSENBLATT v. BAER_MCL', text, model='nltk')
+    seg = segmentation.segmentation(default_title, text, model='spacy')
+    #seg2 = segmentation.segmentation(default_title, text, model='nltk')
    # eval(seg, raw_toks)
 
 
