@@ -1,4 +1,3 @@
-# from tokenize import tokenizer
 import os
 
 def segmentation(title, text, model='main'):
