@@ -13,3 +13,9 @@ Powerpoint article : <https://docs.google.com/presentation/d/1MLuXQwd6yupffycbfR
 Semaine 2 :
 
 Article sur les outils : <https://damdid2022.frccsc.ru/files/article/DAMDID_2022_paper_2646.pdf>
+
+Semaine 3 : 
+
+Consignes de segmentation : <https://docs.google.com/document/d/1lWTVREzzgFXvz6afCMUPoyaSKSdKIc5ZyeTLSFFnT-Q/edit?usp=sharing>
+
+Version HTML du corpus : <https://drive.google.com/file/d/1tXYvg0naL9cgb67mTAHyTuOU4-x-mYH6/view?usp=sharing>
