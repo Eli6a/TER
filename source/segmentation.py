@@ -30,5 +30,28 @@ def segmentation(text, tokenizer=None, model=None):
             #print("sentences nltk :", sentences)
             return sentences#tokens
         
+        case "naive":
+            sentences = naive_segmentation(text)
+            #print("sentences naive :", sentences)
+            return sentences#tokens
+        
         case None: 
             return text
+        
+def naive_segmentation(text):
+    tokens = custom_tok(text, tokenizer="nltk-word")    
+    sentences = []
+    sentence = []
+    for token in tokens:
+        if '.' in token:
+            #full_sentence = ' '.join(text_obj.text for text_obj in sentence) + token.text
+            sentence.append(token)
+            sentences.append(sentence)
+            sentence = []
+        else:
+            sentence.append(token)    
+            
+    # tokenised_sentences = []
+    # for sentence in sentences:
+    #     tokenised_sentences.append([token for token in nlp(sentence)])
+    return sentences
