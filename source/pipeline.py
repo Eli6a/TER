@@ -7,10 +7,15 @@ def pipeline(path, tokeniz="tok", model='mod'):
     text = readfile(path)
     raw_toks = tokenizer(text, tokenizer=tokeniz)
     experts =  getExperts("../dataset_v20230110.tsv","../documents/dev/ROSENBLATT v. BAER_MCL.txt")
-    print(experts)
+    print("experts", experts)
     experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
-    seg = segmentation(raw_toks, model=model)
+    print("tokens experts",experts)
+    seg = segmentation(text, model=model)
+    #retokenize
     print("seg : ",seg)
+    #plus de tokenization
+    #toks = [tokenizer(s, tokenizer=tokeniz) for s in seg]
+    #print("toks : ",toks)
     return eval(experts, seg)
 
 

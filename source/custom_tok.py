@@ -13,8 +13,10 @@ def tokenizer(text, tokenizer='main'):
             tokens = word_tokenize(text)
         case "spacy":
             nlp = English()
-            tokenizer = spacyTok(nlp)
+            tokenizer = nlp.tokenizer
             tokens = tokenizer(text)
+            tokens = [token.text for token in tokens]
+            #print("tokens",tokens)
         case None:
             tokens = text
     return tokens
