@@ -3,13 +3,13 @@ from sklearn.metrics import f1_score, recall_score, precision_score
 def eval(original, segmented):
     idx_ori = indexes_from_sentences(original)
     idx_segmented = indexes_from_sentences(segmented)
-    print("ori", original)
-    print(idx_ori)
-    print("seg", segmented)
-    print(idx_segmented)
+    #print("ori", original)
+    #print(idx_ori)
+    #print("seg", segmented)
+    #print(idx_segmented)
     
     precision, recall, f1 = evaluate_indices(idx_ori, idx_segmented)
-    print("Precision : ", precision,"\nRecall : ", recall,"\nF1 : ", f1)
+    #print("Precision : ", precision,"\nRecall : ", recall,"\nF1 : ", f1)
     return precision, recall, f1
 
 

@@ -1,7 +1,7 @@
 #from tokenize import tokenizer
 from custom_tok import tokenizer as custom_tok
 import spacy
-from nltk.tokenize import sent_tokenize
+from nltk.tokenize import sent_tokenize, word_tokenize
 from spacy.lang.en import English
 
 
@@ -21,12 +21,14 @@ def segmentation(text, tokenizer=None, model=None):
                 for token in sentence : 
                     tokens += [token.text]
                 sentences += [tokens]
-            print("SENTENCES", sentences)
             #tokenization for return if not tokenized
+            #here save sentences
             return sentences
         
         case "nltk":
-            return sent_tokenize(text)#tokens
+            sentences = [custom_tok(sent, tokenizer="nltk-punkt")for sent in sent_tokenize(text)]
+            #print("sentences nltk :", sentences)
+            return sentences#tokens
         
         case None: 
             return text
