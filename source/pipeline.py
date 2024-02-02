@@ -8,13 +8,14 @@ def pipeline(path, tokeniz="tok", model='mod'):
     text = readfile(path)
     #raw_toks = tokenizer(text, tokenizer=tokeniz)
     experts =  getExperts("../dataset_v20230110.tsv",path)
-    print("experts", experts)
+    #print("experts", experts)
     experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
-    print("tokens experts",experts)
+    #print("tokens experts",experts)
     seg = segmentation(text, model=model)
     saveSegmentation(path, seg, model)
     print("seg : ",seg)
     
+    # sklearn
     if (model == 'naive' or model == 'nltk'):
         print(eval_sklearn(experts, seg))
     return eval(experts, seg)

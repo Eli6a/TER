@@ -44,14 +44,10 @@ def naive_segmentation(text):
     sentence = []
     for token in tokens:
         if '.' in token:
-            #full_sentence = ' '.join(text_obj.text for text_obj in sentence) + token.text
             sentence.append(token)
             sentences.append(sentence)
             sentence = []
         else:
             sentence.append(token)    
             
-    # tokenised_sentences = []
-    # for sentence in sentences:
-    #     tokenised_sentences.append([token for token in nlp(sentence)])
     return sentences
