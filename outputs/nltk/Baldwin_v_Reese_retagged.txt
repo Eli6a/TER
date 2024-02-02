@@ -1,5 +1,5 @@
 * 29 JUSTICE BREYER delivered the opinion of the Court . 
-Before seeking a federal writ of habeas corpus , a state prisoner must exhaust available state remedies , 28 U . S . C . Â§ 2254 ( b )( 1 ), thereby giving the State the "`" opportunity to pass upon and correct " alleged violations of its prisoners ' federal rights .'" 
+Before seeking a federal writ of habeas corpus , a state prisoner must exhaust available state remedies , 28 U . S . C . Â § 2254 ( b )( 1 ), thereby giving the State the "`" opportunity to pass upon and correct " alleged violations of its prisoners ' federal rights .'" 
 Duncan v . Henry , 513 U . S . 364 , 365 ( 1995 ) ( per curiam ) ( quoting Picard v . Connor , 404 U . S . 270 , 275 ( 1971 )). 
 To provide the State with the necessary " opportunity ," the prisoner must " fairly present " his claim in each appropriate state court ( including a state supreme court with powers of discretionary review ), thereby alerting that court to the federal nature of the claim . 
 Duncan , supra , at 365 - 366 ; O ' Sullivan v . Boerckel , 526 U . S . 838 , 845 ( 1999 ). 
@@ -35,7 +35,7 @@ We begin by assuming that Reese ' s petition by itself did not properly alert th
 On that assumption , Reese failed * 31 to meet the " fair presentation " standard , and the Ninth Circuit was wrong to hold the contrary . 
 We recognize that the justices of the Oregon Supreme Court did have an " opportunity " to read the lower court opinions in Reese ' s case . 
 That opportunity means that the judges could have read them . 
-But to say that a petitioner " fairly presents " a federal claim when an appellate judge can discover that claim only by reading lower court opinions in the case is to say that those judges must read the lower court opinions Â— for otherwise they would forfeit the State ' s opportunity to decide that federal claim in the first instance . 
+But to say that a petitioner " fairly presents " a federal claim when an appellate judge can discover that claim only by reading lower court opinions in the case is to say that those judges must read the lower court opinions Â — for otherwise they would forfeit the State ' s opportunity to decide that federal claim in the first instance . 
 In our view , federal habeas corpus law does not impose such a requirement . 
 For one thing , the requirement would force state appellate judges to alter their ordinary review practices . 
 Appellate judges , of course , will often read lower court opinions , but they do not necessarily do so in every case . 
@@ -66,7 +66,7 @@ And thus the Oregon Supreme Court should have known , from his use of the word "
 Reese , however , has not demonstrated that Oregon law uses the words " ineffective assistance " in the manner he suggests , that is , as referring only to a federal - law claim . 
 See , e . g ., Lichau v . Baldwin , 166 Ore . App . 
 411 , 415 , 417 , 999 P . 2d 1207 , 1210 , 1211 ( 2000 ) ( using " ineffective assistance " to refer to violations of the Oregon Constitution ) ev ' d in part , 333 Ore . 350 , 39 P . 3d 851 ( 2002 ). 
-Indeed , Reese ' s own petition uses both phrases Â— " ineffective assistance " and " inadequate assistance " Â— at different points to refer to what is apparently a single claim . 
+Indeed , Reese ' s own petition uses both phrases Â — " ineffective assistance " and " inadequate assistance " Â — at different points to refer to what is apparently a single claim . 
 Second , Reese says that in Oregon the standards for adjudicating state and federal " inadequate / ineffective appellate assistance " claims are identical . 
 He adds that , where that identity exists , a petitioner need not indicate a claim ' s federal nature , because , by raising a state - law claim , he would necessarily " fairly present " the corresponding federal claim . 
 * 34 However , the Ninth Circuit did not address this argument , and our reading of the briefs filed in the Ninth Circuit leads us to conclude that Reese did not there seek consideration of the argument in that court . 
