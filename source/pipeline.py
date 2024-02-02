@@ -1,4 +1,4 @@
-from eval import eval
+from eval import eval, eval_sklearn
 from custom_tok import tokenizer
 from segmentation import segmentation
 import pandas as pd
@@ -12,11 +12,11 @@ def pipeline(path, tokeniz="tok", model='mod'):
     experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
     print("tokens experts",experts)
     seg = segmentation(text, model=model)
-    #saveSegmentation(path, seg, model)
+    saveSegmentation(path, seg, model)
     print("seg : ",seg)
     
-    print("count experts", count_list_in_list(experts))
-    print("count seg", count_list_in_list(seg))
+    if (model == 'naive' or model == 'nltk'):
+        print(eval_sklearn(experts, seg))
     return eval(experts, seg)
 
 
@@ -61,13 +61,3 @@ def saveSegmentation(path, seg, model):
 if __name__ == "__main__":
     # execute only if run as a script
     pipeline()
-    
-    
-def count_list_in_list(my_list):
-    count = 0
-    for item in my_list:
-        if isinstance(item, list):
-            count += count_list_in_list(item)
-        else:
-            count += 1
-    return count

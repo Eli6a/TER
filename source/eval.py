@@ -34,3 +34,24 @@ def score(tp, fp, fn):
     recall = tp / (tp + fn)
     f1 = 2*(precision*recall)/(precision+recall) if precision + recall != 0 else 0
     return precision, recall, f1
+
+def tokens_to_0_1(tokens):
+    tot_array = [0] * sum(len(array) for array in tokens)
+
+    start_index = 0
+    for array in tokens:
+        end_index = start_index + len(array)
+        tot_array[end_index - 1] = 1
+        start_index = end_index
+    
+    return tot_array
+
+def eval_sklearn(expert, segmented):
+    expert = tokens_to_0_1(expert)
+    segmented = tokens_to_0_1(segmented)
+    print("expert", expert)
+    print("segmented", segmented)
+    precision = precision_score(expert, segmented)
+    recall = recall_score(expert, segmented)
+    f1 = f1_score(expert, segmented)
+    return precision, recall, f1
