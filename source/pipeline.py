@@ -3,6 +3,7 @@ from custom_tok import tokenizer
 from segmentation import segmentation
 import pandas as pd
 from glob import glob
+import csv
 
 def pipeline(path, tokeniz="tok", model='mod'):
     text = readfile(path)
@@ -32,7 +33,7 @@ def readfile(path):
 
 def getExperts(pathExp, otherPath):
     title = otherPath.split("/")[-1].split('.txt')[0]
-    df = pd.read_csv(pathExp, delimiter="	")
+    df = pd.read_csv(pathExp, delimiter="	", quoting=csv.QUOTE_NONE, encoding='latin-1')
     content = df.loc[df["document"] == title]["content"]
     return list(content)
 
