@@ -55,3 +55,7 @@ def eval_sklearn(expert, segmented):
     recall = recall_score(expert, segmented)
     f1 = f1_score(expert, segmented)
     return precision, recall, f1
+
+def index_differences(array1, array2):
+    differences = [i for i, (a, b) in enumerate(zip(array1, array2)) if a != b]
+    return differences
