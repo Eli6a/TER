@@ -1,4 +1,4 @@
-from eval import eval
+from eval import eval, eval_sklearn
 from custom_tok import tokenizer
 from segmentation import segmentation
 import pandas as pd
@@ -13,7 +13,11 @@ def pipeline(path, tokeniz="tok", model='mod'):
     #print("tokens experts",experts)
     seg = segmentation(text, model=model)
     saveSegmentation(path, seg, model)
-    #print("seg : ",seg)
+    print("seg : ",seg)
+    
+    # sklearn
+    if (model == 'naive' or model == 'nltk'):
+        print(eval_sklearn(experts, seg))
     return eval(experts, seg)
 
 
