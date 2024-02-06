@@ -1,5 +1,5 @@
 Justice GINSBURG delivered the opinion of the Court . 
-It is a principle of general application in Anglo - American jurisprudence that one is not bound by a judgment in personam * 2167 in a litigation in which he is not designated as a party or to which he has not been made a party by service of process . 
+" It is a principle of general application in Anglo - American jurisprudence that one is not bound by a judgment in personam * 2167 in a litigation in which he is not designated as a party or to which he has not been made a party by service of process ." 
 Hansberry v . Lee , 311 U . S . 32 , 40 , 61 S . Ct . 115 , 85 L . Ed . 
 22 ( 1940 ). 
 Several exceptions , recognized in this Court ' s decisions , temper this basic rule In a class action , for example , a person not named as a party may be bound by a judgment on the merits of the action , if she was adequately represented by a party who actively participated in the litigation . 
@@ -326,7 +326,7 @@ See Tyus , 93 F . 3d , at 455 ( conceding that " there is no clear test for dete
 Preclusion doctrine , it should be recalled , is intended * 2177 to reduce the burden of litigation on courts and parties . 
 Cf . 
 Montana , 440 U . S ., at 153 - 154 , 99 S . Ct . 970 . 
-In this area of the law , we agree , "` crisp rules with sharp corners ' are preferable to a round - about doctrine of opaque standards ." 
+" In this area of the law ," we agree , "` crisp rules with sharp corners ' are preferable to a round - about doctrine of opaque standards ." 
 Bittinger v . Tecumseh Products Co ., 123 F . 3d 877 , 881 ( C . A . 6 1997 ). 
 Finally , relying on the Eighth Circuit ' s decision in Tyus , 93 F . 3d , at 456 , the FAA maintains that nonparty preclusion should apply more broadly in " public - law " litigation than in " private - law " controversies . 
 To support this position , the FAA offers two arguments . 

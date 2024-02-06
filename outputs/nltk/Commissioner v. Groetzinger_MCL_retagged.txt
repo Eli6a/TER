@@ -53,9 +53,9 @@ Despite this , the Code has never contained a definition of the words " trade or
 [ 8 ] In one of its early tax cases , Flint v . Stone Tracy Co ., 220 U . S . 107 ( 1911 ), the Court was concerned with the Corporation Tax imposed by § 38 of the Tariff Act of 1909 , ch . 
 6 , 36 Stat . 
 112 - 117 , and the status of being engaged in business . 
-It said : ` Business ' is a very comprehensive term * 28 and embraces everything about which a person can be employed . 
+It said : " ` Business ' is a very comprehensive term * 28 and embraces everything about which a person can be employed ." 
 220 U . S ., at 171 . 
-It embraced the Bouvier Dictionary definition : That which occupies the time , attention and labor of men for the purpose of a livelihood or profit . 
+It embraced the Bouvier Dictionary definition : " That which occupies the time , attention and labor of men for the purpose of a livelihood or profit ." 
 Ibid . 
 See also Helvering v . Horst , 311 U . S . 112 , 118 ( 1940 ). 
 And Justice Frankfurter has observed that " we assume that Congress uses common words in their popular meaning , as used in the common speech of men ." 
@@ -73,7 +73,7 @@ In Deputy v . Du Pont , 308 U . S . 488 ( 1940 ), the Court was concerned with w
 In ascertaining whether carrying charges on short sales of stock were deductible as ordinary and necessary expenses of the taxpayer ' s business , the Court assumed that the activities of the taxpayer in conserving and enhancing his estate constituted a trade or business , but nevertheless disallowed the * 29 claimed deductions because they were not " ordinary " or " necessary ." 
 308 U . S ., at 493 - 497 . 
 Justice Frankfurter , in a concurring opinion joined by Justice Reed , did not join the majority . 
-He took the position that whether the taxpayer ' s activities constituted a trade or business was " open for determination ," id ., at 499 , and observed : `. 
+He took the position that whether the taxpayer ' s activities constituted a trade or business was " open for determination ," id ., at 499 , and observed : " `. 
 . 
 . 
 carrying on any trade or business ,' within the contemplation of § 23 ( a ), involves holding one ' s self out to others as engaged in the selling of goods or services . 
@@ -82,7 +82,7 @@ This the taxpayer did not do .
 . 
 . 
 Without elaborating the reasons for this construction and not unmindful of opposing considerations , including appropriate regard for administrative practice , I prefer to make the conclusion explicit instead of making the hypothetical litigation - breeding assumption that this taxpayer ' s activities , for which expenses were sought to be deducted , did constitute a ` trade or business .' 
-Ibid . 
+" Ibid . 
 Next came Higgins v . Commissioner , 312 U . S . 212 ( 1941 ). 
 There the Court , in a bare and brief unanimous opinion , ruled that salaries and other expenses incident to looking after one ' s own investments in bonds and stocks were not deductible under § 23 ( a ) of the Revenue Act of 1932 , 47 Stat . 
 179 , as expenses paid or incurred in carrying on a trade or business . 
@@ -102,14 +102,14 @@ Snow v . Commissioner , 416 U . S . 500 ( 1974 ), concerned a taxpayer who had a
 On audit of his 1966 return , a claimed deduction under § 174 ( a )( 1 ) of the 1954 Code for his pro rata share of the partnership ' s operating loss was disallowed . 
 The Tax Court and the Sixth Circuit upheld that disallowance . 
 This Court reversed . 
-Justice Douglas , writing for the eight Justices who participated , observed : Section 174 was enacted in 1954 to dilute some of the conception of ` ordinary and necessary ' business expenses under § 162 ( a ) ( then § 23 ( a )( 1 ) of the Internal Revenue Code of 1939 ) adumbrated by Mr . Justice Frankfurter in a concurring opinion in Deputy v . Du Pont . 
+Justice Douglas , writing for the eight Justices who participated , observed : " Section 174 was enacted in 1954 to dilute some of the conception of ` ordinary and necessary ' business expenses under § 162 ( a ) ( then § 23 ( a )( 1 ) of the Internal Revenue Code of 1939 ) adumbrated by Mr . Justice Frankfurter in a concurring opinion in Deputy v . Du Pont . 
 . 
 . 
 where he said that the section in question . 
 . 
 . 
 ` involves holding one ' s self out to others as engaged in the selling of goods or services .' 
-416 U . S ., at 502 - 503 . 
+" 416 U . S ., at 502 - 503 . 
 He went on to state , id ., at 503 , that § 162 ( a ) " is more narrowly written than is § 174 ." 
 From these observations and decisions , we conclude ( 1 ) that , to be sure , the statutory words are broad and comprehensive ( Flint ); ( 2 ) that , however , expenses incident to caring for one ' s own investments , even though that endeavor is full time , are not deductible as paid or incurred in carrying on a trade or business ( Higgins ; City Bank ; Pyne ); ( 3 ) that the opposite conclusion may follow for an active trader ( Snyder ); ( 4 ) that Justice Frankfurter ' s attempted gloss upon the decision in Du Pont was not adopted by the Court in that case ; ( 5 ) that the Court , indeed , later characterized it as an " adumbration " ( Snow ); and ( 6 ) that the Frankfurter observation , specifically or by implication , never has been accepted * 32 as law by a majority opinion of the Court , and more than once has been totally ignored . 
 We must regard the Frankfurter gloss merely as a two - Justice pronouncement in a passing moment and , while entitled to respect , as never having achieved the status of a Court ruling . 

@@ -10,7 +10,7 @@ def pipeline(path, tokeniz="tok", model='mod'):
     #raw_toks = tokenizer(text, tokenizer=tokeniz)
     experts =  getExperts("../dataset_v20230110.tsv",path)
     #print("experts", experts)
-    experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
+    experts = [tokenizer(sentence.encode('latin1').decode('utf-8'), tokenizer=tokeniz) for sentence in experts]
     #print("tokens experts",experts)
     seg = segmentation(text, model=model)
     saveSegmentation(path, seg, model)
