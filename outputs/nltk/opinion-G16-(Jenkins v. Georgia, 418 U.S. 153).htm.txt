@@ -1,7 +1,7 @@
 MR . JUSTICE REHNQUIST delivered the opinion of the Court . 
 Appellant was convicted in Georgia of the crime of distributing obscene material . 
 His conviction , in March 1972 , was for showing the film " Carnal Knowledge " in a movie theater in Albany , Georgia . 
-The jury that found appellant guilty was instructed on obscenity pursuant to the Georgia statute , which defines obscene material in language similar to that of the definition of obscenity set forth in this Court ' s plurality opinion in Memoirs v . Massachusetts , 383 U . S . 413 , 418 ( 1966 ): Material is obscene if considered as a whole , applying community standards , its predominant appeal is to prurient interest , that is , a shameful or morbid * 155 interest in nudity , sex or excretion , and utterly without redeeming social value and if , in addition , it goes substantially beyond customary limits of candor in describing or representing such matters . 
+The jury that found appellant guilty was instructed on obscenity pursuant to the Georgia statute , which defines obscene material in language similar to that of the definition of obscenity set forth in this Court ' s plurality opinion in Memoirs v . Massachusetts , 383 U . S . 413 , 418 ( 1966 ): " Material is obscene if considered as a whole , applying community standards , its predominant appeal is to prurient interest , that is , a shameful or morbid * 155 interest in nudity , sex or excretion , and utterly without redeeming social value and if , in addition , it goes substantially beyond customary limits of candor in describing or representing such matters ." 
 Ga . Code Ann . 
 § 26 - 2101 ( b ) ( 1972 ). 
 [ 1 ] Ga . Code Ann . 
@@ -36,13 +36,13 @@ There is little to be found in the record about the film " Carnal Knowledge " ot
 [ 5 ] However , appellant has supplied a variety of information and critical commentary , the authenticity of which appellee does not dispute . 
 The film appeared on many " Ten Best " lists for 1971 , the year in which it was released . 
 Many but not all of the reviews were favorable . 
-We believe that the following passage from a review which appeared in the Saturday Review is a reasonably accurate description of the film : [ It is basically a story ] of two young college men , roommates and lifelong friends forever preoccupied with their sex lives . 
+We believe that the following passage from a review which appeared in the Saturday Review is a reasonably accurate description of the film : "[ It is basically a story ] of two young college men , roommates and lifelong friends forever preoccupied with their sex lives . 
 Both are first met as virgins . 
 Nicholson is the more knowledgeable and attractive of the two ; speaking colloquially , he is a burgeoning bastard . 
 Art Garfunkel is his friend , the nice but troubled guy straight out of those early Feiffer cartoons , but real . 
 He falls in love with the lovely Susan ( Candice Bergen ) and unknowingly shares her with his college buddy . 
 As the ` safer ' one of the two , he is selected by Susan for marriage . 
-The time changes . 
+" The time changes . 
 Both men are in their thirties , pursuing successful careers in New York . 
 Nicholson has been running through an average of a dozen women a year but has never managed to meet the right one , the one with the full bosom , the good legs , * 159 the properly rounded bottom . 
 More than that , each and every one is a threat to his malehood and peace of mind , until at last , in a bar , he finds Ann - Margret , an aging bachelor girl with striking cleavage and , quite obviously , something of a past . 
@@ -56,11 +56,11 @@ And later , even more foolishly , again ."
 We turn to the language of Miller to evaluate appellee ' s contention . 
 Miller states that the questions of what appeals to the " prurient interest " and what is " patently offensive " under the obscenity test which it formulates are " essentially questions of fact ." 
 413 U . S ., at 30 . 
-When triers of fact are asked to decide whether ` the average person , applying contemporary community standards ' would consider certain materials ` prurient ' it would be unrealistic to require that the answer be based on some abstract formulation . 
+" When triers of fact are asked to decide whether ` the average person , applying contemporary community standards ' would consider certain materials ` prurient ' it would be unrealistic to require that the answer be based on some abstract formulation . 
 . 
 . 
 . 
-To require a State to structure obscenity proceedings around evidence of a national ` community standard ' would be an exercise in futility . 
+To require a State to structure obscenity proceedings around evidence of a national ` community standard ' would be an exercise in futility ." 
 Ibid . 
 We held in Paris Adult Theatre I v . Slaton , 413 U . S . 49 ( 1973 ), decided on the same day , that expert testimony * 160 as to obscenity is not necessary when the films at issue are themselves placed in evidence . 
 Id ., at 56 . 

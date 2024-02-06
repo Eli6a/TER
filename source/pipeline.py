@@ -17,8 +17,8 @@ def pipeline(path, tokeniz="tok", model='mod'):
     print("seg : ",seg)
     
     # sklearn
-    if (model == 'naive' or model == 'nltk'):
-        print(eval_sklearn(experts, seg))
+    #print(eval_sklearn(experts, seg)) 
+    
     return eval(experts, seg)
 
 
@@ -44,7 +44,7 @@ def evaluation(dir_path, tokeniz="tok", model='mod'):
         p, r, f = pipeline(file, tokeniz, model)
         #pd.DataFrame({'precision':p,'recall':r, 'F1_score':f, 'file':file}, index=[0])
         df.loc[len(df)] = [model, file.split('/')[-1], p, r, f]
-    df.to_csv("../stats/doc_train_stats.csv",index=False)
+    df.to_csv("../stats/doc_train_stats_" + model + ".csv",index=False)
     return df["recall"].mean(), df["precision"].mean(), df["F1_score"].mean()
 
 def saveSegmentation(path, seg, model):
