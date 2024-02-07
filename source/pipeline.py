@@ -10,7 +10,7 @@ def pipeline(path, tokeniz="tok", model='mod'):
     #raw_toks = tokenizer(text, tokenizer=tokeniz)
     experts =  getExperts("../dataset_v20230110.tsv",path)
     #print("experts", experts)
-    experts = [tokenizer(sentence.encode('latin1').decode('utf-8'), tokenizer=tokeniz) for sentence in experts]
+    experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
     #print("tokens experts",experts)
     seg = segmentation(text, model=model)
     saveSegmentation(path, seg, model)
@@ -33,7 +33,7 @@ def readfile(path):
 
 def getExperts(pathExp, otherPath):
     title = otherPath.split("/")[-1].split('.txt')[0]
-    df = pd.read_csv(pathExp, delimiter="	", quoting=csv.QUOTE_NONE, encoding='latin-1')
+    df = pd.read_csv(pathExp, delimiter="	", quoting=csv.QUOTE_NONE, encoding='utf-8')
     content = df.loc[df["document"] == title]["content"]
     return list(content)
 
