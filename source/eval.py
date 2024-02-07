@@ -47,10 +47,18 @@ def tokens_to_0_1(tokens):
     return tot_array
 
 def eval_sklearn(expert, segmented):
+    print("expert",len(expert))
+    print("segmented", len(segmented))
+    """
+    for seg in segmented : 
+        print("lens : ", len(seg))
+    for seg in expert : 
+        print("exp : ", len(seg))
+    """
     expert = tokens_to_0_1(expert)
     segmented = tokens_to_0_1(segmented)
-    print("expert", expert)
-    print("segmented", segmented)
+    print("expert",len(expert), expert)
+    print("segmented", len(segmented), segmented)
     precision = precision_score(expert, segmented)
     recall = recall_score(expert, segmented)
     f1 = f1_score(expert, segmented)

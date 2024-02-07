@@ -26,7 +26,10 @@ def segmentation(text, tokenizer=None, model=None):
             return sentences
         
         case "nltk":
-            sentences = [custom_tok(sent, tokenizer="nltk-punkt")for sent in sent_tokenize(text)]
+            if tokenizer is None :
+                sentences = [custom_tok(sent, tokenizer="nltk-punkt")for sent in sent_tokenize(text)]
+            else : 
+                sentences = [custom_tok(sent, tokenizer="spacy")for sent in sent_tokenize(text)]
             #print("sentences nltk :", sentences)
             return sentences#tokens
         
