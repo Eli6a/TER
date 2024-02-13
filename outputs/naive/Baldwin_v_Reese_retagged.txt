@@ -1,134 +1,134 @@
-* 29 JUSTICE BREYER delivered the opinion of the Court . 
-Before seeking a federal writ of habeas corpus , a state prisoner must exhaust available state remedies , 28 U. 
-S. 
-C. 
-§ 2254 ( b ) ( 1 ) , thereby giving the State the `` ` `` opportunity to pass upon and correct '' alleged violations of its prisoners ' federal rights . 
-' '' Duncan v. 
-Henry , 513 U. 
-S. 
-364 , 365 ( 1995 ) ( per curiam ) ( quoting Picard v. 
-Connor , 404 U. 
-S. 
-270 , 275 ( 1971 ) ) . 
-To provide the State with the necessary `` opportunity , '' the prisoner must `` fairly present '' his claim in each appropriate state court ( including a state supreme court with powers of discretionary review ) , thereby alerting that court to the federal nature of the claim . 
-Duncan , supra , at 365-366 ; O'Sullivan v. 
-Boerckel , 526 U. 
-S. 
-838 , 845 ( 1999 ) . 
-This case focuses upon the requirement of `` fair presentation . 
-'' Michael Reese , the respondent , appealed his state-court kidnaping and attempted sodomy convictions and sentences through Oregon 's state court system . 
-He then brought collateral relief proceedings in the state courts ( where he was represented by appointed counsel ) . 
-After the lower courts denied him collateral relief , Reese filed a petition for discretionary review in the Oregon Supreme Court . 
-The petition made several different legal claims . 
-In relevant part , the petition asserted that Reese had received `` ineffective assistance of both trial court and appellate court counsel . 
-'' App . 
-47 . 
-The petition added that `` his imprisonment * 30 is in violation of [ Oregon state law ] . 
-'' Id. 
-, at 48 . 
-It said that his trial counsel 's conduct violated several provisions of the Federal Constitution . 
-Ibid . 
-But it did not say that his separate appellate `` ineffective assistance '' claim violated federal law . 
-The Oregon Supreme Court denied review . 
-Reese ultimately sought a federal writ of habeas corpus , raising , among other claims , a federal constitutional claim that his appellate counsel did not effectively represent him during one of his direct state-court appeals . 
-The Federal District Court held that Reese had not `` fairly presented '' his federal `` ineffective assistance of appellate counsel '' claim to the higher state courts because his brief in the state appeals court had not indicated that he was complaining about a violation of federal law . 
-A divided panel of the Ninth Circuit reversed the District Court . 
-282 F. 
-3d 1184 ( 2002 ) . 
-Although the majority apparently believed that Reese 's petition itself did not alert the Oregon Supreme Court to the federal nature of the appellate `` ineffective assistance '' claim , it did not find that fact determinative . 
-Id. 
-, at 1193-1194 . 
-Rather , it found that Reese had satisfied the `` fair presentation '' requirement because the justices of the Oregon Supreme Court had had `` the opportunity to read . 
+* 2 9 J U S T I C E B R E Y E R d e l i v e r e d t h e o p i n i o n o f t h e C o u r t . 
+B e f o r e s e e k i n g a f e d e r a l w r i t o f h a b e a s c o r p u s , a s t a t e p r i s o n e r m u s t e x h a u s t a v a i l a b l e s t a t e r e m e d i e s , 2 8 U . 
+S . 
+C . 
+§ 2 2 5 4 ( b ) ( 1 ) , t h e r e b y g i v i n g t h e S t a t e t h e ` ` ` ` ` o p p o r t u n i t y t o p a s s u p o n a n d c o r r e c t ' ' a l l e g e d v i o l a t i o n s o f i t s p r i s o n e r s ' f e d e r a l r i g h t s . 
+' ' ' D u n c a n v . 
+H e n r y , 5 1 3 U . 
+S . 
+3 6 4 , 3 6 5 ( 1 9 9 5 ) ( p e r c u r i a m ) ( q u o t i n g P i c a r d v . 
+C o n n o r , 4 0 4 U . 
+S . 
+2 7 0 , 2 7 5 ( 1 9 7 1 ) ) . 
+T o p r o v i d e t h e S t a t e w i t h t h e n e c e s s a r y ` ` o p p o r t u n i t y , ' ' t h e p r i s o n e r m u s t ` ` f a i r l y p r e s e n t ' ' h i s c l a i m i n e a c h a p p r o p r i a t e s t a t e c o u r t ( i n c l u d i n g a s t a t e s u p r e m e c o u r t w i t h p o w e r s o f d i s c r e t i o n a r y r e v i e w ) , t h e r e b y a l e r t i n g t h a t c o u r t t o t h e f e d e r a l n a t u r e o f t h e c l a i m . 
+D u n c a n , s u p r a , a t 3 6 5 - 3 6 6 ; O ' S u l l i v a n v . 
+B o e r c k e l , 5 2 6 U . 
+S . 
+8 3 8 , 8 4 5 ( 1 9 9 9 ) . 
+T h i s c a s e f o c u s e s u p o n t h e r e q u i r e m e n t o f ` ` f a i r p r e s e n t a t i o n . 
+' ' M i c h a e l R e e s e , t h e r e s p o n d e n t , a p p e a l e d h i s s t a t e - c o u r t k i d n a p i n g a n d a t t e m p t e d s o d o m y c o n v i c t i o n s a n d s e n t e n c e s t h r o u g h O r e g o n ' s s t a t e c o u r t s y s t e m . 
+H e t h e n b r o u g h t c o l l a t e r a l r e l i e f p r o c e e d i n g s i n t h e s t a t e c o u r t s ( w h e r e h e w a s r e p r e s e n t e d b y a p p o i n t e d c o u n s e l ) . 
+A f t e r t h e l o w e r c o u r t s d e n i e d h i m c o l l a t e r a l r e l i e f , R e e s e f i l e d a p e t i t i o n f o r d i s c r e t i o n a r y r e v i e w i n t h e O r e g o n S u p r e m e C o u r t . 
+T h e p e t i t i o n m a d e s e v e r a l d i f f e r e n t l e g a l c l a i m s . 
+I n r e l e v a n t p a r t , t h e p e t i t i o n a s s e r t e d t h a t R e e s e h a d r e c e i v e d ` ` i n e f f e c t i v e a s s i s t a n c e o f b o t h t r i a l c o u r t a n d a p p e l l a t e c o u r t c o u n s e l . 
+' ' A p p . 
+4 7 . 
+T h e p e t i t i o n a d d e d t h a t ` ` h i s i m p r i s o n m e n t * 3 0 i s i n v i o l a t i o n o f [ O r e g o n s t a t e l a w ] . 
+' ' I d . 
+, a t 4 8 . 
+I t s a i d t h a t h i s t r i a l c o u n s e l ' s c o n d u c t v i o l a t e d s e v e r a l p r o v i s i o n s o f t h e F e d e r a l C o n s t i t u t i o n . 
+I b i d . 
+B u t i t d i d n o t s a y t h a t h i s s e p a r a t e a p p e l l a t e ` ` i n e f f e c t i v e a s s i s t a n c e ' ' c l a i m v i o l a t e d f e d e r a l l a w . 
+T h e O r e g o n S u p r e m e C o u r t d e n i e d r e v i e w . 
+R e e s e u l t i m a t e l y s o u g h t a f e d e r a l w r i t o f h a b e a s c o r p u s , r a i s i n g , a m o n g o t h e r c l a i m s , a f e d e r a l c o n s t i t u t i o n a l c l a i m t h a t h i s a p p e l l a t e c o u n s e l d i d n o t e f f e c t i v e l y r e p r e s e n t h i m d u r i n g o n e o f h i s d i r e c t s t a t e - c o u r t a p p e a l s . 
+T h e F e d e r a l D i s t r i c t C o u r t h e l d t h a t R e e s e h a d n o t ` ` f a i r l y p r e s e n t e d ' ' h i s f e d e r a l ` ` i n e f f e c t i v e a s s i s t a n c e o f a p p e l l a t e c o u n s e l ' ' c l a i m t o t h e h i g h e r s t a t e c o u r t s b e c a u s e h i s b r i e f i n t h e s t a t e a p p e a l s c o u r t h a d n o t i n d i c a t e d t h a t h e w a s c o m p l a i n i n g a b o u t a v i o l a t i o n o f f e d e r a l l a w . 
+A d i v i d e d p a n e l o f t h e N i n t h C i r c u i t r e v e r s e d t h e D i s t r i c t C o u r t . 
+2 8 2 F . 
+3 d 1 1 8 4 ( 2 0 0 2 ) . 
+A l t h o u g h t h e m a j o r i t y a p p a r e n t l y b e l i e v e d t h a t R e e s e ' s p e t i t i o n i t s e l f d i d n o t a l e r t t h e O r e g o n S u p r e m e C o u r t t o t h e f e d e r a l n a t u r e o f t h e a p p e l l a t e ` ` i n e f f e c t i v e a s s i s t a n c e ' ' c l a i m , i t d i d n o t f i n d t h a t f a c t d e t e r m i n a t i v e . 
+I d . 
+, a t 1 1 9 3 - 1 1 9 4 . 
+R a t h e r , i t f o u n d t h a t R e e s e h a d s a t i s f i e d t h e ` ` f a i r p r e s e n t a t i o n ' ' r e q u i r e m e n t b e c a u s e t h e j u s t i c e s o f t h e O r e g o n S u p r e m e C o u r t h a d h a d ` ` t h e o p p o r t u n i t y t o r e a d . 
 . 
 . 
-the lower [ Oregon ] court decision claimed to be in error before deciding whether to grant discretionary review . 
-'' Id. 
-, at 1194 ( emphasis added ) . 
-Had they read the opinion of the lower state trial court , the majority added , the justices would have , or should have , realized that Reese 's claim rested upon federal law . 
-Ibid . 
-We granted certiorari to determine whether the Ninth Circuit has correctly interpreted the `` fair presentation '' requirement . 
-We begin by assuming that Reese 's petition by itself did not properly alert the Oregon Supreme Court to the federal nature of Reese 's claim . 
-On that assumption , Reese failed * 31 to meet the `` fair presentation '' standard , and the Ninth Circuit was wrong to hold the contrary . 
-We recognize that the justices of the Oregon Supreme Court did have an `` opportunity '' to read the lower court opinions in Reese 's case . 
-That opportunity means that the judges could have read them . 
-But to say that a petitioner `` fairly presents '' a federal claim when an appellate judge can discover that claim only by reading lower court opinions in the case is to say that those judges must read the lower court opinions  for otherwise they would forfeit the State 's opportunity to decide that federal claim in the first instance . 
-In our view , federal habeas corpus law does not impose such a requirement . 
-For one thing , the requirement would force state appellate judges to alter their ordinary review practices . 
-Appellate judges , of course , will often read lower court opinions , but they do not necessarily do so in every case . 
-Sometimes an appellate court can decide a legal question on the basis of the briefs alone . 
-That is particularly so where the question at issue is whether to exercise a discretionary power of review , i. 
-e. 
-, whether to review the merits of a lower court decision . 
-In such instances , the nature of the issue may matter more than does the legal validity of the lower court decision . 
-And the nature of the issue alone may lead the court to decide not to hear the case . 
-Indeed , the Oregon Supreme Court is a court with a discretionary power of review . 
-And Oregon Rule of Appellate Procedure 9.05 
-( 7 ) ( 2003 ) instructs litigants seeking discretionary review to identify clearly in the petition itself the legal questions presented , why those questions have special importance , a short statement of relevant facts , and the reasons for reversal , `` including appropriate authorities . 
-'' For another thing , the opinion-reading requirement would impose a serious burden upon judges of state appellate courts , particularly those with discretionary review powers . 
-Those courts have heavy workloads , which would be significantly * 32 increased if their judges had to read through lower court opinions or briefs in every instance . 
-See National Center for State Courts , State Court Caseload Statistics 2002 , pp . 
-106-110 ( Table 2 ) Finally , we do not find such a requirement necessary to avoid imposing unreasonable procedural burdens upon state prisoners who may eventually seek habeas corpus . 
-A litigant wishing to raise a federal issue can easily indicate the federal law basis for his claim in a state-court petition or brief , for example , by citing in conjunction with the claim the federal source of law on which he relies or a case deciding such a claim on federal grounds , or by simply labeling the claim `` federal . 
-'' For these reasons , we believe that the requirement imposed by the Ninth Circuit would unjustifiably undercut the considerations of federal-state comity that the exhaustion requirement seeks to promote . 
-We consequently hold that ordinarily a state prisoner does not `` fairly present '' a claim to a state court if that court must read beyond a petition or a brief ( or a similar document ) that does not alert it to the presence of a federal claim in order to find material , such as a lower court opinion in the case , that does so . 
-Reese argues in the alternative that it is wrong to assume that his petition by itself failed to alert the Oregon Supreme Court to the federal nature of his `` ineffective assistance of appellate counsel '' claim . 
-We do not agree . 
-Reese must concede that his petition does not explicitly say that the words `` ineffective assistance of appellate counsel '' refer to a federal claim . 
-The petition refers to provisions of the Federal Constitution in respect to other claims but not in respect to this one . 
-The petition provides no citation of any case that might have alerted the court to the alleged federal nature of the claim . 
-And the petition does not even contain a factual description supporting the claim . 
-Cf . 
-Gray v. 
-Netherland , 518 U. 
-S. 
-152 , 163 ( 1996 ) ; Duncan , 513 U. 
-S. 
-, at 366 . 
-Reese asserts that the petition nonetheless `` fairly presents '' a federal `` ineffective assistance of appellate counsel '' claim for two reasons . 
-First , he says that the word `` ineffective '' is a term of art in Oregon that refers only to federal-law claims and not to similar state-law claims , which , he adds , in Oregon are solely referred to as `` inadequate assistance '' claims . 
-And thus the Oregon Supreme Court should have known , from his use of the word `` ineffective , '' that his claim was federal . 
-Reese , however , has not demonstrated that Oregon law uses the words `` ineffective assistance '' in the manner he suggests , that is , as referring only to a federal-law claim . 
-See , e. 
-g. 
-, Lichau v. 
-Baldwin , 166 Ore. 
-App . 
-411 , 415 , 417 , 999 P. 
-2d 1207 , 1210 , 1211 ( 2000 ) ( using `` ineffective assistance '' to refer to violations of the Oregon Constitution ) ev 'd in part , 333 Ore. 
-350 , 39 P. 
-3d 851 ( 2002 ) . 
-Indeed , Reese 's own petition uses both phrases  `` ineffective assistance '' and `` inadequate assistance ''  at different points to refer to what is apparently a single claim . 
-Second , Reese says that in Oregon the standards for adjudicating state and federal `` inadequate/ineffective appellate assistance '' claims are identical . 
-He adds that , where that identity exists , a petitioner need not indicate a claim 's federal nature , because , by raising a state-law claim , he would necessarily `` fairly present '' the corresponding federal claim . 
-* 34 However , the Ninth Circuit did not address this argument , and our reading of the briefs filed in the Ninth Circuit leads us to conclude that Reese did not there seek consideration of the argument in that court . 
-Indeed , the argument first made its appearance in this Court in Reese 's brief on the merits . 
-Under this Court 's Rule 15.2 
-, `` a nonjurisdictional argument not raised in a respondent 's brief in opposition to a petition for a writ of certiorari may be deemed waived . 
-'' Caterpillar Inc. 
-v. 
-Lewis , 519 U. 
-S. 
-61 , 75 , n. 
-13 ( 1996 ) ( internal quotation marks omitted ) . 
-This argument falls squarely within the rule . 
-The complex nature of Reese 's claim and its broad implications suggest that its consideration by the lower courts would help in its resolution . 
-Hence , without expressing any view on the merits of the issue , we exercise our Rule 15.2 
-discretion and deem the argument waived in this Court . 
-See , e. 
-g. 
-, Roberts v. 
-Galen of Va. 
-, Inc. 
-, 525 U. 
-S. 
-249 , 253-254 ( 1999 ) ( per curiam ) ; South Central Bell Telephone Co. 
-v. 
-Alabama , 526 U. 
-S. 
-160 , 171 ( 1999 ) ; cf . 
-Sprietsma v. 
-Mercury Marine , 537 U. 
-S. 
-51 , 56 , n. 
-4 ( 2002 ) . 
-For these reasons , the judgment of the Ninth Circuit is Reversed . 
+t h e l o w e r [ O r e g o n ] c o u r t d e c i s i o n c l a i m e d t o b e i n e r r o r b e f o r e d e c i d i n g w h e t h e r t o g r a n t d i s c r e t i o n a r y r e v i e w . 
+' ' I d . 
+, a t 1 1 9 4 ( e m p h a s i s a d d e d ) . 
+H a d t h e y r e a d t h e o p i n i o n o f t h e l o w e r s t a t e t r i a l c o u r t , t h e m a j o r i t y a d d e d , t h e j u s t i c e s w o u l d h a v e , o r s h o u l d h a v e , r e a l i z e d t h a t R e e s e ' s c l a i m r e s t e d u p o n f e d e r a l l a w . 
+I b i d . 
+W e g r a n t e d c e r t i o r a r i t o d e t e r m i n e w h e t h e r t h e N i n t h C i r c u i t h a s c o r r e c t l y i n t e r p r e t e d t h e ` ` f a i r p r e s e n t a t i o n ' ' r e q u i r e m e n t . 
+W e b e g i n b y a s s u m i n g t h a t R e e s e ' s p e t i t i o n b y i t s e l f d i d n o t p r o p e r l y a l e r t t h e O r e g o n S u p r e m e C o u r t t o t h e f e d e r a l n a t u r e o f R e e s e ' s c l a i m . 
+O n t h a t a s s u m p t i o n , R e e s e f a i l e d * 3 1 t o m e e t t h e ` ` f a i r p r e s e n t a t i o n ' ' s t a n d a r d , a n d t h e N i n t h C i r c u i t w a s w r o n g t o h o l d t h e c o n t r a r y . 
+W e r e c o g n i z e t h a t t h e j u s t i c e s o f t h e O r e g o n S u p r e m e C o u r t d i d h a v e a n ` ` o p p o r t u n i t y ' ' t o r e a d t h e l o w e r c o u r t o p i n i o n s i n R e e s e ' s c a s e . 
+T h a t o p p o r t u n i t y m e a n s t h a t t h e j u d g e s c o u l d h a v e r e a d t h e m . 
+B u t t o s a y t h a t a p e t i t i o n e r ` ` f a i r l y p r e s e n t s ' ' a f e d e r a l c l a i m w h e n a n a p p e l l a t e j u d g e c a n d i s c o v e r t h a t c l a i m o n l y b y r e a d i n g l o w e r c o u r t o p i n i o n s i n t h e c a s e i s t o s a y t h a t t h o s e j u d g e s m u s t r e a d t h e l o w e r c o u r t o p i n i o n s  f o r o t h e r w i s e t h e y w o u l d f o r f e i t t h e S t a t e ' s o p p o r t u n i t y t o d e c i d e t h a t f e d e r a l c l a i m i n t h e f i r s t i n s t a n c e . 
+I n o u r v i e w , f e d e r a l h a b e a s c o r p u s l a w d o e s n o t i m p o s e s u c h a r e q u i r e m e n t . 
+F o r o n e t h i n g , t h e r e q u i r e m e n t w o u l d f o r c e s t a t e a p p e l l a t e j u d g e s t o a l t e r t h e i r o r d i n a r y r e v i e w p r a c t i c e s . 
+A p p e l l a t e j u d g e s , o f c o u r s e , w i l l o f t e n r e a d l o w e r c o u r t o p i n i o n s , b u t t h e y d o n o t n e c e s s a r i l y d o s o i n e v e r y c a s e . 
+S o m e t i m e s a n a p p e l l a t e c o u r t c a n d e c i d e a l e g a l q u e s t i o n o n t h e b a s i s o f t h e b r i e f s a l o n e . 
+T h a t i s p a r t i c u l a r l y s o w h e r e t h e q u e s t i o n a t i s s u e i s w h e t h e r t o e x e r c i s e a d i s c r e t i o n a r y p o w e r o f r e v i e w , i . 
+e . 
+, w h e t h e r t o r e v i e w t h e m e r i t s o f a l o w e r c o u r t d e c i s i o n . 
+I n s u c h i n s t a n c e s , t h e n a t u r e o f t h e i s s u e m a y m a t t e r m o r e t h a n d o e s t h e l e g a l v a l i d i t y o f t h e l o w e r c o u r t d e c i s i o n . 
+A n d t h e n a t u r e o f t h e i s s u e a l o n e m a y l e a d t h e c o u r t t o d e c i d e n o t t o h e a r t h e c a s e . 
+I n d e e d , t h e O r e g o n S u p r e m e C o u r t i s a c o u r t w i t h a d i s c r e t i o n a r y p o w e r o f r e v i e w . 
+A n d O r e g o n R u l e o f A p p e l l a t e P r o c e d u r e 9 . 0 5 
+( 7 ) ( 2 0 0 3 ) i n s t r u c t s l i t i g a n t s s e e k i n g d i s c r e t i o n a r y r e v i e w t o i d e n t i f y c l e a r l y i n t h e p e t i t i o n i t s e l f t h e l e g a l q u e s t i o n s p r e s e n t e d , w h y t h o s e q u e s t i o n s h a v e s p e c i a l i m p o r t a n c e , a s h o r t s t a t e m e n t o f r e l e v a n t f a c t s , a n d t h e r e a s o n s f o r r e v e r s a l , ` ` i n c l u d i n g a p p r o p r i a t e a u t h o r i t i e s . 
+' ' F o r a n o t h e r t h i n g , t h e o p i n i o n - r e a d i n g r e q u i r e m e n t w o u l d i m p o s e a s e r i o u s b u r d e n u p o n j u d g e s o f s t a t e a p p e l l a t e c o u r t s , p a r t i c u l a r l y t h o s e w i t h d i s c r e t i o n a r y r e v i e w p o w e r s . 
+T h o s e c o u r t s h a v e h e a v y w o r k l o a d s , w h i c h w o u l d b e s i g n i f i c a n t l y * 3 2 i n c r e a s e d i f t h e i r j u d g e s h a d t o r e a d t h r o u g h l o w e r c o u r t o p i n i o n s o r b r i e f s i n e v e r y i n s t a n c e . 
+S e e N a t i o n a l C e n t e r f o r S t a t e C o u r t s , S t a t e C o u r t C a s e l o a d S t a t i s t i c s 2 0 0 2 , p p . 
+1 0 6 - 1 1 0 ( T a b l e 2 ) F i n a l l y , w e d o n o t f i n d s u c h a r e q u i r e m e n t n e c e s s a r y t o a v o i d i m p o s i n g u n r e a s o n a b l e p r o c e d u r a l b u r d e n s u p o n s t a t e p r i s o n e r s w h o m a y e v e n t u a l l y s e e k h a b e a s c o r p u s . 
+A l i t i g a n t w i s h i n g t o r a i s e a f e d e r a l i s s u e c a n e a s i l y i n d i c a t e t h e f e d e r a l l a w b a s i s f o r h i s c l a i m i n a s t a t e - c o u r t p e t i t i o n o r b r i e f , f o r e x a m p l e , b y c i t i n g i n c o n j u n c t i o n w i t h t h e c l a i m t h e f e d e r a l s o u r c e o f l a w o n w h i c h h e r e l i e s o r a c a s e d e c i d i n g s u c h a c l a i m o n f e d e r a l g r o u n d s , o r b y s i m p l y l a b e l i n g t h e c l a i m ` ` f e d e r a l . 
+' ' F o r t h e s e r e a s o n s , w e b e l i e v e t h a t t h e r e q u i r e m e n t i m p o s e d b y t h e N i n t h C i r c u i t w o u l d u n j u s t i f i a b l y u n d e r c u t t h e c o n s i d e r a t i o n s o f f e d e r a l - s t a t e c o m i t y t h a t t h e e x h a u s t i o n r e q u i r e m e n t s e e k s t o p r o m o t e . 
+W e c o n s e q u e n t l y h o l d t h a t o r d i n a r i l y a s t a t e p r i s o n e r d o e s n o t ` ` f a i r l y p r e s e n t ' ' a c l a i m t o a s t a t e c o u r t i f t h a t c o u r t m u s t r e a d b e y o n d a p e t i t i o n o r a b r i e f ( o r a s i m i l a r d o c u m e n t ) t h a t d o e s n o t a l e r t i t t o t h e p r e s e n c e o f a f e d e r a l c l a i m i n o r d e r t o f i n d m a t e r i a l , s u c h a s a l o w e r c o u r t o p i n i o n i n t h e c a s e , t h a t d o e s s o . 
+R e e s e a r g u e s i n t h e a l t e r n a t i v e t h a t i t i s w r o n g t o a s s u m e t h a t h i s p e t i t i o n b y i t s e l f f a i l e d t o a l e r t t h e O r e g o n S u p r e m e C o u r t t o t h e f e d e r a l n a t u r e o f h i s ` ` i n e f f e c t i v e a s s i s t a n c e o f a p p e l l a t e c o u n s e l ' ' c l a i m . 
+W e d o n o t a g r e e . 
+R e e s e m u s t c o n c e d e t h a t h i s p e t i t i o n d o e s n o t e x p l i c i t l y s a y t h a t t h e w o r d s ` ` i n e f f e c t i v e a s s i s t a n c e o f a p p e l l a t e c o u n s e l ' ' r e f e r t o a f e d e r a l c l a i m . 
+T h e p e t i t i o n r e f e r s t o p r o v i s i o n s o f t h e F e d e r a l C o n s t i t u t i o n i n r e s p e c t t o o t h e r c l a i m s b u t n o t i n r e s p e c t t o t h i s o n e . 
+T h e p e t i t i o n p r o v i d e s n o c i t a t i o n o f a n y c a s e t h a t m i g h t h a v e a l e r t e d t h e c o u r t t o t h e a l l e g e d f e d e r a l n a t u r e o f t h e c l a i m . 
+A n d t h e p e t i t i o n d o e s n o t e v e n c o n t a i n a f a c t u a l d e s c r i p t i o n s u p p o r t i n g t h e c l a i m . 
+C f . 
+G r a y v . 
+N e t h e r l a n d , 5 1 8 U . 
+S . 
+1 5 2 , 1 6 3 ( 1 9 9 6 ) ; D u n c a n , 5 1 3 U . 
+S . 
+, a t 3 6 6 . 
+R e e s e a s s e r t s t h a t t h e p e t i t i o n n o n e t h e l e s s ` ` f a i r l y p r e s e n t s ' ' a f e d e r a l ` ` i n e f f e c t i v e a s s i s t a n c e o f a p p e l l a t e c o u n s e l ' ' c l a i m f o r t w o r e a s o n s . 
+F i r s t , h e s a y s t h a t t h e w o r d ` ` i n e f f e c t i v e ' ' i s a t e r m o f a r t i n O r e g o n t h a t r e f e r s o n l y t o f e d e r a l - l a w c l a i m s a n d n o t t o s i m i l a r s t a t e - l a w c l a i m s , w h i c h , h e a d d s , i n O r e g o n a r e s o l e l y r e f e r r e d t o a s ` ` i n a d e q u a t e a s s i s t a n c e ' ' c l a i m s . 
+A n d t h u s t h e O r e g o n S u p r e m e C o u r t s h o u l d h a v e k n o w n , f r o m h i s u s e o f t h e w o r d ` ` i n e f f e c t i v e , ' ' t h a t h i s c l a i m w a s f e d e r a l . 
+R e e s e , h o w e v e r , h a s n o t d e m o n s t r a t e d t h a t O r e g o n l a w u s e s t h e w o r d s ` ` i n e f f e c t i v e a s s i s t a n c e ' ' i n t h e m a n n e r h e s u g g e s t s , t h a t i s , a s r e f e r r i n g o n l y t o a f e d e r a l - l a w c l a i m . 
+S e e , e . 
+g . 
+, L i c h a u v . 
+B a l d w i n , 1 6 6 O r e . 
+A p p . 
+4 1 1 , 4 1 5 , 4 1 7 , 9 9 9 P . 
+2 d 1 2 0 7 , 1 2 1 0 , 1 2 1 1 ( 2 0 0 0 ) ( u s i n g ` ` i n e f f e c t i v e a s s i s t a n c e ' ' t o r e f e r t o v i o l a t i o n s o f t h e O r e g o n C o n s t i t u t i o n ) e v ' d i n p a r t , 3 3 3 O r e . 
+3 5 0 , 3 9 P . 
+3 d 8 5 1 ( 2 0 0 2 ) . 
+I n d e e d , R e e s e ' s o w n p e t i t i o n u s e s b o t h p h r a s e s  ` ` i n e f f e c t i v e a s s i s t a n c e ' ' a n d ` ` i n a d e q u a t e a s s i s t a n c e ' '  a t d i f f e r e n t p o i n t s t o r e f e r t o w h a t i s a p p a r e n t l y a s i n g l e c l a i m . 
+S e c o n d , R e e s e s a y s t h a t i n O r e g o n t h e s t a n d a r d s f o r a d j u d i c a t i n g s t a t e a n d f e d e r a l ` ` i n a d e q u a t e / i n e f f e c t i v e a p p e l l a t e a s s i s t a n c e ' ' c l a i m s a r e i d e n t i c a l . 
+H e a d d s t h a t , w h e r e t h a t i d e n t i t y e x i s t s , a p e t i t i o n e r n e e d n o t i n d i c a t e a c l a i m ' s f e d e r a l n a t u r e , b e c a u s e , b y r a i s i n g a s t a t e - l a w c l a i m , h e w o u l d n e c e s s a r i l y ` ` f a i r l y p r e s e n t ' ' t h e c o r r e s p o n d i n g f e d e r a l c l a i m . 
+* 3 4 H o w e v e r , t h e N i n t h C i r c u i t d i d n o t a d d r e s s t h i s a r g u m e n t , a n d o u r r e a d i n g o f t h e b r i e f s f i l e d i n t h e N i n t h C i r c u i t l e a d s u s t o c o n c l u d e t h a t R e e s e d i d n o t t h e r e s e e k c o n s i d e r a t i o n o f t h e a r g u m e n t i n t h a t c o u r t . 
+I n d e e d , t h e a r g u m e n t f i r s t m a d e i t s a p p e a r a n c e i n t h i s C o u r t i n R e e s e ' s b r i e f o n t h e m e r i t s . 
+U n d e r t h i s C o u r t ' s R u l e 1 5 . 2 
+, ` ` a n o n j u r i s d i c t i o n a l a r g u m e n t n o t r a i s e d i n a r e s p o n d e n t ' s b r i e f i n o p p o s i t i o n t o a p e t i t i o n f o r a w r i t o f c e r t i o r a r i m a y b e d e e m e d w a i v e d . 
+' ' C a t e r p i l l a r I n c . 
+v . 
+L e w i s , 5 1 9 U . 
+S . 
+6 1 , 7 5 , n . 
+1 3 ( 1 9 9 6 ) ( i n t e r n a l q u o t a t i o n m a r k s o m i t t e d ) . 
+T h i s a r g u m e n t f a l l s s q u a r e l y w i t h i n t h e r u l e . 
+T h e c o m p l e x n a t u r e o f R e e s e ' s c l a i m a n d i t s b r o a d i m p l i c a t i o n s s u g g e s t t h a t i t s c o n s i d e r a t i o n b y t h e l o w e r c o u r t s w o u l d h e l p i n i t s r e s o l u t i o n . 
+H e n c e , w i t h o u t e x p r e s s i n g a n y v i e w o n t h e m e r i t s o f t h e i s s u e , w e e x e r c i s e o u r R u l e 1 5 . 2 
+d i s c r e t i o n a n d d e e m t h e a r g u m e n t w a i v e d i n t h i s C o u r t . 
+S e e , e . 
+g . 
+, R o b e r t s v . 
+G a l e n o f V a . 
+, I n c . 
+, 5 2 5 U . 
+S . 
+2 4 9 , 2 5 3 - 2 5 4 ( 1 9 9 9 ) ( p e r c u r i a m ) ; S o u t h C e n t r a l B e l l T e l e p h o n e C o . 
+v . 
+A l a b a m a , 5 2 6 U . 
+S . 
+1 6 0 , 1 7 1 ( 1 9 9 9 ) ; c f . 
+S p r i e t s m a v . 
+M e r c u r y M a r i n e , 5 3 7 U . 
+S . 
+5 1 , 5 6 , n . 
+4 ( 2 0 0 2 ) . 
+F o r t h e s e r e a s o n s , t h e j u d g m e n t o f t h e N i n t h C i r c u i t i s R e v e r s e d . 

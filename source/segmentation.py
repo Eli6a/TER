@@ -17,21 +17,31 @@ def segmentation(text, tokenizer=None, model=None):
             #print("problem2", list(doc.sents))
             sentences = []
             for sentence in doc.sents:
-                tokens = []
-                for token in sentence : 
-                    tokens += [token.text]
-                sentences += [tokens]
+                print('sentence text',sentence.text)
+                sentences += [sentence.text]
+
+                ##tokenization
+                #tokens = []
+                #for token in sentence : 
+                #    tokens += [token.text]
+                #sentences += [tokens]
+                ##tokenization
             #tokenization for return if not tokenized
             #here save sentences
             return sentences
         
         case "nltk":
+            """
+            ## with tokenization
             if tokenizer is None :
                 sentences = [custom_tok(sent, tokenizer="nltk-punkt")for sent in sent_tokenize(text)]
             else : 
                 sentences = [custom_tok(sent, tokenizer="spacy")for sent in sent_tokenize(text)]
+            ## with tokenization
+            """
             #print("sentences nltk :", sentences)
-            return sentences#tokens
+            print("sent tokeniw",sent_tokenize(text))
+            return sent_tokenize(text)#tokens
         
         case "naive":
             sentences = naive_segmentation(text)
@@ -44,13 +54,13 @@ def segmentation(text, tokenizer=None, model=None):
 def naive_segmentation(text):
     tokens = custom_tok(text, tokenizer="nltk-word")    
     sentences = []
-    sentence = []
+    sentence = ""
     for token in tokens:
         if '.' in token:
-            sentence.append(token)
-            sentences.append(sentence)
-            sentence = []
+            sentence += token
+            sentences += [sentence]
+            sentence = ""
         else:
-            sentence.append(token)    
+            sentence += token    
             
     return sentences

@@ -1,169 +1,169 @@
-JUSTICE O'CONNOR delivered the opinion of the Court . 
-At issue in this case are the limits imposed by federal law upon state court habeas corpus proceedings challenging an extradition warrant . 
-Richard and Judith Smolin were divorced in California in 1978 . 
-Sole custody of their two children , Jennifer and Jamie , was awarded to Judith Smolin , subject to reasonable visitation rights for Richard . 
-Until November 1979 , all the parties remained in San Bernardino County , California , and Richard apparently paid his child support and exercised his visitation rights without serious incident . 
-In August 1979 , however , Judith married James Pope , and in November , Mr. Pope 's work required that the family relocate to Oregon . 
-When the Popes moved without informing Richard , the battle over the custody of the minor children began in earnest . 
-It is unnecessary to recite in detail all that ensued . 
-Richard alleged , and the California courts later found , that the Popes deliberately attempted to defeat Richard 's visitation rights and to preclude him from forming a meaningful relationship with his children in the course of their succeeding relocations from Oregon to Texas to Louisiana . 
-On February 13 , 1981 , the Popes obtained a decree from a Texas court granting full faith and credit to the original California order awarding sole custody to Judith . 
-Richard was served but did not appear in the Texas proceeding . 
-Before the Texas decree was issued , however , Richard sought and obtained in California Superior Court modification of the underlying California decree , awarding joint custody to Richard and Judith . 
-Though properly served , the Popes did not appear in these * 403 California proceedings ; and , though served with the modification order , the Popes neither complied with its terms , nor notified the Texas court of its existence . 
-On January 9 , 1981 , Richard instituted an action in California Superior Court to find Judith in contempt and to again modify the custody decree to give him sole custody . 
-In February 1981 , sole custody was granted to Richard by the California court , subject to reasonable visitation rights for Judith . 
-This order also was ignored by the Popes , apparently acting on the advice of counsel that the California courts no longer had jurisdiction over the matter . 
-Richard did not in fact obtain physical custody for over two years . 
-When he finally located the Popes in Louisiana , they began an adoption proceeding , later described by the California courts as " verging on the fraudulent , " to sever Richard 's legal tie to Jennifer and Jamie . 
-App . 
-51 . 
-After securing a California warrant to obtain custody of the children on February 27 , 1984 , Richard and his father , Gerard Smolin , resorted to self - help . 
-On March 9 , 1984 , they picked up Jennifer and Jamie as they were waiting for their school bus in Slidell , Louisiana , and brought them back to California . 
-On April 11 , 1984 , the Popes submitted to the jurisdiction of the California Superior Court and instituted an action to modify the 1981 order granting Richard sole custody . 
-41 Cal . 
-3d 758 , 764 , n. 4 , 716 P.2d 991 , 994 , n. 4 ( 1986 ) . 
-Those proceedings are apparently still pending before the California courts . 
-Meanwhile , the Popes raised the stakes by instituting a criminal action against Richard and Gerard Smolin in Louisiana . 
-On April 30 , 1984 , after the Popes instituted modification proceedings in California , Judith Pope swore out an affidavit charging Richard and Gerard Smolin with kidnaping Jennifer and Jamie from her custody and asserting that they had acted " without authority to remove children from [ her ] custody . " 
-App . 
-B to Pet . 
-for Cert . 
+J U S T I C E   O ' C O N N O R   d e l i v e r e d   t h e   o p i n i o n   o f   t h e   C o u r t . 
+A t   i s s u e   i n   t h i s   c a s e   a r e   t h e   l i m i t s   i m p o s e d   b y   f e d e r a l   l a w   u p o n   s t a t e   c o u r t   h a b e a s   c o r p u s   p r o c e e d i n g s   c h a l l e n g i n g   a n   e x t r a d i t i o n   w a r r a n t . 
+R i c h a r d   a n d   J u d i t h   S m o l i n   w e r e   d i v o r c e d   i n   C a l i f o r n i a   i n   1 9 7 8 . 
+S o l e   c u s t o d y   o f   t h e i r   t w o   c h i l d r e n ,   J e n n i f e r   a n d   J a m i e ,   w a s   a w a r d e d   t o   J u d i t h   S m o l i n ,   s u b j e c t   t o   r e a s o n a b l e   v i s i t a t i o n   r i g h t s   f o r   R i c h a r d . 
+U n t i l   N o v e m b e r   1 9 7 9 ,   a l l   t h e   p a r t i e s   r e m a i n e d   i n   S a n   B e r n a r d i n o   C o u n t y ,   C a l i f o r n i a ,   a n d   R i c h a r d   a p p a r e n t l y   p a i d   h i s   c h i l d   s u p p o r t   a n d   e x e r c i s e d   h i s   v i s i t a t i o n   r i g h t s   w i t h o u t   s e r i o u s   i n c i d e n t . 
+I n   A u g u s t   1 9 7 9 ,   h o w e v e r ,   J u d i t h   m a r r i e d   J a m e s   P o p e ,   a n d   i n   N o v e m b e r ,   M r .   P o p e ' s   w o r k   r e q u i r e d   t h a t   t h e   f a m i l y   r e l o c a t e   t o   O r e g o n . 
+W h e n   t h e   P o p e s   m o v e d   w i t h o u t   i n f o r m i n g   R i c h a r d ,   t h e   b a t t l e   o v e r   t h e   c u s t o d y   o f   t h e   m i n o r   c h i l d r e n   b e g a n   i n   e a r n e s t . 
+I t   i s   u n n e c e s s a r y   t o   r e c i t e   i n   d e t a i l   a l l   t h a t   e n s u e d . 
+R i c h a r d   a l l e g e d ,   a n d   t h e   C a l i f o r n i a   c o u r t s   l a t e r   f o u n d ,   t h a t   t h e   P o p e s   d e l i b e r a t e l y   a t t e m p t e d   t o   d e f e a t   R i c h a r d ' s   v i s i t a t i o n   r i g h t s   a n d   t o   p r e c l u d e   h i m   f r o m   f o r m i n g   a   m e a n i n g f u l   r e l a t i o n s h i p   w i t h   h i s   c h i l d r e n   i n   t h e   c o u r s e   o f   t h e i r   s u c c e e d i n g   r e l o c a t i o n s   f r o m   O r e g o n   t o   T e x a s   t o   L o u i s i a n a . 
+O n   F e b r u a r y   1 3 ,   1 9 8 1 ,   t h e   P o p e s   o b t a i n e d   a   d e c r e e   f r o m   a   T e x a s   c o u r t   g r a n t i n g   f u l l   f a i t h   a n d   c r e d i t   t o   t h e   o r i g i n a l   C a l i f o r n i a   o r d e r   a w a r d i n g   s o l e   c u s t o d y   t o   J u d i t h . 
+R i c h a r d   w a s   s e r v e d   b u t   d i d   n o t   a p p e a r   i n   t h e   T e x a s   p r o c e e d i n g . 
+B e f o r e   t h e   T e x a s   d e c r e e   w a s   i s s u e d ,   h o w e v e r ,   R i c h a r d   s o u g h t   a n d   o b t a i n e d   i n   C a l i f o r n i a   S u p e r i o r   C o u r t   m o d i f i c a t i o n   o f   t h e   u n d e r l y i n g   C a l i f o r n i a   d e c r e e ,   a w a r d i n g   j o i n t   c u s t o d y   t o   R i c h a r d   a n d   J u d i t h . 
+T h o u g h   p r o p e r l y   s e r v e d ,   t h e   P o p e s   d i d   n o t   a p p e a r   i n   t h e s e   * 4 0 3   C a l i f o r n i a   p r o c e e d i n g s ;   a n d ,   t h o u g h   s e r v e d   w i t h   t h e   m o d i f i c a t i o n   o r d e r ,   t h e   P o p e s   n e i t h e r   c o m p l i e d   w i t h   i t s   t e r m s ,   n o r   n o t i f i e d   t h e   T e x a s   c o u r t   o f   i t s   e x i s t e n c e . 
+O n   J a n u a r y   9 ,   1 9 8 1 ,   R i c h a r d   i n s t i t u t e d   a n   a c t i o n   i n   C a l i f o r n i a   S u p e r i o r   C o u r t   t o   f i n d   J u d i t h   i n   c o n t e m p t   a n d   t o   a g a i n   m o d i f y   t h e   c u s t o d y   d e c r e e   t o   g i v e   h i m   s o l e   c u s t o d y . 
+I n   F e b r u a r y   1 9 8 1 ,   s o l e   c u s t o d y   w a s   g r a n t e d   t o   R i c h a r d   b y   t h e   C a l i f o r n i a   c o u r t ,   s u b j e c t   t o   r e a s o n a b l e   v i s i t a t i o n   r i g h t s   f o r   J u d i t h . 
+T h i s   o r d e r   a l s o   w a s   i g n o r e d   b y   t h e   P o p e s ,   a p p a r e n t l y   a c t i n g   o n   t h e   a d v i c e   o f   c o u n s e l   t h a t   t h e   C a l i f o r n i a   c o u r t s   n o   l o n g e r   h a d   j u r i s d i c t i o n   o v e r   t h e   m a t t e r . 
+R i c h a r d   d i d   n o t   i n   f a c t   o b t a i n   p h y s i c a l   c u s t o d y   f o r   o v e r   t w o   y e a r s . 
+W h e n   h e   f i n a l l y   l o c a t e d   t h e   P o p e s   i n   L o u i s i a n a ,   t h e y   b e g a n   a n   a d o p t i o n   p r o c e e d i n g ,   l a t e r   d e s c r i b e d   b y   t h e   C a l i f o r n i a   c o u r t s   a s   " v e r g i n g   o n   t h e   f r a u d u l e n t , "   t o   s e v e r   R i c h a r d ' s   l e g a l   t i e   t o   J e n n i f e r   a n d   J a m i e . 
+A p p . 
+5 1 . 
+A f t e r   s e c u r i n g   a   C a l i f o r n i a   w a r r a n t   t o   o b t a i n   c u s t o d y   o f   t h e   c h i l d r e n   o n   F e b r u a r y   2 7 ,   1 9 8 4 ,   R i c h a r d   a n d   h i s   f a t h e r ,   G e r a r d   S m o l i n ,   r e s o r t e d   t o   s e l f - h e l p . 
+O n   M a r c h   9 ,   1 9 8 4 ,   t h e y   p i c k e d   u p   J e n n i f e r   a n d   J a m i e   a s   t h e y   w e r e   w a i t i n g   f o r   t h e i r   s c h o o l   b u s   i n   S l i d e l l ,   L o u i s i a n a ,   a n d   b r o u g h t   t h e m   b a c k   t o   C a l i f o r n i a . 
+O n   A p r i l   1 1 ,   1 9 8 4 ,   t h e   P o p e s   s u b m i t t e d   t o   t h e   j u r i s d i c t i o n   o f   t h e   C a l i f o r n i a   S u p e r i o r   C o u r t   a n d   i n s t i t u t e d   a n   a c t i o n   t o   m o d i f y   t h e   1 9 8 1   o r d e r   g r a n t i n g   R i c h a r d   s o l e   c u s t o d y . 
+4 1   C a l . 
+3 d   7 5 8   ,   7 6 4 ,   n .   4 ,   7 1 6   P . 2 d   9 9 1   ,   9 9 4 ,   n .   4   ( 1 9 8 6 ) . 
+T h o s e   p r o c e e d i n g s   a r e   a p p a r e n t l y   s t i l l   p e n d i n g   b e f o r e   t h e   C a l i f o r n i a   c o u r t s . 
+M e a n w h i l e ,   t h e   P o p e s   r a i s e d   t h e   s t a k e s   b y   i n s t i t u t i n g   a   c r i m i n a l   a c t i o n   a g a i n s t   R i c h a r d   a n d   G e r a r d   S m o l i n   i n   L o u i s i a n a . 
+O n   A p r i l   3 0 ,   1 9 8 4 ,   a f t e r   t h e   P o p e s   i n s t i t u t e d   m o d i f i c a t i o n   p r o c e e d i n g s   i n   C a l i f o r n i a ,   J u d i t h   P o p e   s w o r e   o u t   a n   a f f i d a v i t   c h a r g i n g   R i c h a r d   a n d   G e r a r d   S m o l i n   w i t h   k i d n a p i n g   J e n n i f e r   a n d   J a m i e   f r o m   h e r   c u s t o d y   a n d   a s s e r t i n g   t h a t   t h e y   h a d   a c t e d   " w i t h o u t   a u t h o r i t y   t o   r e m o v e   c h i l d r e n   f r o m   [ h e r ]   c u s t o d y . " 
+A p p . 
+B   t o   P e t . 
+f o r   C e r t . 
 6 . 
-On the basis of this affidavit , the Assistant District Attorney for the 22d Judicial District of Louisiana , William Alford , Jr. , filed an information * 404 charging Richard and Gerard Smolin each with two counts of violating La. 
-Rev. 
-Stat . 
-Ann . 
-§ 14:45 ( West 1986 ) , the Louisiana kidnaping statute . 
-On June 14 , 1984 , the Governor of Louisiana formally notified the Governor of California that Richard and Gerard Smolin were charged with " simple kidnaping " in Louisiana and demanded that they be delivered up for trial . 
-41 Cal . 
-3d , at 763 , 716 P. 2d , at 993 - 994 . 
-In early August 1984 , the Smolins petitioned in the California Superior Court for a writ of habeas corpus to block the anticipated extradition warrants . 
-On August 17 , 1984 , the anticipated warrants issued and on August 24 , 1984 , the Superior Court orally granted a writ of habeas corpus after taking judicial notice of the various custody orders that had been issued . 
-The court concluded " that the findings in the family law case adequately demonstrate that , in fact , the process initiated by Mrs. Pope in Louisiana and her declarations and affidavits were totally insufficient to establish any basis for rights of either herself personally or for the State . 
+O n   t h e   b a s i s   o f   t h i s   a f f i d a v i t ,   t h e   A s s i s t a n t   D i s t r i c t   A t t o r n e y   f o r   t h e   2 2 d   J u d i c i a l   D i s t r i c t   o f   L o u i s i a n a ,   W i l l i a m   A l f o r d ,   J r . ,   f i l e d   a n   i n f o r m a t i o n   * 4 0 4   c h a r g i n g   R i c h a r d   a n d   G e r a r d   S m o l i n   e a c h   w i t h   t w o   c o u n t s   o f   v i o l a t i n g   L a . 
+R e v . 
+S t a t . 
+A n n . 
+§   1 4 : 4 5   ( W e s t   1 9 8 6 ) ,   t h e   L o u i s i a n a   k i d n a p i n g   s t a t u t e . 
+O n   J u n e   1 4 ,   1 9 8 4 ,   t h e   G o v e r n o r   o f   L o u i s i a n a   f o r m a l l y   n o t i f i e d   t h e   G o v e r n o r   o f   C a l i f o r n i a   t h a t   R i c h a r d   a n d   G e r a r d   S m o l i n   w e r e   c h a r g e d   w i t h   " s i m p l e   k i d n a p i n g "   i n   L o u i s i a n a   a n d   d e m a n d e d   t h a t   t h e y   b e   d e l i v e r e d   u p   f o r   t r i a l . 
+4 1   C a l . 
+3 d ,   a t   7 6 3   ,   7 1 6   P .   2 d ,   a t   9 9 3 - 9 9 4 . 
+I n   e a r l y   A u g u s t   1 9 8 4 ,   t h e   S m o l i n s   p e t i t i o n e d   i n   t h e   C a l i f o r n i a   S u p e r i o r   C o u r t   f o r   a   w r i t   o f   h a b e a s   c o r p u s   t o   b l o c k   t h e   a n t i c i p a t e d   e x t r a d i t i o n   w a r r a n t s . 
+O n   A u g u s t   1 7 ,   1 9 8 4 ,   t h e   a n t i c i p a t e d   w a r r a n t s   i s s u e d   a n d   o n   A u g u s t   2 4 ,   1 9 8 4 ,   t h e   S u p e r i o r   C o u r t   o r a l l y   g r a n t e d   a   w r i t   o f   h a b e a s   c o r p u s   a f t e r   t a k i n g   j u d i c i a l   n o t i c e   o f   t h e   v a r i o u s   c u s t o d y   o r d e r s   t h a t   h a d   b e e n   i s s u e d . 
+T h e   c o u r t   c o n c l u d e d   " t h a t   t h e   f i n d i n g s   i n   t h e   f a m i l y   l a w   c a s e   a d e q u a t e l y   d e m o n s t r a t e   t h a t ,   i n   f a c t ,   t h e   p r o c e s s   i n i t i a t e d   b y   M r s .   P o p e   i n   L o u i s i a n a   a n d   h e r   d e c l a r a t i o n s   a n d   a f f i d a v i t s   w e r e   t o t a l l y   i n s u f f i c i e n t   t o   e s t a b l i s h   a n y   b a s i s   f o r   r i g h t s   o f   e i t h e r   h e r s e l f   p e r s o n a l l y   o r   f o r   t h e   S t a t e   . 
 . 
 . 
-of Louisiana . " 
-App . 
-C to Pet . 
-for Cert . 
+o f   L o u i s i a n a . " 
+A p p . 
+C   t o   P e t . 
+f o r   C e r t . 
 5 . 
-California then sought a writ of mandate in the California Court of Appeal on the ground that the Superior Court had abused its discretion in blocking extradition . 
-The Court of Appeal reluctantly issued the writ : " Although we abhor Judy 's apparent willingness to take advantage of our federal system to further this custody battle , and are sympathetic to [ the Smolins ' ] position , we must conclude that their arguments are irrelevant to the only issue a court in the asylum state may properly address : are the documents on their face in order . " 
-App . 
-B to Pet . 
-for Cert . 
-16 . 
-A divided California Supreme Court reversed . 
-The majority interpreted the Superior Court 's finding to be that the Smolins were not substantially charged with a crime . 
-It found that the California custody decrees were properly considered * 405 by the Superior Court , and that its conclusion that the Smolins were not substantially charged was correct . 
-Under the full faith and credit provisions of the federal Parental Kidnaping Prevention Act of 1980 , 28 U.S. C. § 1738A , the majority determined that those decrees conclusively established that Richard Smolin was the lawful custodian of the children at the time that they were taken from Louisiana to California . 
-[ * ] Finally , the court found that , under Louisiana law , the lawful custodian can not be guilty of kidnaping children in his custody . 
-State v. Elliott , 171 La. 
-306 , 311 , 131 So . 
-28 , 30 ( 1930 ) . 
-We granted certiorari , 479 U.S. 982 ( 1986 ) , to consider whether the Extradition Clause , Art . 
-IV , § 2 , cl . 
-2 , and the Extradition Act , 18 U.S. C. § 3182 , prevent the California Supreme Court from refusing to permit extradition on these grounds . 
-The Federal Constitution places certain limits on the sovereign powers of the States , limits that are an essential part of the Framers ' conception of national identity and Union . 
-One such limit is found in Art . 
-IV , § 2 , cl . 
-2 , the Extradition Clause : " A person charged in any State with Treason , Felony , or other Crime , who shall flee from Justice , and be found in another State , shall on Demand of the executive Authority * 406 of the State from which he fled , be delivered up , to be removed to the State having Jurisdiction of the Crime . " 
-The obvious objective of the Extradition Clause is that no State should become a safe haven for the fugitives from a sister State 's criminal justice system . 
-As this Court noted in its first opportunity to construe the Extradition Clause : " [ T]he statesmen who framed the Constitution were fully sensible , that from the complex character of the Government , it must fail unless the States mutually supported each other and the General Government ; and that nothing would be more likely to disturb its peace , and end in discord , than permitting an offender against the laws of a State , by passing over a mathematical line which divides it from another , to defy its process , and stand ready , under the protection of the State , to repeat the offense as soon as another opportunity offered . " 
-Kentucky v. Dennison , 24 How . 
-66 , 100 ( 1861 ) . 
-The Extradition Clause , however , does not specifically establish a procedure by which interstate extradition is to take place , and , accordingly , has never been considered to be self - executing . 
-See , e. g. , Hyatt v. People ex rel . 
-Corkran , 188 U.S. 691 , 708 - 709 ( 1903 ) ; Kentucky v. Dennison , supra , at 104 . 
-Early in our history , the lack of an established procedure led to a bitter dispute between the States of Virginia and Pennsylvania . 
-J. Scott , Law of Interstate Rendition 5 - 7 ( 1917 ) . 
-In 1791 , Pennsylvania demanded the extradition of three men charged with kidnaping a free black man and selling him into slavery . 
-Virginia refused to comply with Pennsylvania 's demand . 
-The controversy was finally submitted to President Washington who , relying upon the advice of Attorney General Randolph , 9 National State Papers of the United States 1789 - 1817 , pt . 
-II , pp . 
-144 - 145 ( E. Carzo ed . 
-1985 ) , personally appeared before the Congress to obtain the enactment of a law to regulate the extradition process . 
-Congress * 407 responded by enacting the Extradition Act of 1793 , which provides in its current form : " Whenever the executive authority of any State or Territory demands any person as a fugitive from justice , of the executive authority of any State , District or Territory to which such person has fled , and produces a copy of an indictment found or an affidavit made before a magistrate of any State or Territory , charging the person demanded with having committed treason , felony or other crime , certified as authentic by the governor or chief magistrate of the State or Territory from whence the person so charged has fled , the executive authority of the State , District or Territory to which such person has fled shall cause him to be arrested and secured , and notify the executive authority making such demand , or the agent of such authority appointed to receive the fugitive , and shall cause the fugitive to be delivered to such agent when he shall appear . " 
-18 U.S. C. § 3182 . 
-This Court has held the Extradition Act of 1793 to be a proper exercise of Congress ' powers under the Extradition Clause and Art . 
-IV , § 1 , to " prescribe the manner in which acts , records and proceedings shall be proved , and the effect thereof . " 
-Kentucky v. Dennison , supra , at 105 ; Prigg v. Pennsylvania , 16 Pet . 
-539 , 618 - 622 ( 1842 ) . 
-By the express terms of federal law , therefore , the asylum State is bound to deliver up to the demanding State 's agent a fugitive against whom a properly certified indictment or affidavit charging a crime is lodged . 
-The language , history , and subsequent construction of the Extradition Act make clear that Congress intended extradition to be a summary procedure . 
-As we have repeatedly held , extradition proceedings are " to be kept within narrow bounds " ; they are " emphatically " not the appropriate time or place for entertaining defenses or determining the guilt or innocence of the charged party . 
-Biddinger v. Commissioner * 408 of Police , 245 U.S. 128 , 135 ( 1917 ) ; see also , e. g. , Michigan v. Doran , 439 U.S. 282 , 288 ( 1978 ) ; Drew v. Thaw , 235 U.S. 432 , 440 ( 1914 ) ; Pierce v. Creecy , 210 U.S. 387 , 405 ( 1908 ) ; In re Strauss , 197 U.S. 324 , 332 - 333 ( 1905 ) . 
-Those inquiries are left to the professorial authorities and courts of the demanding State , whose duty it is to justly enforce the demanding State 's criminal law  subject , of course , to the limitations imposed by the Constitution and laws of the United States . 
-Biddinger v. Commissioner of Police , supra , at 135 ; Drew v. Thaw , supra , at 440 . 
-The courts of asylum States may do no more than ascertain whether the requisites of the Extradition Act have been met . 
-As the Court held in Michigan v. Doran , supra , the Act leaves only four issues open for consideration before the fugitive is delivered up " ( a ) whether the extradition documents on their face are in order ; ( b ) whether the petitioner has been charged with a crime in the demanding state ; ( c ) whether the petitioner is the person named in the request for extradition ; and ( d ) whether the petitioner is a fugitive . " 
-439 U.S. , at 289 . 
-The parties argue at length about the propriety of the California courts taking judicial notice of their prior child custody decrees in this extradition proceeding . 
-But even if taking judicial notice of the decrees is otherwise proper , the question remains whether the decrees noticed were relevant to one of these four inquiries . 
-The Smolins do not dispute that the extradition documents are in order , that they are the persons named in the documents and that they meet the technical definition of a " fugitive . " 
-Their sole contention is that , in light of the earlier California custody decrees and the federal Parental Kidnaping Prevention Act of 1980 , 28 U.S. C. § 1738A , they have not been properly charged with a violation of Louisiana 's kidnaping statute , La. 
-Rev. 
-Stat . 
-Ann . 
-§ 14:45 ( West 1986 ) . 
-Section 14:45A(4 ) prohibits the " intentional taking , enticing or decoying away and removing from the state , by any parent , of his or her child , from the custody of any person to whom custody has been awarded by any court of competent jurisdiction of any state , without the consent of the legal custodian , with intent to defeat the jurisdiction of the said court over the custody of the child . " 
-A properly certified Louisiana information charges the Smolins with violating this statute by kidnaping Jennifer and Jamie Smolin . 
-The information is based on the sworn affidavit of Judith Pope which asserts : " ` On March 9 , 1984 , at approximately 7:20 a. m. , Richard Smolin and Gerard Smolin , kidnapped Jennifer Smolin , aged 10 , and James C. Smolin , aged 9 , from the affiant 's custody while said children were at a bus stop in St. Tammany Parish , Louisiana . 
-" The affiant has custody of the said children by virtue of a Texas court order dated February 5 , 1981 , a copy of said order attached hereto and made part hereof . 
-The information regarding the actual kidnapping was told to the affiant by witnesses Mason Galatas and Cheryl Galatas of 2028 Mallard Street , Slidell , Louisiana , and Jimmie Huessler of 2015 Dridle Street , Slidell , Louisiana . 
-Richard Smolin and Gerard Smolin were without authority to remove children from affiant 's custody . ' 
-" App . 
-B to Pet . 
-for Cert . 
+C a l i f o r n i a   t h e n   s o u g h t   a   w r i t   o f   m a n d a t e   i n   t h e   C a l i f o r n i a   C o u r t   o f   A p p e a l   o n   t h e   g r o u n d   t h a t   t h e   S u p e r i o r   C o u r t   h a d   a b u s e d   i t s   d i s c r e t i o n   i n   b l o c k i n g   e x t r a d i t i o n . 
+T h e   C o u r t   o f   A p p e a l   r e l u c t a n t l y   i s s u e d   t h e   w r i t :   " A l t h o u g h   w e   a b h o r   J u d y ' s   a p p a r e n t   w i l l i n g n e s s   t o   t a k e   a d v a n t a g e   o f   o u r   f e d e r a l   s y s t e m   t o   f u r t h e r   t h i s   c u s t o d y   b a t t l e ,   a n d   a r e   s y m p a t h e t i c   t o   [ t h e   S m o l i n s ' ]   p o s i t i o n ,   w e   m u s t   c o n c l u d e   t h a t   t h e i r   a r g u m e n t s   a r e   i r r e l e v a n t   t o   t h e   o n l y   i s s u e   a   c o u r t   i n   t h e   a s y l u m   s t a t e   m a y   p r o p e r l y   a d d r e s s :   a r e   t h e   d o c u m e n t s   o n   t h e i r   f a c e   i n   o r d e r . " 
+A p p . 
+B   t o   P e t . 
+f o r   C e r t . 
+1 6 . 
+A   d i v i d e d   C a l i f o r n i a   S u p r e m e   C o u r t   r e v e r s e d . 
+T h e   m a j o r i t y   i n t e r p r e t e d   t h e   S u p e r i o r   C o u r t ' s   f i n d i n g   t o   b e   t h a t   t h e   S m o l i n s   w e r e   n o t   s u b s t a n t i a l l y   c h a r g e d   w i t h   a   c r i m e . 
+I t   f o u n d   t h a t   t h e   C a l i f o r n i a   c u s t o d y   d e c r e e s   w e r e   p r o p e r l y   c o n s i d e r e d   * 4 0 5   b y   t h e   S u p e r i o r   C o u r t ,   a n d   t h a t   i t s   c o n c l u s i o n   t h a t   t h e   S m o l i n s   w e r e   n o t   s u b s t a n t i a l l y   c h a r g e d   w a s   c o r r e c t . 
+U n d e r   t h e   f u l l   f a i t h   a n d   c r e d i t   p r o v i s i o n s   o f   t h e   f e d e r a l   P a r e n t a l   K i d n a p i n g   P r e v e n t i o n   A c t   o f   1 9 8 0 ,   2 8   U . S .   C .   §   1 7 3 8 A ,   t h e   m a j o r i t y   d e t e r m i n e d   t h a t   t h o s e   d e c r e e s   c o n c l u s i v e l y   e s t a b l i s h e d   t h a t   R i c h a r d   S m o l i n   w a s   t h e   l a w f u l   c u s t o d i a n   o f   t h e   c h i l d r e n   a t   t h e   t i m e   t h a t   t h e y   w e r e   t a k e n   f r o m   L o u i s i a n a   t o   C a l i f o r n i a . 
+[ * ]   F i n a l l y ,   t h e   c o u r t   f o u n d   t h a t ,   u n d e r   L o u i s i a n a   l a w ,   t h e   l a w f u l   c u s t o d i a n   c a n n o t   b e   g u i l t y   o f   k i d n a p i n g   c h i l d r e n   i n   h i s   c u s t o d y . 
+S t a t e   v .   E l l i o t t ,   1 7 1   L a . 
+3 0 6   ,   3 1 1 ,   1 3 1   S o . 
+2 8   ,   3 0   ( 1 9 3 0 ) . 
+W e   g r a n t e d   c e r t i o r a r i ,   4 7 9   U . S .   9 8 2   ( 1 9 8 6 ) ,   t o   c o n s i d e r   w h e t h e r   t h e   E x t r a d i t i o n   C l a u s e ,   A r t . 
+I V ,   §   2 ,   c l . 
+2 ,   a n d   t h e   E x t r a d i t i o n   A c t ,   1 8   U . S .   C .   §   3 1 8 2 ,   p r e v e n t   t h e   C a l i f o r n i a   S u p r e m e   C o u r t   f r o m   r e f u s i n g   t o   p e r m i t   e x t r a d i t i o n   o n   t h e s e   g r o u n d s . 
+T h e   F e d e r a l   C o n s t i t u t i o n   p l a c e s   c e r t a i n   l i m i t s   o n   t h e   s o v e r e i g n   p o w e r s   o f   t h e   S t a t e s ,   l i m i t s   t h a t   a r e   a n   e s s e n t i a l   p a r t   o f   t h e   F r a m e r s '   c o n c e p t i o n   o f   n a t i o n a l   i d e n t i t y   a n d   U n i o n . 
+O n e   s u c h   l i m i t   i s   f o u n d   i n   A r t . 
+I V ,   §   2 ,   c l . 
+2 ,   t h e   E x t r a d i t i o n   C l a u s e :   " A   p e r s o n   c h a r g e d   i n   a n y   S t a t e   w i t h   T r e a s o n ,   F e l o n y ,   o r   o t h e r   C r i m e ,   w h o   s h a l l   f l e e   f r o m   J u s t i c e ,   a n d   b e   f o u n d   i n   a n o t h e r   S t a t e ,   s h a l l   o n   D e m a n d   o f   t h e   e x e c u t i v e   A u t h o r i t y   * 4 0 6   o f   t h e   S t a t e   f r o m   w h i c h   h e   f l e d ,   b e   d e l i v e r e d   u p ,   t o   b e   r e m o v e d   t o   t h e   S t a t e   h a v i n g   J u r i s d i c t i o n   o f   t h e   C r i m e . " 
+T h e   o b v i o u s   o b j e c t i v e   o f   t h e   E x t r a d i t i o n   C l a u s e   i s   t h a t   n o   S t a t e   s h o u l d   b e c o m e   a   s a f e   h a v e n   f o r   t h e   f u g i t i v e s   f r o m   a   s i s t e r   S t a t e ' s   c r i m i n a l   j u s t i c e   s y s t e m . 
+A s   t h i s   C o u r t   n o t e d   i n   i t s   f i r s t   o p p o r t u n i t y   t o   c o n s t r u e   t h e   E x t r a d i t i o n   C l a u s e :   " [ T ] h e   s t a t e s m e n   w h o   f r a m e d   t h e   C o n s t i t u t i o n   w e r e   f u l l y   s e n s i b l e ,   t h a t   f r o m   t h e   c o m p l e x   c h a r a c t e r   o f   t h e   G o v e r n m e n t ,   i t   m u s t   f a i l   u n l e s s   t h e   S t a t e s   m u t u a l l y   s u p p o r t e d   e a c h   o t h e r   a n d   t h e   G e n e r a l   G o v e r n m e n t ;   a n d   t h a t   n o t h i n g   w o u l d   b e   m o r e   l i k e l y   t o   d i s t u r b   i t s   p e a c e ,   a n d   e n d   i n   d i s c o r d ,   t h a n   p e r m i t t i n g   a n   o f f e n d e r   a g a i n s t   t h e   l a w s   o f   a   S t a t e ,   b y   p a s s i n g   o v e r   a   m a t h e m a t i c a l   l i n e   w h i c h   d i v i d e s   i t   f r o m   a n o t h e r ,   t o   d e f y   i t s   p r o c e s s ,   a n d   s t a n d   r e a d y ,   u n d e r   t h e   p r o t e c t i o n   o f   t h e   S t a t e ,   t o   r e p e a t   t h e   o f f e n s e   a s   s o o n   a s   a n o t h e r   o p p o r t u n i t y   o f f e r e d . " 
+K e n t u c k y   v .   D e n n i s o n ,   2 4   H o w . 
+6 6   ,   1 0 0   ( 1 8 6 1 ) . 
+T h e   E x t r a d i t i o n   C l a u s e ,   h o w e v e r ,   d o e s   n o t   s p e c i f i c a l l y   e s t a b l i s h   a   p r o c e d u r e   b y   w h i c h   i n t e r s t a t e   e x t r a d i t i o n   i s   t o   t a k e   p l a c e ,   a n d ,   a c c o r d i n g l y ,   h a s   n e v e r   b e e n   c o n s i d e r e d   t o   b e   s e l f - e x e c u t i n g . 
+S e e ,   e .   g . ,   H y a t t   v .   P e o p l e   e x   r e l . 
+C o r k r a n ,   1 8 8   U . S .   6 9 1   ,   7 0 8 - 7 0 9   ( 1 9 0 3 ) ;   K e n t u c k y   v .   D e n n i s o n ,   s u p r a ,   a t   1 0 4 . 
+E a r l y   i n   o u r   h i s t o r y ,   t h e   l a c k   o f   a n   e s t a b l i s h e d   p r o c e d u r e   l e d   t o   a   b i t t e r   d i s p u t e   b e t w e e n   t h e   S t a t e s   o f   V i r g i n i a   a n d   P e n n s y l v a n i a . 
+J .   S c o t t ,   L a w   o f   I n t e r s t a t e   R e n d i t i o n   5 - 7   ( 1 9 1 7 ) . 
+I n   1 7 9 1 ,   P e n n s y l v a n i a   d e m a n d e d   t h e   e x t r a d i t i o n   o f   t h r e e   m e n   c h a r g e d   w i t h   k i d n a p i n g   a   f r e e   b l a c k   m a n   a n d   s e l l i n g   h i m   i n t o   s l a v e r y . 
+V i r g i n i a   r e f u s e d   t o   c o m p l y   w i t h   P e n n s y l v a n i a ' s   d e m a n d . 
+T h e   c o n t r o v e r s y   w a s   f i n a l l y   s u b m i t t e d   t o   P r e s i d e n t   W a s h i n g t o n   w h o ,   r e l y i n g   u p o n   t h e   a d v i c e   o f   A t t o r n e y   G e n e r a l   R a n d o l p h ,   9   N a t i o n a l   S t a t e   P a p e r s   o f   t h e   U n i t e d   S t a t e s   1 7 8 9 - 1 8 1 7 ,   p t . 
+I I ,   p p . 
+1 4 4 - 1 4 5   ( E .   C a r z o   e d . 
+1 9 8 5 ) ,   p e r s o n a l l y   a p p e a r e d   b e f o r e   t h e   C o n g r e s s   t o   o b t a i n   t h e   e n a c t m e n t   o f   a   l a w   t o   r e g u l a t e   t h e   e x t r a d i t i o n   p r o c e s s . 
+C o n g r e s s   * 4 0 7   r e s p o n d e d   b y   e n a c t i n g   t h e   E x t r a d i t i o n   A c t   o f   1 7 9 3 ,   w h i c h   p r o v i d e s   i n   i t s   c u r r e n t   f o r m :   " W h e n e v e r   t h e   e x e c u t i v e   a u t h o r i t y   o f   a n y   S t a t e   o r   T e r r i t o r y   d e m a n d s   a n y   p e r s o n   a s   a   f u g i t i v e   f r o m   j u s t i c e ,   o f   t h e   e x e c u t i v e   a u t h o r i t y   o f   a n y   S t a t e ,   D i s t r i c t   o r   T e r r i t o r y   t o   w h i c h   s u c h   p e r s o n   h a s   f l e d ,   a n d   p r o d u c e s   a   c o p y   o f   a n   i n d i c t m e n t   f o u n d   o r   a n   a f f i d a v i t   m a d e   b e f o r e   a   m a g i s t r a t e   o f   a n y   S t a t e   o r   T e r r i t o r y ,   c h a r g i n g   t h e   p e r s o n   d e m a n d e d   w i t h   h a v i n g   c o m m i t t e d   t r e a s o n ,   f e l o n y   o r   o t h e r   c r i m e ,   c e r t i f i e d   a s   a u t h e n t i c   b y   t h e   g o v e r n o r   o r   c h i e f   m a g i s t r a t e   o f   t h e   S t a t e   o r   T e r r i t o r y   f r o m   w h e n c e   t h e   p e r s o n   s o   c h a r g e d   h a s   f l e d ,   t h e   e x e c u t i v e   a u t h o r i t y   o f   t h e   S t a t e ,   D i s t r i c t   o r   T e r r i t o r y   t o   w h i c h   s u c h   p e r s o n   h a s   f l e d   s h a l l   c a u s e   h i m   t o   b e   a r r e s t e d   a n d   s e c u r e d ,   a n d   n o t i f y   t h e   e x e c u t i v e   a u t h o r i t y   m a k i n g   s u c h   d e m a n d ,   o r   t h e   a g e n t   o f   s u c h   a u t h o r i t y   a p p o i n t e d   t o   r e c e i v e   t h e   f u g i t i v e ,   a n d   s h a l l   c a u s e   t h e   f u g i t i v e   t o   b e   d e l i v e r e d   t o   s u c h   a g e n t   w h e n   h e   s h a l l   a p p e a r . " 
+1 8   U . S .   C .   §   3 1 8 2 . 
+T h i s   C o u r t   h a s   h e l d   t h e   E x t r a d i t i o n   A c t   o f   1 7 9 3   t o   b e   a   p r o p e r   e x e r c i s e   o f   C o n g r e s s '   p o w e r s   u n d e r   t h e   E x t r a d i t i o n   C l a u s e   a n d   A r t . 
+I V ,   §   1 ,   t o   " p r e s c r i b e   t h e   m a n n e r   i n   w h i c h   a c t s ,   r e c o r d s   a n d   p r o c e e d i n g s   s h a l l   b e   p r o v e d ,   a n d   t h e   e f f e c t   t h e r e o f . " 
+K e n t u c k y   v .   D e n n i s o n ,   s u p r a ,   a t   1 0 5 ;   P r i g g   v .   P e n n s y l v a n i a ,   1 6   P e t . 
+5 3 9   ,   6 1 8 - 6 2 2   ( 1 8 4 2 ) . 
+B y   t h e   e x p r e s s   t e r m s   o f   f e d e r a l   l a w ,   t h e r e f o r e ,   t h e   a s y l u m   S t a t e   i s   b o u n d   t o   d e l i v e r   u p   t o   t h e   d e m a n d i n g   S t a t e ' s   a g e n t   a   f u g i t i v e   a g a i n s t   w h o m   a   p r o p e r l y   c e r t i f i e d   i n d i c t m e n t   o r   a f f i d a v i t   c h a r g i n g   a   c r i m e   i s   l o d g e d . 
+T h e   l a n g u a g e ,   h i s t o r y ,   a n d   s u b s e q u e n t   c o n s t r u c t i o n   o f   t h e   E x t r a d i t i o n   A c t   m a k e   c l e a r   t h a t   C o n g r e s s   i n t e n d e d   e x t r a d i t i o n   t o   b e   a   s u m m a r y   p r o c e d u r e . 
+A s   w e   h a v e   r e p e a t e d l y   h e l d ,   e x t r a d i t i o n   p r o c e e d i n g s   a r e   " t o   b e   k e p t   w i t h i n   n a r r o w   b o u n d s " ;   t h e y   a r e   " e m p h a t i c a l l y "   n o t   t h e   a p p r o p r i a t e   t i m e   o r   p l a c e   f o r   e n t e r t a i n i n g   d e f e n s e s   o r   d e t e r m i n i n g   t h e   g u i l t   o r   i n n o c e n c e   o f   t h e   c h a r g e d   p a r t y . 
+B i d d i n g e r   v .   C o m m i s s i o n e r   * 4 0 8   o f   P o l i c e ,   2 4 5   U . S .   1 2 8   ,   1 3 5   ( 1 9 1 7 ) ;   s e e   a l s o ,   e .   g . ,   M i c h i g a n   v .   D o r a n ,   4 3 9   U . S .   2 8 2   ,   2 8 8   ( 1 9 7 8 ) ;   D r e w   v .   T h a w ,   2 3 5   U . S .   4 3 2   ,   4 4 0   ( 1 9 1 4 ) ;   P i e r c e   v .   C r e e c y ,   2 1 0   U . S .   3 8 7   ,   4 0 5   ( 1 9 0 8 ) ;   I n   r e   S t r a u s s ,   1 9 7   U . S .   3 2 4   ,   3 3 2 - 3 3 3   ( 1 9 0 5 ) . 
+T h o s e   i n q u i r i e s   a r e   l e f t   t o   t h e   p r o f e s s o r i a l   a u t h o r i t i e s   a n d   c o u r t s   o f   t h e   d e m a n d i n g   S t a t e ,   w h o s e   d u t y   i t   i s   t o   j u s t l y   e n f o r c e   t h e   d e m a n d i n g   S t a t e ' s   c r i m i n a l   l a w      s u b j e c t ,   o f   c o u r s e ,   t o   t h e   l i m i t a t i o n s   i m p o s e d   b y   t h e   C o n s t i t u t i o n   a n d   l a w s   o f   t h e   U n i t e d   S t a t e s . 
+B i d d i n g e r   v .   C o m m i s s i o n e r   o f   P o l i c e ,   s u p r a ,   a t   1 3 5 ;   D r e w   v .   T h a w ,   s u p r a   ,   a t   4 4 0 . 
+T h e   c o u r t s   o f   a s y l u m   S t a t e s   m a y   d o   n o   m o r e   t h a n   a s c e r t a i n   w h e t h e r   t h e   r e q u i s i t e s   o f   t h e   E x t r a d i t i o n   A c t   h a v e   b e e n   m e t . 
+A s   t h e   C o u r t   h e l d   i n   M i c h i g a n   v .   D o r a n ,   s u p r a   ,   t h e   A c t   l e a v e s   o n l y   f o u r   i s s u e s   o p e n   f o r   c o n s i d e r a t i o n   b e f o r e   t h e   f u g i t i v e   i s   d e l i v e r e d   u p   " ( a )   w h e t h e r   t h e   e x t r a d i t i o n   d o c u m e n t s   o n   t h e i r   f a c e   a r e   i n   o r d e r ;   ( b )   w h e t h e r   t h e   p e t i t i o n e r   h a s   b e e n   c h a r g e d   w i t h   a   c r i m e   i n   t h e   d e m a n d i n g   s t a t e ;   ( c )   w h e t h e r   t h e   p e t i t i o n e r   i s   t h e   p e r s o n   n a m e d   i n   t h e   r e q u e s t   f o r   e x t r a d i t i o n ;   a n d   ( d )   w h e t h e r   t h e   p e t i t i o n e r   i s   a   f u g i t i v e . " 
+4 3 9   U . S . ,   a t   2 8 9   . 
+T h e   p a r t i e s   a r g u e   a t   l e n g t h   a b o u t   t h e   p r o p r i e t y   o f   t h e   C a l i f o r n i a   c o u r t s   t a k i n g   j u d i c i a l   n o t i c e   o f   t h e i r   p r i o r   c h i l d   c u s t o d y   d e c r e e s   i n   t h i s   e x t r a d i t i o n   p r o c e e d i n g . 
+B u t   e v e n   i f   t a k i n g   j u d i c i a l   n o t i c e   o f   t h e   d e c r e e s   i s   o t h e r w i s e   p r o p e r ,   t h e   q u e s t i o n   r e m a i n s   w h e t h e r   t h e   d e c r e e s   n o t i c e d   w e r e   r e l e v a n t   t o   o n e   o f   t h e s e   f o u r   i n q u i r i e s . 
+T h e   S m o l i n s   d o   n o t   d i s p u t e   t h a t   t h e   e x t r a d i t i o n   d o c u m e n t s   a r e   i n   o r d e r ,   t h a t   t h e y   a r e   t h e   p e r s o n s   n a m e d   i n   t h e   d o c u m e n t s   a n d   t h a t   t h e y   m e e t   t h e   t e c h n i c a l   d e f i n i t i o n   o f   a   " f u g i t i v e . " 
+T h e i r   s o l e   c o n t e n t i o n   i s   t h a t ,   i n   l i g h t   o f   t h e   e a r l i e r   C a l i f o r n i a   c u s t o d y   d e c r e e s   a n d   t h e   f e d e r a l   P a r e n t a l   K i d n a p i n g   P r e v e n t i o n   A c t   o f   1 9 8 0 ,   2 8   U . S .   C .   §   1 7 3 8 A ,   t h e y   h a v e   n o t   b e e n   p r o p e r l y   c h a r g e d   w i t h   a   v i o l a t i o n   o f   L o u i s i a n a ' s   k i d n a p i n g   s t a t u t e ,   L a . 
+R e v . 
+S t a t . 
+A n n . 
+§   1 4 : 4 5   ( W e s t   1 9 8 6 ) . 
+S e c t i o n   1 4 : 4 5 A ( 4 )   p r o h i b i t s   t h e   " i n t e n t i o n a l   t a k i n g ,   e n t i c i n g   o r   d e c o y i n g   a w a y   a n d   r e m o v i n g   f r o m   t h e   s t a t e ,   b y   a n y   p a r e n t ,   o f   h i s   o r   h e r   c h i l d ,   f r o m   t h e   c u s t o d y   o f   a n y   p e r s o n   t o   w h o m   c u s t o d y   h a s   b e e n   a w a r d e d   b y   a n y   c o u r t   o f   c o m p e t e n t   j u r i s d i c t i o n   o f   a n y   s t a t e ,   w i t h o u t   t h e   c o n s e n t   o f   t h e   l e g a l   c u s t o d i a n ,   w i t h   i n t e n t   t o   d e f e a t   t h e   j u r i s d i c t i o n   o f   t h e   s a i d   c o u r t   o v e r   t h e   c u s t o d y   o f   t h e   c h i l d . " 
+A   p r o p e r l y   c e r t i f i e d   L o u i s i a n a   i n f o r m a t i o n   c h a r g e s   t h e   S m o l i n s   w i t h   v i o l a t i n g   t h i s   s t a t u t e   b y   k i d n a p i n g   J e n n i f e r   a n d   J a m i e   S m o l i n . 
+T h e   i n f o r m a t i o n   i s   b a s e d   o n   t h e   s w o r n   a f f i d a v i t   o f   J u d i t h   P o p e   w h i c h   a s s e r t s :   "   ` O n   M a r c h   9 ,   1 9 8 4 ,   a t   a p p r o x i m a t e l y   7 : 2 0   a .   m . ,   R i c h a r d   S m o l i n   a n d   G e r a r d   S m o l i n ,   k i d n a p p e d   J e n n i f e r   S m o l i n ,   a g e d   1 0 ,   a n d   J a m e s   C .   S m o l i n ,   a g e d   9 ,   f r o m   t h e   a f f i a n t ' s   c u s t o d y   w h i l e   s a i d   c h i l d r e n   w e r e   a t   a   b u s   s t o p   i n   S t .   T a m m a n y   P a r i s h ,   L o u i s i a n a . 
+" T h e   a f f i a n t   h a s   c u s t o d y   o f   t h e   s a i d   c h i l d r e n   b y   v i r t u e   o f   a   T e x a s   c o u r t   o r d e r   d a t e d   F e b r u a r y   5 ,   1 9 8 1 ,   a   c o p y   o f   s a i d   o r d e r   a t t a c h e d   h e r e t o   a n d   m a d e   p a r t   h e r e o f . 
+T h e   i n f o r m a t i o n   r e g a r d i n g   t h e   a c t u a l   k i d n a p p i n g   w a s   t o l d   t o   t h e   a f f i a n t   b y   w i t n e s s e s   M a s o n   G a l a t a s   a n d   C h e r y l   G a l a t a s   o f   2 0 2 8   M a l l a r d   S t r e e t ,   S l i d e l l ,   L o u i s i a n a ,   a n d   J i m m i e   H u e s s l e r   o f   2 0 1 5   D r i d l e   S t r e e t ,   S l i d e l l ,   L o u i s i a n a . 
+R i c h a r d   S m o l i n   a n d   G e r a r d   S m o l i n   w e r e   w i t h o u t   a u t h o r i t y   t o   r e m o v e   c h i l d r e n   f r o m   a f f i a n t ' s   c u s t o d y . ' 
+"   A p p . 
+B   t o   P e t . 
+f o r   C e r t . 
 5 - 6 . 
-The information is in proper form , and the Smolins do not dispute that the affidavit , and documents incorporated by reference therein , set forth facts that clearly satisfy each element of the crime of kidnaping as it is defined in La. 
-Rev. 
-Stat . 
-Ann . 
-§ 14:45A(4 ) ( West 1986 ) . 
-If we accept as true every fact alleged , the Smolins are properly charged with kidnaping under Louisiana law . 
-In our view , this ends the inquiry into the issue whether or not a crime is charged for purposes of the Extradition Act . 
-* 410 The Smolins argue , however , that more than a formal charge is required , citing the following language from Roberts v. Reilly , 116 U.S. 80 , 95 ( 1885 ): " It must appear , therefore , to the governor of the State to whom such a demand is presented , before he can lawfully comply with it , first , that the person demanded is substantially charged with a crime against the laws of the State from whose justice he is alleged to have fled , by an indictment or an affidavit , certified as authentic by the governor of the State making the demand . 
+T h e   i n f o r m a t i o n   i s   i n   p r o p e r   f o r m ,   a n d   t h e   S m o l i n s   d o   n o t   d i s p u t e   t h a t   t h e   a f f i d a v i t ,   a n d   d o c u m e n t s   i n c o r p o r a t e d   b y   r e f e r e n c e   t h e r e i n ,   s e t   f o r t h   f a c t s   t h a t   c l e a r l y   s a t i s f y   e a c h   e l e m e n t   o f   t h e   c r i m e   o f   k i d n a p i n g   a s   i t   i s   d e f i n e d   i n   L a . 
+R e v . 
+S t a t . 
+A n n . 
+§   1 4 : 4 5 A ( 4 )   ( W e s t   1 9 8 6 ) . 
+I f   w e   a c c e p t   a s   t r u e   e v e r y   f a c t   a l l e g e d ,   t h e   S m o l i n s   a r e   p r o p e r l y   c h a r g e d   w i t h   k i d n a p i n g   u n d e r   L o u i s i a n a   l a w . 
+I n   o u r   v i e w ,   t h i s   e n d s   t h e   i n q u i r y   i n t o   t h e   i s s u e   w h e t h e r   o r   n o t   a   c r i m e   i s   c h a r g e d   f o r   p u r p o s e s   o f   t h e   E x t r a d i t i o n   A c t . 
+* 4 1 0   T h e   S m o l i n s   a r g u e ,   h o w e v e r ,   t h a t   m o r e   t h a n   a   f o r m a l   c h a r g e   i s   r e q u i r e d ,   c i t i n g   t h e   f o l l o w i n g   l a n g u a g e   f r o m   R o b e r t s   v .   R e i l l y ,   1 1 6   U . S .   8 0   ,   9 5   ( 1 8 8 5 ) :   " I t   m u s t   a p p e a r ,   t h e r e f o r e ,   t o   t h e   g o v e r n o r   o f   t h e   S t a t e   t o   w h o m   s u c h   a   d e m a n d   i s   p r e s e n t e d ,   b e f o r e   h e   c a n   l a w f u l l y   c o m p l y   w i t h   i t ,   f i r s t ,   t h a t   t h e   p e r s o n   d e m a n d e d   i s   s u b s t a n t i a l l y   c h a r g e d   w i t h   a   c r i m e   a g a i n s t   t h e   l a w s   o f   t h e   S t a t e   f r o m   w h o s e   j u s t i c e   h e   i s   a l l e g e d   t o   h a v e   f l e d ,   b y   a n   i n d i c t m e n t   o r   a n   a f f i d a v i t ,   c e r t i f i e d   a s   a u t h e n t i c   b y   t h e   g o v e r n o r   o f   t h e   S t a t e   m a k i n g   t h e   d e m a n d . 
 . 
 . 
 . 
-" [ This ] is a question of law , and is always open upon the face of the papers to judicial inquiry , on an application for a discharge under a writ of habeas corpus . " 
-The Smolins claim that this language in Roberts spawned a widespread practice of permitting the fugitive , upon a petition for writ of habeas corpus in the asylum State 's courts , to show that the demanding State 's charging instrument is so insufficient that it can not withstand some generalized version of a motion to dismiss or common - law demurrer . 
-Tr . 
-of Oral Arg . 
-29 - 36 . 
-The cases the Smolins principally rely upon as support for this asserted practice are People ex rel . 
-Lewis v. Commissioner of Correction of City of New York , 100 Misc . 
-2d 48 , 417 N. Y. S. 2d 377 ( 1979 ) , aff'd , 75 A.D. 2d 526 , 426 N. Y. S. 2d 969 ( 1980 ) , and Application of Varona , 38 Wash. 2d 833 , 232 P.2d 923 ( 1951 ) . 
-See Brief for Respondent 15 - 17 . 
-In Lewis , however , the New York trial court actually granted extradition despite its apparent misgivings about the substantiality of the criminal charge . 
-Lewis , supra , at 56 , 417 N. Y. S. 2d , at 382 . 
-And , in Varona , the Washington Supreme Court relied on the fact that the indictment , on its face , did not charge a crime under California law . 
-Application of Varona , supra , at 833 - 834 , 232 P.2d , at 923 - 924 . 
-Neither case , in our view , supports the broad proposition that the asylum State 's courts may entertain motions to dismiss or demurrers to the indictment or information from the demanding State . 
-* 411 To the contrary , our cases make clear that no such inquiry is permitted . 
-For example , in Pierce v. Creecy , decided after Roberts , supra , this Court refused to grant relief from extradition over multiple objections to the sufficiency of the indictment . 
-The Pierce Court concluded that it was enough that " the indictment , whether good or bad , as a pleading , unmistakably describes every element of the crime of false swearing , as it is defined in the Texas Penal Code . 
+" [ T h i s ]   i s   a   q u e s t i o n   o f   l a w ,   a n d   i s   a l w a y s   o p e n   u p o n   t h e   f a c e   o f   t h e   p a p e r s   t o   j u d i c i a l   i n q u i r y ,   o n   a n   a p p l i c a t i o n   f o r   a   d i s c h a r g e   u n d e r   a   w r i t   o f   h a b e a s   c o r p u s . " 
+T h e   S m o l i n s   c l a i m   t h a t   t h i s   l a n g u a g e   i n   R o b e r t s   s p a w n e d   a   w i d e s p r e a d   p r a c t i c e   o f   p e r m i t t i n g   t h e   f u g i t i v e ,   u p o n   a   p e t i t i o n   f o r   w r i t   o f   h a b e a s   c o r p u s   i n   t h e   a s y l u m   S t a t e ' s   c o u r t s ,   t o   s h o w   t h a t   t h e   d e m a n d i n g   S t a t e ' s   c h a r g i n g   i n s t r u m e n t   i s   s o   i n s u f f i c i e n t   t h a t   i t   c a n n o t   w i t h s t a n d   s o m e   g e n e r a l i z e d   v e r s i o n   o f   a   m o t i o n   t o   d i s m i s s   o r   c o m m o n - l a w   d e m u r r e r . 
+T r . 
+o f   O r a l   A r g . 
+2 9 - 3 6 . 
+T h e   c a s e s   t h e   S m o l i n s   p r i n c i p a l l y   r e l y   u p o n   a s   s u p p o r t   f o r   t h i s   a s s e r t e d   p r a c t i c e   a r e   P e o p l e   e x   r e l . 
+L e w i s   v .   C o m m i s s i o n e r   o f   C o r r e c t i o n   o f   C i t y   o f   N e w   Y o r k ,   1 0 0   M i s c . 
+2 d   4 8 ,   4 1 7   N .   Y .   S .   2 d   3 7 7   ( 1 9 7 9 ) ,   a f f ' d ,   7 5   A . D .   2 d   5 2 6 ,   4 2 6   N .   Y .   S .   2 d   9 6 9   ( 1 9 8 0 ) ,   a n d   A p p l i c a t i o n   o f   V a r o n a ,   3 8   W a s h .   2 d   8 3 3   ,   2 3 2   P . 2 d   9 2 3   ( 1 9 5 1 ) . 
+S e e   B r i e f   f o r   R e s p o n d e n t   1 5 - 1 7 . 
+I n   L e w i s ,   h o w e v e r ,   t h e   N e w   Y o r k   t r i a l   c o u r t   a c t u a l l y   g r a n t e d   e x t r a d i t i o n   d e s p i t e   i t s   a p p a r e n t   m i s g i v i n g s   a b o u t   t h e   s u b s t a n t i a l i t y   o f   t h e   c r i m i n a l   c h a r g e . 
+L e w i s ,   s u p r a ,   a t   5 6 ,   4 1 7   N .   Y .   S .   2 d ,   a t   3 8 2 . 
+A n d ,   i n   V a r o n a ,   t h e   W a s h i n g t o n   S u p r e m e   C o u r t   r e l i e d   o n   t h e   f a c t   t h a t   t h e   i n d i c t m e n t ,   o n   i t s   f a c e ,   d i d   n o t   c h a r g e   a   c r i m e   u n d e r   C a l i f o r n i a   l a w . 
+A p p l i c a t i o n   o f   V a r o n a ,   s u p r a ,   a t   8 3 3 - 8 3 4 ,   2 3 2   P . 2 d ,   a t   9 2 3 - 9 2 4   . 
+N e i t h e r   c a s e ,   i n   o u r   v i e w ,   s u p p o r t s   t h e   b r o a d   p r o p o s i t i o n   t h a t   t h e   a s y l u m   S t a t e ' s   c o u r t s   m a y   e n t e r t a i n   m o t i o n s   t o   d i s m i s s   o r   d e m u r r e r s   t o   t h e   i n d i c t m e n t   o r   i n f o r m a t i o n   f r o m   t h e   d e m a n d i n g   S t a t e . 
+* 4 1 1   T o   t h e   c o n t r a r y ,   o u r   c a s e s   m a k e   c l e a r   t h a t   n o   s u c h   i n q u i r y   i s   p e r m i t t e d . 
+F o r   e x a m p l e ,   i n   P i e r c e   v .   C r e e c y ,   d e c i d e d   a f t e r   R o b e r t s ,   s u p r a   ,   t h i s   C o u r t   r e f u s e d   t o   g r a n t   r e l i e f   f r o m   e x t r a d i t i o n   o v e r   m u l t i p l e   o b j e c t i o n s   t o   t h e   s u f f i c i e n c y   o f   t h e   i n d i c t m e n t . 
+T h e   P i e r c e   C o u r t   c o n c l u d e d   t h a t   i t   w a s   e n o u g h   t h a t   " t h e   i n d i c t m e n t ,   w h e t h e r   g o o d   o r   b a d ,   a s   a   p l e a d i n g ,   u n m i s t a k a b l y   d e s c r i b e s   e v e r y   e l e m e n t   o f   t h e   c r i m e   o f   f a l s e   s w e a r i n g ,   a s   i t   i s   d e f i n e d   i n   t h e   T e x a s   P e n a l   C o d e   . 
 . 
 . 
 . " 
-210 U.S. , at 404 . 
-It reasoned : " If more were required it would impose upon courts , in the trial of writs of habeas corpus , the duty of a critical examination of the laws of States with whose jurisprudence and criminal procedure they can have only a general acquaintance . 
-Such a duty would be an intolerable burden , certain to lead to errors in decision , irritable to the just pride of the States and fruitful of miscarriages of justice . 
-The duty ought not be assumed unless it is plainly required by the Constitution , and , in our opinion , there is nothing in the letter or the spirit of that instrument which requires or permits its performance . " 
-Id. , at 405 . 
-Similarly , in Biddinger v. Commissioner of Police , 245 U.S. 128 ( 1917 ) , the appellant argued that he had a seemingly valid statute of limitations defense based on the fact that more than three years , the limitations period , had elapsed since the date of the crime recited in the indictment and that he had been publicly and openly resident in the demanding State for that entire period . 
-The Court found that the question of limitations was properly considered only in the demanding State 's courts . 
-Id. , at 135 ; see also Drew v. Thaw , 235 U. S. , at 439 - 440 ( whether the escape of a person committed to a mental institution is a crime " is a question as to the law of New York which the New York courts must decide " ) This proceeding is neither the time nor place for the Smolins ' arguments that Judith Pope 's affidavit is fraudulent * 412 and that the California custody decrees establish Richard as the lawful custodian under the full faith and credit provision of the federal Parental Kidnaping Prevention Act of 1980 . 
-There is nothing in the record to suggest that the Smolins are not entirely correct in all of this : that California had exclusive modification jurisdiction over the custody of Jennifer and Jamie ; that , under the California decrees , Richard Smolin had lawful custody of the children when he brought them to California ; and , that , accordingly , the Smolins did not violate La. 
-Rev. 
-Stat . 
-Ann . 
-§ 14:45A(4 ) ( West 1986 ) as is charged . 
-Of course , the Parental Kidnaping Prevention Act of 1980 creates a uniform federal rule governing custody determinations , a rule to which the courts of Louisiana must adhere when they consider the Smolins ' case on the merits . 
-We are not informed by the record why it is that the States of California and Louisiana are so eager to force the Smolins halfway across the continent to face criminal charges that , at least to a majority of the California Supreme Court , appear meritless . 
-If the Smolins are correct , they are not only innocent of the charges made against them , but also victims of a possible abuse of the criminal process . 
-But , under the Extradition Act , it is for the Louisiana courts to do justice in this case , not the California courts : " surrender is not to be interfered with by the summary process of habeas corpus upon speculations as to what ought to be the result of a trial in the place where the Constitution provides for its taking place . " 
-Drew v. Thaw , supra , at 440 . 
-The judgment of the California Supreme Court is Reversed . 
+2 1 0   U . S . ,   a t   4 0 4   . 
+I t   r e a s o n e d :   " I f   m o r e   w e r e   r e q u i r e d   i t   w o u l d   i m p o s e   u p o n   c o u r t s ,   i n   t h e   t r i a l   o f   w r i t s   o f   h a b e a s   c o r p u s ,   t h e   d u t y   o f   a   c r i t i c a l   e x a m i n a t i o n   o f   t h e   l a w s   o f   S t a t e s   w i t h   w h o s e   j u r i s p r u d e n c e   a n d   c r i m i n a l   p r o c e d u r e   t h e y   c a n   h a v e   o n l y   a   g e n e r a l   a c q u a i n t a n c e . 
+S u c h   a   d u t y   w o u l d   b e   a n   i n t o l e r a b l e   b u r d e n ,   c e r t a i n   t o   l e a d   t o   e r r o r s   i n   d e c i s i o n ,   i r r i t a b l e   t o   t h e   j u s t   p r i d e   o f   t h e   S t a t e s   a n d   f r u i t f u l   o f   m i s c a r r i a g e s   o f   j u s t i c e . 
+T h e   d u t y   o u g h t   n o t   b e   a s s u m e d   u n l e s s   i t   i s   p l a i n l y   r e q u i r e d   b y   t h e   C o n s t i t u t i o n ,   a n d ,   i n   o u r   o p i n i o n ,   t h e r e   i s   n o t h i n g   i n   t h e   l e t t e r   o r   t h e   s p i r i t   o f   t h a t   i n s t r u m e n t   w h i c h   r e q u i r e s   o r   p e r m i t s   i t s   p e r f o r m a n c e . " 
+I d . ,   a t   4 0 5 . 
+S i m i l a r l y ,   i n   B i d d i n g e r   v .   C o m m i s s i o n e r   o f   P o l i c e ,   2 4 5   U . S .   1 2 8   ( 1 9 1 7 ) ,   t h e   a p p e l l a n t   a r g u e d   t h a t   h e   h a d   a   s e e m i n g l y   v a l i d   s t a t u t e   o f   l i m i t a t i o n s   d e f e n s e   b a s e d   o n   t h e   f a c t   t h a t   m o r e   t h a n   t h r e e   y e a r s ,   t h e   l i m i t a t i o n s   p e r i o d ,   h a d   e l a p s e d   s i n c e   t h e   d a t e   o f   t h e   c r i m e   r e c i t e d   i n   t h e   i n d i c t m e n t   a n d   t h a t   h e   h a d   b e e n   p u b l i c l y   a n d   o p e n l y   r e s i d e n t   i n   t h e   d e m a n d i n g   S t a t e   f o r   t h a t   e n t i r e   p e r i o d . 
+T h e   C o u r t   f o u n d   t h a t   t h e   q u e s t i o n   o f   l i m i t a t i o n s   w a s   p r o p e r l y   c o n s i d e r e d   o n l y   i n   t h e   d e m a n d i n g   S t a t e ' s   c o u r t s . 
+I d . ,   a t   1 3 5 ;   s e e   a l s o   D r e w   v .   T h a w ,   2 3 5   U .   S . ,   a t   4 3 9 - 4 4 0   ( w h e t h e r   t h e   e s c a p e   o f   a   p e r s o n   c o m m i t t e d   t o   a   m e n t a l   i n s t i t u t i o n   i s   a   c r i m e   " i s   a   q u e s t i o n   a s   t o   t h e   l a w   o f   N e w   Y o r k   w h i c h   t h e   N e w   Y o r k   c o u r t s   m u s t   d e c i d e " )   T h i s   p r o c e e d i n g   i s   n e i t h e r   t h e   t i m e   n o r   p l a c e   f o r   t h e   S m o l i n s '   a r g u m e n t s   t h a t   J u d i t h   P o p e ' s   a f f i d a v i t   i s   f r a u d u l e n t   * 4 1 2   a n d   t h a t   t h e   C a l i f o r n i a   c u s t o d y   d e c r e e s   e s t a b l i s h   R i c h a r d   a s   t h e   l a w f u l   c u s t o d i a n   u n d e r   t h e   f u l l   f a i t h   a n d   c r e d i t   p r o v i s i o n   o f   t h e   f e d e r a l   P a r e n t a l   K i d n a p i n g   P r e v e n t i o n   A c t   o f   1 9 8 0 . 
+T h e r e   i s   n o t h i n g   i n   t h e   r e c o r d   t o   s u g g e s t   t h a t   t h e   S m o l i n s   a r e   n o t   e n t i r e l y   c o r r e c t   i n   a l l   o f   t h i s :   t h a t   C a l i f o r n i a   h a d   e x c l u s i v e   m o d i f i c a t i o n   j u r i s d i c t i o n   o v e r   t h e   c u s t o d y   o f   J e n n i f e r   a n d   J a m i e ;   t h a t ,   u n d e r   t h e   C a l i f o r n i a   d e c r e e s ,   R i c h a r d   S m o l i n   h a d   l a w f u l   c u s t o d y   o f   t h e   c h i l d r e n   w h e n   h e   b r o u g h t   t h e m   t o   C a l i f o r n i a ;   a n d ,   t h a t ,   a c c o r d i n g l y ,   t h e   S m o l i n s   d i d   n o t   v i o l a t e   L a . 
+R e v . 
+S t a t . 
+A n n . 
+§   1 4 : 4 5 A ( 4 )   ( W e s t   1 9 8 6 )   a s   i s   c h a r g e d . 
+O f   c o u r s e ,   t h e   P a r e n t a l   K i d n a p i n g   P r e v e n t i o n   A c t   o f   1 9 8 0   c r e a t e s   a   u n i f o r m   f e d e r a l   r u l e   g o v e r n i n g   c u s t o d y   d e t e r m i n a t i o n s ,   a   r u l e   t o   w h i c h   t h e   c o u r t s   o f   L o u i s i a n a   m u s t   a d h e r e   w h e n   t h e y   c o n s i d e r   t h e   S m o l i n s '   c a s e   o n   t h e   m e r i t s . 
+W e   a r e   n o t   i n f o r m e d   b y   t h e   r e c o r d   w h y   i t   i s   t h a t   t h e   S t a t e s   o f   C a l i f o r n i a   a n d   L o u i s i a n a   a r e   s o   e a g e r   t o   f o r c e   t h e   S m o l i n s   h a l f w a y   a c r o s s   t h e   c o n t i n e n t   t o   f a c e   c r i m i n a l   c h a r g e s   t h a t ,   a t   l e a s t   t o   a   m a j o r i t y   o f   t h e   C a l i f o r n i a   S u p r e m e   C o u r t ,   a p p e a r   m e r i t l e s s . 
+I f   t h e   S m o l i n s   a r e   c o r r e c t ,   t h e y   a r e   n o t   o n l y   i n n o c e n t   o f   t h e   c h a r g e s   m a d e   a g a i n s t   t h e m ,   b u t   a l s o   v i c t i m s   o f   a   p o s s i b l e   a b u s e   o f   t h e   c r i m i n a l   p r o c e s s . 
+B u t ,   u n d e r   t h e   E x t r a d i t i o n   A c t ,   i t   i s   f o r   t h e   L o u i s i a n a   c o u r t s   t o   d o   j u s t i c e   i n   t h i s   c a s e ,   n o t   t h e   C a l i f o r n i a   c o u r t s :   " s u r r e n d e r   i s   n o t   t o   b e   i n t e r f e r e d   w i t h   b y   t h e   s u m m a r y   p r o c e s s   o f   h a b e a s   c o r p u s   u p o n   s p e c u l a t i o n s   a s   t o   w h a t   o u g h t   t o   b e   t h e   r e s u l t   o f   a   t r i a l   i n   t h e   p l a c e   w h e r e   t h e   C o n s t i t u t i o n   p r o v i d e s   f o r   i t s   t a k i n g   p l a c e . " 
+D r e w   v .   T h a w ,   s u p r a   ,   a t   4 4 0 . 
+T h e   j u d g m e n t   o f   t h e   C a l i f o r n i a   S u p r e m e   C o u r t   i s   R e v e r s e d . 

@@ -10,14 +10,15 @@ def pipeline(path, tokeniz="tok", model='mod'):
     #raw_toks = tokenizer(text, tokenizer=tokeniz)
     experts =  getExperts("../dataset_v20230110.tsv",path)
     #print("experts", experts)
-    experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
-    print("tokens experts",experts)
+    #experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
+    #print("tokens experts",experts)
+    print("model", model)
     seg = segmentation(text, tokenizer=tokeniz, model=model)
     saveSegmentation(path, seg, model)
-    print("seg : ",seg)
+    #print("seg : ",seg)
     
     # sklearn
-    print(eval_sklearn(experts, seg)) 
+    #print(eval_sklearn(experts, seg)) 
     
     return eval(experts, seg)
 

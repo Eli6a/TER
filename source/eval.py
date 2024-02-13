@@ -1,5 +1,5 @@
 from sklearn.metrics import f1_score, recall_score, precision_score
-
+import re
 def eval(original, segmented):
     idx_ori = indexes_from_sentences(original)
     idx_segmented = indexes_from_sentences(segmented)
@@ -7,7 +7,6 @@ def eval(original, segmented):
     #print(idx_ori)
     #print("seg", segmented)
     #print(idx_segmented)
-    
     precision, recall, f1 = evaluate_indices(idx_ori, idx_segmented)
     #print("Precision : ", precision,"\nRecall : ", recall,"\nF1 : ", f1)
     return precision, recall, f1
@@ -16,8 +15,9 @@ def eval(original, segmented):
 def indexes_from_sentences(sentences):
     indices = []
     offset = 0
-    for sentence in sentences[:-1]:
-        offset += len(sentence) # +1
+    for sentence in sentences:
+        print(type(sentence), sentence)
+        offset += len(re.sub('\s*','',sentence))
         indices += [offset]
     return indices
 
@@ -26,7 +26,6 @@ def evaluate_indices(ori, seg):
     tp = len(pred.intersection(true))
     fp = len(pred - true)
     fn = len(true - pred)
-
     return score(tp, fp, fn)
 
 def score(tp, fp, fn):
