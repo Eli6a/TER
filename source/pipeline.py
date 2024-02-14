@@ -49,18 +49,19 @@ def evaluation(dir_path, tokeniz="tok", model='mod'):
     return df["recall"].mean(), df["precision"].mean(), df["F1_score"].mean()
 
 def saveSegmentation(path, seg, model):
-    res = ""
-    for i in range(len(seg)):
-        temp_res = ""
-        for j in range(len(seg[i])):
-            temp_res += seg[i][j] + ' '
-        res += temp_res
-        if i < len(seg)-1:
-                #print("seg i ", seg[i][j])
-            res += "\n"
+    if model != "ersatz":
+        res = ""
+        for i in range(len(seg)):
+            temp_res = ""
+            for j in range(len(seg[i])):
+                temp_res += seg[i][j] + ' '
+            res += temp_res
+            if i < len(seg)-1:
+                    #print("seg i ", seg[i][j])
+                res += "\n"
+        with open("../outputs/"+model+"/"+path.split('/')[-1], 'w') as f:
+            f.write(res)
 
-    with open("../outputs/"+model+"/"+path.split('/')[-1], 'w') as f:
-        f.write(res)
 if __name__ == "__main__":
     # execute only if run as a script
     pipeline()

@@ -16,7 +16,6 @@ def indexes_from_sentences(sentences):
     indices = []
     offset = 0
     for sentence in sentences:
-        print(type(sentence), sentence)
         offset += len(re.sub('\s*','',sentence))
         indices += [offset]
     return indices
