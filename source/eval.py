@@ -65,3 +65,4 @@ def eval_sklearn(expert, segmented):
 def index_differences(array1, array2):
     differences = [i for i, (a, b) in enumerate(zip(array1, array2)) if a != b]
     return differences
+

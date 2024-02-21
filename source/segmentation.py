@@ -84,7 +84,6 @@ def segmentation(text, tokenizer=None, model=None, args=None):
             doc = nlp(text)
             sentences = []
             for sentence in doc.sents:
-                print(sentence.text)
                 sentences += [sentence.text]
             return sentences
         
@@ -122,7 +121,6 @@ def custom_segmentation(doc):
         if token.text == ".":
             # Le point est suivi d'une suite de 4 chiffres max et d'un point ou parenthèse
             if (re.match(r'^\d{1,4}$', doc[i + 1].text) or is_roman_numeral(doc[i + 1])) and (doc[i+2].text == "." or doc[i+2].text == ")"):
-                print(doc[i + 1].text, " ", doc[i + 2].text)
                 doc[i + 1].is_sent_start = False
             
             # Les parenthèses / crochets font partie de la phrase précédente
