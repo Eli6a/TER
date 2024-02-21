@@ -4,9 +4,9 @@ import spacy
 from spacy.language import Language
 from nltk.tokenize import sent_tokenize, word_tokenize
 from spacy.lang.en import English
-from ersatz.split import split, parse_args, EvalModel
-from ersatz.utils import get_model_path, list_models, MODELS
-from ersatz.candidates import PunctuationSpace
+# from ersatz.split import split, parse_args, EvalModel
+# from ersatz.utils import get_model_path, list_models, MODELS
+# from ersatz.candidates import PunctuationSpace
 import argparse
 from io import StringIO
 import re
@@ -76,15 +76,16 @@ def segmentation(text, tokenizer=None, model=None, args=None):
             return text
         
         case "custom_spacy":
-            try:
-                nlp = spacy.load("../models/custom_spacy_model")
-            except OSError:
-                nlp = custom_spacy_model()            
+            # try:
+            #     nlp = spacy.load("../models/custom_spacy_model")
+            # except OSError:
+            #     
+            nlp = custom_spacy_model()            
             
             doc = nlp(text)
             sentences = []
             for sentence in doc.sents:
-                print(sentence.text)
+                #print(sentence.text)
                 sentences += [sentence.text]
             return sentences
         
@@ -109,31 +110,59 @@ def is_roman_numeral(token):
 # Ajouter une règle de segmentation personnalisée
 def custom_segmentation(doc):
     to_end_after_bracket = False
+    
     for i, token in enumerate(doc[:-1]):
+        # Cf est un début de phrase
+        if re.match(r'c\.? ?f\.? ?', token.text.lower()):
+            doc[i].is_sent_start = True
+            if (i < len(doc)-2):
+                doc[i+1].is_sent_start = False
+            continue
+        
+        # place fin de phrase après les crochets et parenthèses si point avant
         if (token.text == "]" or token.text == ")") and to_end_after_bracket:
             doc[i + 1].is_sent_start = True
             to_end_after_bracket = False
             continue
-            
+        
+        # ce qui est entre crochets ou parenthèses est dans la phrase précédente    
         if to_end_after_bracket:
             doc[i + 1].is_sent_start = False
             continue
-            
+        
+        # Les points-virgules sont des fins de phrase
+        if token.text == ";" and i < len(doc) - 2:
+            doc[i].is_sent_start = False
+            #doc[i+1].is_sent_start = True
+            continue
+        
+        ## Réduit précision, augmente rappel
+        # Une suite de 4 chiffres max suivi d'un point, tiret ou parenthèse
+        if (i < len(doc) - 2) and ((re.match(r'^\d{1,4}|', doc[i + 1].text) or is_roman_numeral(doc[i + 1])) and (re.findall(r' ?\.|\-|\)', doc[i+2].text))):
+            if i > 0 and doc[i - 1].text == ".":
+                doc[i].is_sent_start = False
+            continue
+        
+        # Point de peut pas être début de phrase    
         if token.text == ".":
-            # Le point est suivi d'une suite de 4 chiffres max et d'un point ou parenthèse
-            if (re.match(r'^\d{1,4}$', doc[i + 1].text) or is_roman_numeral(doc[i + 1])) and (doc[i+2].text == "." or doc[i+2].text == ")"):
-                print(doc[i + 1].text, " ", doc[i + 2].text)
-                doc[i + 1].is_sent_start = False
-            
+            doc[i].is_sent_start = False
+                        
             # Les parenthèses / crochets font partie de la phrase précédente
-            elif doc[token.i + 1].text == "[" or doc[token.i + 1].text == "(" or doc[token.i + 2].text == "[" or doc[token.i + 2].text == "(":
+            if doc[token.i + 1].text == "[" or doc[token.i + 1].text == "(" or doc[token.i + 2].text == "[" or doc[token.i + 2].text == "(":
                 doc[token.i + 1].is_sent_start = False
                 to_end_after_bracket = True
              
             # Le point est suivi d'une minuscule   
-            elif re.match(r'\b[a-z]\w*\b', doc[i + 1].text):
+            elif re.match(r' ?\b[a-z]\w*\b', doc[i + 1].text):
                 doc[i + 1].is_sent_start = False
                 
+            continue
+        
+        # Si fin de citation
+        if re.match(r'"$', token.text):
+            # Si suivi de mot avec un point ou contient un chiffre ou guillemet au début, pas fin de phrase
+            if (re.match(r'\w{1, 4}\.', doc[i + 1].text) or re.match(r'^\d|"', doc[i + 1].text)):
+                doc[token.i + 1].is_sent_start = False
             
             continue
     return doc
