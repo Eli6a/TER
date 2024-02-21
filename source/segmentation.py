@@ -10,6 +10,7 @@ from ersatz.candidates import PunctuationSpace
 import argparse
 from io import StringIO
 import re
+import torch
 
 def segmentation(text, tokenizer=None, model=None, args=None):
     # tokenizer(text, model)
