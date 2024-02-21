@@ -14,6 +14,7 @@ def pipeline(path, tokeniz="tok", model='mod'):
     #print("tokens experts",experts)
     print("model", model)
     seg = segmentation(text, tokenizer=tokeniz, model=model)
+    print("Segmentation", seg)
     saveSegmentation(path, seg, model)
     #print("seg : ",seg)
     
@@ -53,12 +54,12 @@ def saveSegmentation(path, seg, model):
         res = ""
         for i in range(len(seg)):
             temp_res = ""
-            for j in range(len(seg[i])):
-                temp_res += seg[i][j] + ' '
-            res += temp_res
-            if i < len(seg)-1:
+            #for j in range(len(seg[i])):
+            #    temp_res += seg[i][j] + ' '
+            #res += temp_res
+            #if i < len(seg)-1:
                     #print("seg i ", seg[i][j])
-                res += "\n"
+            res += seg[i] + "\n"
         with open("../outputs/"+model+"/"+path.split('/')[-1], 'w') as f:
             f.write(res)
 

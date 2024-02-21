@@ -92,6 +92,6 @@ def naive_segmentation(text):
             sentences += [sentence]
             sentence = ""
         else:
-            sentence += token    
+            sentence += token + ' '
             
     return sentences
