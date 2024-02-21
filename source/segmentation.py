@@ -51,6 +51,15 @@ def segmentation(text, tokenizer=None, model=None):
         case None: 
             return text
         
+        case "custom_spacy":
+            nlp = spacy.load("../models/custom_spacy_model")
+            doc = nlp(text)
+            sentences = []
+            for sentence in doc.sents:
+                print(sentence.text)
+                sentences += [sentence.text]
+            return sentences
+        
 def naive_segmentation(text):
     tokens = custom_tok(text, tokenizer="nltk-word")    
     sentences = []
