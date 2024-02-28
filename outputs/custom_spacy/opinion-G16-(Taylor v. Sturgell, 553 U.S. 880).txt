@@ -103,7 +103,8 @@ Disagreeing with these courts, the D.C. Circuit deemed notice an "important" but
 The court then concluded that Herrick had adequately represented Taylor even though Taylor had received no notice of Herrick's suit.
 For this conclusion, the appeals court relied on Herrick's "strong incentive to litigate" and Taylor's later engagement of the same attorney, which indicated to the court Taylor's satisfaction with that attorney's performance in Herrick's case.
 See 490 F.3d, at 974-975.
-The D.C. Circuit also found its "close relationship" criterion met, for Herrick had "asked Taylor to assist him in restoring his F-45" and "provided information to Taylor that Herrick had obtained through discovery"; furthermore, Taylor "did not oppose Fairchild's characterization of Herrick as his `close associate.'" Id., at 975.
+The D.C. Circuit also found its "close relationship" criterion met, for Herrick had "asked Taylor to assist him in restoring his F-45" and "provided information to Taylor that Herrick had obtained through discovery"; furthermore, Taylor "did not oppose Fairchild's characterization of Herrick as his `close associate.'"
+Id., at 975.
 Because the three above-described factors sufficed to establish virtual representation under the D.C. Circuit's five-factor test, the appeals court left open the question whether Taylor had engaged in "tactical maneuvering."
 See id., at 976 (calling the facts bearing on tactical maneuvering "ambigu[ous]"). [2]
 We granted certiorari, 552 U.S. ___, 128 S. Ct. 977, 169 L. Ed. 2d 800 (2008), to resolve the disagreement among the Circuits over the permissibility and scope of preclusion based on "virtual representation." [3]
@@ -221,7 +222,8 @@ Brief for Respondent Fairchild 20.
 See also Brief for Respondent FAA 22 ("there is no clear test" for nonparty preclusion; rather, an "equitable and fact-intensive" inquiry is demanded (internal quotation marks omitted)).
 Only this sort of diffuse balancing, Fairchild and the FAA argue, can account for all of the situations in which nonparty preclusion is appropriate.
 We reject this argument for three reasons.
-First, our decisions emphasize the fundamental nature of the general rule that a litigant is not bound by a judgment to which she was not a party See, e.g., Richards, 517 U.S., at 798-799, 116 S. Ct. 1761 ;
+First, our decisions emphasize the fundamental nature of the general rule that a litigant is not bound by a judgment to which she was not a party
+See, e.g., Richards, 517 U.S., at 798-799, 116 S. Ct. 1761 ;
 Martin, 490 U.S., at 761-762, 109 S. Ct. 2180 .
 Martin, 490 U.S., at 761-762, 109 S. Ct. 2180 .
 Accordingly, we have endeavored to delineate discrete exceptions that apply in "limited circumstances."

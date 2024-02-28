@@ -48,7 +48,8 @@ It said:
 220 U.S., at 171 .
 It embraced the Bouvier Dictionary definition:
 "That which occupies the time, attention and labor of men for the purpose of a livelihood or profit."
-Ibid. See also Helvering v. Horst, 311 U.S. 112 , 118 (1940).
+Ibid.
+See also Helvering v. Horst, 311 U.S. 112 , 118 (1940).
 And Justice Frankfurter has observed that "we assume that Congress uses common words in their popular meaning, as used in the common speech of men."
 Frankfurter, Some Reflections on the Reading of Statutes, 47 Colum.
 L. Rev. 527, 536 (1947).
@@ -56,7 +57,8 @@ With these general comments as significant background, we turn to pertinent case
 Snyder v. Commissioner, 295 U.S. 134 (1935), had to do with margin trading and capital gains, and held, in that context, that an investor, seeking merely to increase his holdings, was not engaged in a trade or business.
 Justice Brandeis, in his opinion for the Court, noted that the Board of Tax Appeals theretofore had ruled that a taxpayer who devoted the major portion of his time to transactions on the stock exchange for the purpose of making a livelihood could treat losses incurred as having been sustained in the course of a trade or business.
 He went on to observe that no facts were adduced in Snyder to show that the taxpayer "might properly be characterized as a `trader on an exchange who makes a living in buying and selling securities.'
-" Id., at 139.
+"
+Id., at 139.
 These observations, thus, are dicta, but, by their use, the Court appears to have drawn a distinction between an active trader and an investor.
 In Deputy v. Du Pont, 308 U.S. 488 (1940), the Court was concerned with what were "ordinary and necessary" expenses of a taxpayer's trade or business, within the meaning of § 23(a) of the Revenue Act of 1928, 45 Stat. 799.
 In ascertaining whether carrying charges on short sales of stock were deductible as ordinary and necessary expenses of the taxpayer's business, the Court assumed that the activities of the taxpayer in conserving and enhancing his estate constituted a trade or business, but nevertheless disallowed the *29 claimed deductions because they were not "ordinary" or "necessary."

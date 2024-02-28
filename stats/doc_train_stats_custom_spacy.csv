@@ -1,13 +1,13 @@
 model,file,precision,recall,F1_score
-custom_spacy,"opinion-G16-(Taylor v. Sturgell, 553 U.S. 880).txt",0.9108108108108108,0.9232876712328767,0.9170068027210884
+custom_spacy,"opinion-G16-(Taylor v. Sturgell, 553 U.S. 880).txt",0.9112903225806451,0.9287671232876712,0.9199457259158751
 custom_spacy,ROSENBLATT v. BAER_MCL.txt,0.8508771929824561,0.97,0.9065420560747663
-custom_spacy,opinion-G16-(Florida Power _ Light Co. v. Electric.txt,0.7602739726027398,0.8740157480314961,0.8131868131868133
+custom_spacy,opinion-G16-(Florida Power _ Light Co. v. Electric.txt,0.7635135135135135,0.889763779527559,0.8218181818181819
 custom_spacy,"opinion-G16-(Sanford v. Kepner, 344 U.S. 13).html.txt",0.7948717948717948,0.9393939393939394,0.8611111111111112
 custom_spacy,Baldwin_v_Reese_retagged.txt,0.9743589743589743,0.95,0.9620253164556962
-custom_spacy,Sandoz Inc. v. Amgen Inc_MCL.txt,0.9015748031496063,0.9462809917355371,0.9233870967741934
+custom_spacy,Sandoz Inc. v. Amgen Inc_MCL.txt,0.8988326848249028,0.9545454545454546,0.9258517034068137
 custom_spacy,"opinion-G16-(Jenkins v. Georgia, 418 U.S. 153).htm.txt",0.75,0.9230769230769231,0.8275862068965517
 custom_spacy,"opinion-G16-(California v. Superior Court of Cal.,.txt",0.8846153846153846,0.9349593495934959,0.909090909090909
 custom_spacy,California v. Greenwood_retagged.txt,0.968,0.9758064516129032,0.9718875502008033
-custom_spacy,Commissioner v. Groetzinger_MCL_retagged.txt,0.8719512195121951,0.934640522875817,0.9022082018927446
+custom_spacy,Commissioner v. Groetzinger_MCL_retagged.txt,0.8734939759036144,0.9477124183006536,0.9090909090909091
 custom_spacy,opinion-G16-(United States v. Mississippi Chemical.txt,0.9027777777777778,0.948905109489051,0.9252669039145908
 custom_spacy,"opinion-G16-(Shapiro v. McManus, 136 S. Ct. 450).h.txt",0.8282828282828283,0.9213483146067416,0.8723404255319148

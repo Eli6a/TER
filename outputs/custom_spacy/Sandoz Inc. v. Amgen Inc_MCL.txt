@@ -94,7 +94,8 @@ Two of the BPCIA’s remedial provisions are at issue here.
 Under §262(l)(9)(C), if an applicant fails to provide its application and manufacturing information to the sponsor—thus effectively pretermitting the entire two-phase litigation process—then the sponsor, but not the applicant, may immediately bring an action “for a declaration of infringement, validity, or enforceability of any patent that claims the biological product or a use of the biological product.”
 Section 271(e)(2)(C)(ii) facilitates this action by making it an artificial act of infringement, with respect to any patent that could have been included on the §262(l)(3) lists, to submit a biosimilar application.
 Similarly, when an applicant provides the application and manufacturing information but fails to complete a subse- quent step, §262(l)(9)(B) provides that the sponsor, but not the applicant, may bring a declaratory-judgment action with respect to any patent included on the sponsor’s §262(l)(3)(A) list of patents (as well as those it acquired later and added to the list).
-As noted, it is an act of artifi- cial infringement, with respect to any patent on the §262(l)(3) lists, to submit an application to the FDA. See §271(e)(2)(C)(i).
+As noted, it is an act of artifi- cial infringement, with respect to any patent on the §262(l)(3) lists, to submit an application to the FDA.
+See §271(e)(2)(C)(i).
 See §271(e)(2)(C)(i).
 These cases concern filgrastim, a biologic used to stimu- late the production of white blood cells.
 Amgen, the re- spondent in No. 15–1039 and the petitioner in No. 15– 1195, has marketed a filgrastim product called Neupogen since 1991 and claims to hold patents on methods of man- ufacturing and using filgrastim.
@@ -137,7 +138,8 @@ The first question we must answer is whether §262(l)(2)(A)’s requirement that
 We agree with the Federal Circuit that an injunction under federal law is not available to enforce §262(l)(2)(A), though for slightly different reasons than those provided by the court below.
 he Federal Circuit held that “ 42 U.S. C . §262(l)(9)(C) and 35 U.S. C . §271(e) expressly provide the only remedies” for a violation of §262(l)(2)(A), 794 F.3d, at 1357 , and neither of those provisions author- izes a court to compel compliance with §262(l)(2)(A).
 In concluding that the remedies specified in the BPCIA are exclusive, the Federal Circuit relied primarily on §271(e)(4), which states that it provides “ ‘the only reme- dies which may be granted by a court for an act of [artifi- cial] infringement.’
-” Id., at 1356 (emphasis deleted).
+”
+Id., at 1356 (emphasis deleted).
 The flaw in the Federal Circuit’s reasoning is that Sandoz’s failure to disclose its application and manufac- turing information was not an act of artificial infringe- ment, and thus was not remediable under §271(e)(4).
 Submitting an application constitutes an act of artificial infringement.
 See §§271(e)(2)(C)(i), (ii) (“It shall be an act of infringement to submit . . .
@@ -233,7 +235,8 @@ In its view, this variation “is a strong textual indication that §262(l)(8)(A
 Ibid.
 Amgen’s interpretation is not necessary to harmonize Congress’ use of the two different phrases.
 The provision upon which Amgen primarily relies (and that is generally illustrative of the other provisions it cites) requires the applicant to explain why the sponsor’s patents are “ ‘inva- lid, unenforceable, or will not be infringed by the commer- cial marketing of the biological product that is the subject of the subsection (k) application.’
-” Id., at 29–30 (quoting §262(l)(3)(B)(ii)(I); emphasis deleted).
+”
+Id., at 29–30 (quoting §262(l)(3)(B)(ii)(I); emphasis deleted).
 This provision uses the phrase “subject of the subsection (k) application” rather than “product licensed under subsection (k)”
 be-
 cause the applicant can evaluate validity, enforceability, and infringement with respect to the biosimilar only as it exists when the applicant is conducting the evaluation, which it does before licensure.
