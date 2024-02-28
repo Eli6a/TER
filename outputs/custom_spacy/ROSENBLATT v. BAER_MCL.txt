@@ -1,5 +1,4 @@
-MR.
-JUSTICE BRENNAN delivered the opinion of the Court.
+MR. JUSTICE BRENNAN delivered the opinion of the Court.
 A jury in New Hampshire Superior Court awarded respondent damages in this civil libel action based on one of petitioner's columns in the Laconia Evening Citizen.
 Respondent alleged that the column contained defamatory falsehoods concerning his performance as Supervisor of the Belknap Country Recreation Area, a facility owned and operated by Belknap County.
 In the interval between the trial and the decision of petitioner's appeal by the New Hampshire Supreme Court, we decided New York Times Co. v. Sullivan, 376 U. S. 254 .
@@ -17,10 +16,13 @@ Petitioner regularly contributed an unpaid column to the Laconia Evening Citizen
 In it he frequently commented on political matters.
 As an outspoken proponent of the change in operations at the Recreation Area, petitioner's views were often sharply stated, and he had indicated disagreement with the actions taken by respondent and the County Commissioners.
 In January 1960, during the first ski season under the new management, some six months after respondent's discharge, petitioner published the column that respondent alleges libeled him.
-In relevant part, it reads: "Been doing a little listening and checking at Belknap Recreation Area and am thunderstruck by what am learning.
+In relevant part, it reads:
+"Been doing a little listening and checking at Belknap Recreation Area and am thunderstruck by what am learning.
 "This year, a year without snow till very late, a year with actually few very major changes in procedure; the difference in cash income simply fantastic, almost unbelievable.
 "On any sort of comparative basis, the Area this year is doing literally hundreds of per cent BETTER than last year.
-"When consider that last year was excellent snow year, that season started because of more snow, months earlier last year, one can only ponder following question: "What happened to all the money last year?
+"When consider that last year was excellent snow year, that season started because of more snow, months earlier last year, one can only ponder following question:
+"
+What happened to all the money last year?
 and every other year?
 What magic has Dana Beane *79
 [Chairman of the new commission] and rest of commission, and Mr. Warner [respondent's replacement as Supervisor] wrought to make such tremendous difference in net cash results?"
@@ -45,8 +47,7 @@ These statements were false in that although the police had been "deployed near 
 We held that evidence that Sullivan as Police Commissioner was the supervisory head of the Police Department was constitutionally insufficient to show that the statements about police activity were "of and concerning" him; we rejected as inconsistent with the First and Fourteenth Amendments the proposition followed by the Alabama Supreme Court in the case that "[i]n measuring the performance or deficiencies of . . .
 groups, praise or criticism is usually attached to the official in complete control of the body," we rejected as inconsistent with the First and Fourteenth Amendments the proposition followed by the Alabama Supreme Court in the case that "[i]n measuring the performance or deficiencies of . . .
 groups, praise or criticism is usually attached to the official in complete control of the body," 273 Ala. 656, 674-675, 144
-So.
-2d 25, 39.
+So. 2d 25, 39.
 To allow the jury to connect the statements with Sullivan on that presumption alone was, in our view, to invite the spectre of prosecutions for libel on government, which the Constitution does not tolerate in any form.
 376 U. S., at 273-276, 290-292 . [4]
 We held "that such a proposition may not constitutionally be utilized to establish that an otherwise impersonal attack on governmental operations was a libel of an official responsible for those operations."
@@ -73,7 +74,8 @@ If it does, it is clear that the jury instructions were improper.
 Under the instructions, the jury was permitted *84 to find that negligent misstatement of fact would defeat petitioner's privilege.
 That test was rejected in Garrison, 379 U. S., at 79 , where we said, "The test which we laid down in New York Times is not keyed to ordinary care; defeasance of the privilege is conditioned, not on mere negligence, but on reckless disregard for the truth."
 The trial court also charged that "[d]efamatory matter which constitutes comment rather than fact is justified if made without malice and represented fair comment on matters of public interest," and defined malice to include "ill will, evil motive, intention to injure . . . ."
-This definition of malice is constitutionally insufficient where discussion of public affairs is concerned; "[w]e held in New York Times that a public official might be allowed the civil remedy only if he establishes that the utterance was false and that it was made with knowledge of its falsity or in reckless disregard of whether it was false or true."
+This definition of malice is constitutionally insufficient where discussion of public affairs is concerned;
+"[w]e held in New York Times that a public official might be allowed the civil remedy only if he establishes that the utterance was false and that it was made with knowledge of its falsity or in reckless disregard of whether it was false or true."
 Garrison, 379 U. S., at 74 .
 Turning, then, to the question whether respondent was a "public official" within New York Times, we reject at the outset his suggestion that it should be answered by reference to state-law standards.
 States have developed definitions of "public official" for local administrative purposes, not the purposes of a national constitutional protection. [9]

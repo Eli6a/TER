@@ -1,7 +1,6 @@
 Justice GINSBURG delivered the opinion of the Court.
 "It is a principle of general application in Anglo-American jurisprudence that one is not bound by a judgment in personam *2167 in a litigation in which he is not designated as a party or to which he has not been made a party by service of process."
-Hansberry v. Lee, 311 U.S. 32 , 40, 61 S. Ct. 115 , 85 L. Ed. 22 (1940)
-.
+Hansberry v. Lee, 311 U.S. 32 , 40, 61 S. Ct. 115 , 85 L. Ed. 22 (1940).
 Several exceptions, recognized in this Court's decisions, temper this basic rule In a class action, for example, a person not named as a party may be bound by a judgment on the merits of the action, if she was adequately represented by a party who actively participated in the litigation.
 See id., at 41, 61 S. Ct. 115 .
 In this case, we consider for the first time whether there is a "virtual representation" exception to the general rule against precluding nonparties.
@@ -34,9 +33,7 @@ Challenging the FAA's invocation of the trade-secret exemption, Herrick placed h
 The letter authorized the agency to lend any documents in its files to the public "for use in making repairs or replacement parts for aircraft produced by Fairchild."
 Herrick v. Garvey, 298 F.3d 1184 , 1193 (C.A.10 2002) (internal quotation marks omitted).
 This broad authorization, Herrick maintained, showed that the F-45 certification records held by the FAA could not be regarded as "secre[t]" or "confidential" within the meaning of § 552(b)(4).
-Rejecting Herrick's argument, the District Court granted summary judgment to the FAA.
-Herrick v. Garvey, 200 F. Supp.
-2d 1321 , 1328-1329 (D.Wyo.2000).
+Rejecting Herrick's argument, the District Court granted summary judgment to the FAA. Herrick v. Garvey, 200 F. Supp. 2d 1321 , 1328-1329 (D.Wyo.2000).
 The 1955 letter, the court reasoned, did not deprive the F-45 certification documents of trade-secret status, for those documents were never in fact released pursuant to the letter's blanket authorization.
 See id., at 1329.
 The court also stated that even if the 1955 letter had waived trade-secret protection, Fairchild had successfully "reversed" the waiver by objecting to the FAA's release of the records to Herrick.
@@ -50,8 +47,7 @@ In so ruling, the Tenth Circuit noted that Herrick had failed to challenge two s
 First, the District Court assumed trade-secret status could be "restored" to documents that had lost protection.
 Id., at 1194, n. 10.
 Second, the District Court also assumed that Fairchild had regained trade-secret status for the documents even though the company claimed that status only "after Herrick had initiated his request" for the F-45 records.
-Ibid.
-The Court of Appeals expressed no opinion on the validity of these suppositions.
+Ibid. The Court of Appeals expressed no opinion on the validity of these suppositions.
 See id., at 1194-1195, n. 10.
 The Tenth Circuit's decision issued on July 24, 2002.
 Less than a month later, on August 22, petitioner Brent Taylora friend of Herrick's and an antique aircraft enthusiast in his own rightsubmitted a FOIA request seeking the same documents Herrick had unsuccessfully sued to obtain.
@@ -61,19 +57,24 @@ But Taylor also sought to litigate the two issues concerning recapture of protec
 After Fairchild intervened as a defendant, [1] *2169 the District Court in D.C. concluded that Taylor's suit was barred by claim preclusion; accordingly, it granted summary judgment to Fairchild and the FAA.
 The court acknowledged that Taylor was not a party to Herrick's suit.
 Relying on the Eighth Circuit's decision in Tyus v. Schoemehl, 93 F.3d 449 (1996), however, it held that a nonparty may be bound by a judgment if she was "virtually represented" by a party.
-App. to Pet. for Cert.
-30a-31a.
+App. to Pet. for Cert. 30a-31a.
 The Eighth Circuit's seven-factor test for virtual representation, adopted by the District Court in Taylor's case, requires an "identity of interests" between the person to be bound and a party to the judgment.
 See id., at 31a.
 See also Tyus, 93 F.3d, at 455.
-Six additional factors counsel in favor of virtual representation under the Eighth Circuit's test, but are not prerequisites: (1) a "close relationship" between the present party and a party to the judgment alleged to be preclusive; (2) "participation in the prior litigation" by the present party; (3) the present party's "apparent acquiescence" to the preclusive effect of the judgment; (4) "deliberat[e] maneuver[ing]" to avoid the effect of the judgment; (5) adequate representation of the present party by a party to the prior adjudication; and (6) a suit raising a "public law" rather than a "private law" issue.
-App. to Pet. for Cert. 31a (citing Tyus, 93 F.3d, at 454-456)
-.
-App. to Pet. for Cert. 31a (citing Tyus, 93 F.3d, at 454-456)
-.
+Six additional factors counsel in favor of virtual representation under the Eighth Circuit's test, but are not prerequisites:
+(1) a "close relationship" between the present party and a party to the judgment alleged to be preclusive;
+(2) "participation in the prior litigation" by the present party;
+(3) the present party's "apparent acquiescence" to the preclusive effect of the judgment;
+(4) "deliberat[e] maneuver[ing]" to avoid the effect of the judgment;
+(5) adequate representation of the present party by a party to the prior adjudication; and (6) a suit raising a "public law" rather than a "private law" issue.
+App. to Pet. for Cert. 31a (citing Tyus, 93 F.3d, at 454-456).
+App. to Pet. for Cert. 31a (citing Tyus, 93 F.3d, at 454-456).
 These factors, the D.C. District Court observed, "constitute a fluid test with imprecise boundaries" and call for "a broad, case-by-case inquiry."
 App. to Pet. for Cert. 32a.
-The record before the District Court in Taylor's suit revealed the following facts about the relationship between Taylor and Herrick: Taylor is the president of the Antique Aircraft Association, an organization to which Herrick belongs; the two men are "close associate[s]," App. 54; Herrick asked Taylor to help restore Herrick's F-45, though they had no contract or agreement for Taylor's participation in the restoration; Taylor was represented by the lawyer who represented Herrick in the earlier litigation; and Herrick apparently gave Taylor documents that Herrick had obtained from the FAA during discovery in his suit.
+The record before the District Court in Taylor's suit revealed the following facts about the relationship between Taylor and Herrick:
+Taylor is the president of the Antique Aircraft Association, an organization to which Herrick belongs; the two men are "close associate[s]," App. 54;
+Herrick asked Taylor to help restore Herrick's F-45, though they had no contract or agreement for Taylor's participation in the restoration;
+Taylor was represented by the lawyer who represented Herrick in the earlier litigation; and Herrick apparently gave Taylor documents that Herrick had obtained from the FAA during discovery in his suit.
 Fairchild and the FAA conceded that Taylor had not participated in Herrick's suit.
 App. to Pet. for Cert. 32a.
 The D.C. District Court determined, however, that Herrick ranked as Taylor's virtual representative because the facts fit each of the other six indicators on the Eighth Circuit's list.
@@ -85,12 +86,12 @@ It observed, first, that other Circuits "vary widely" in their approaches to vir
 Taylor v. Blakey, 490 F.3d 965 , 971 (2007).
 In this regard, the D.C. Circuit contrasted the multifactor balancing test applied by the Eighth Circuit and the D.C. District Court with the Fourth Circuit's narrower approach, which "treats a party as a virtual representative only if the party is `accountable to the nonparties who file a subsequent suit' and has `the tacit approval of the court' to act on the nonpart[ies'] behalf."
 Ibid. (quoting Klugh v. United States, 818 F.2d 294 , 300 (C.A.4 1987)
-)
-.
+).
 Rejecting both of these approaches, the D.C. Circuit announced its own five-factor *2170 test.
 The first two factors"identity of interests" and "adequate representation" are necessary but not sufficient for virtual representation.
 490 F.3d, at 971-972.
-In addition, at least one of three other factors must be established: "a close relationship between the present party and his putative representative," "substantial participation by the present party in the first case," or "tactical maneuvering on the part of the present party to avoid preclusion by the prior judgment."
+In addition, at least one of three other factors must be established:
+"a close relationship between the present party and his putative representative," "substantial participation by the present party in the first case," or "tactical maneuvering on the part of the present party to avoid preclusion by the prior judgment."
 Id., at 972.
 Applying this test to the record in Taylor's case, the D.C. Circuit found both of the necessary conditions for virtual representation well met.
 As to identity of interests, the court emphasized that Taylor and Herrick sought the same resultrelease of the F-45 documents.
@@ -105,47 +106,43 @@ See 490 F.3d, at 974-975.
 The D.C. Circuit also found its "close relationship" criterion met, for Herrick had "asked Taylor to assist him in restoring his F-45" and "provided information to Taylor that Herrick had obtained through discovery"; furthermore, Taylor "did not oppose Fairchild's characterization of Herrick as his `close associate.'" Id., at 975.
 Because the three above-described factors sufficed to establish virtual representation under the D.C. Circuit's five-factor test, the appeals court left open the question whether Taylor had engaged in "tactical maneuvering."
 See id., at 976 (calling the facts bearing on tactical maneuvering "ambigu[ous]"). [2]
-We granted certiorari, 552 U.S. ___, 128 S. Ct. 977, 169 L. Ed.
-2d 800 (2008), to resolve the disagreement among the Circuits over the permissibility and scope of preclusion based on "virtual representation." [3]
+We granted certiorari, 552 U.S. ___, 128 S. Ct. 977, 169 L. Ed. 2d 800 (2008), to resolve the disagreement among the Circuits over the permissibility and scope of preclusion based on "virtual representation." [3]
 The preclusive effect of a federal-court judgment is determined by federal common law.
-See Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 , 507-508, 121 S. Ct. 1021 , 149 L. Ed.
-2d 32 (2001).
+See Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 , 507-508, 121 S. Ct. 1021 , 149 L. Ed. 2d 32 (2001).
 For judgments in federal-question cases for example, Herrick's FOIA suit  federal courts participate in developing "uniform federal rule[s]" of res judicata, which this Court has ultimate authority to determine and declare.
 Id., at 508, 121 S. Ct. 1021 . [4]
 The federal common law of preclusion is, of course, subject to due process limitations.
-See Richards v. Jefferson County, 517 U.S. 793 , 797, 116 S. Ct. 1761 , 135 L. Ed.
-2d 76 (1996).
-Taylor's case presents an issue of first impression in this sense: Until now, we have never addressed the doctrine of "virtual representation" adopted (in varying forms) by several Circuits and relied upon by the courts below.
+See Richards v. Jefferson County, 517 U.S. 793 , 797, 116 S. Ct. 1761 , 135 L. Ed. 2d 76 (1996).
+Taylor's case presents an issue of first impression in this sense:
+Until now, we have never addressed the doctrine of "virtual representation" adopted (in varying forms) by several Circuits and relied upon by the courts below.
 Our inquiry, however, is guided by well-established precedent regarding the propriety of nonparty preclusion.
 We review that precedent before taking up directly the issue of virtual representation.
 The preclusive effect of a judgment is defined by claim preclusion and issue preclusion, which are collectively referred to as "res judicata." [5]
 Under the doctrine of claim preclusion, a final judgment forecloses "successive litigation of the very same claim, whether or not relitigation of the claim raises the same issues as the earlier suit."
-New Hampshire v. Maine, 532 U.S. 742 , 748, 121 S. Ct. 1808 , 149 L. Ed.
-2d 968 (2001).
+New Hampshire v. Maine, 532 U.S. 742 , 748, 121 S. Ct. 1808 , 149 L. Ed. 2d 968 (2001).
 Issue preclusion, in contrast, bars "successive litigation of an issue of fact or law actually litigated and resolved in a valid court determination essential to the prior judgment," even if the issue recurs in the context of a different claim.
 Id., at 748-749, 121 S. Ct. 1808 .
 By "preclud[ing] parties from contesting matters that they have had a full and fair opportunity to litigate," these two doctrines protect against "the expense and vexation attending multiple lawsuits, conserv[e] judicial resources, and foste[r] reliance on judicial action by minimizing the possibility of inconsistent decisions."
-Montana v. United States, 440 U.S. 147 , 153-154, 99 S. Ct. 970 , 59 L. Ed.
-2d 210 (1979).
+Montana v. United States, 440 U.S. 147 , 153-154, 99 S. Ct. 970 , 59 L. Ed. 2d 210 (1979).
 A person who was not a party to a suit generally has not had a "full and fair opportunity to litigate" the claims and issues settled in that suit.
 The application of claim and issue preclusion to nonparties thus runs up against the "deep-rooted historic tradition that everyone should have his own day in court."
-Richards, 517 U.S., at 798, 116 S. Ct. 1761 (internal quotation marks omitted)
-.
+Richards, 517 U.S., at 798, 116 S. Ct. 1761 (internal quotation marks omitted).
 Indicating the strength of that tradition, we have often repeated the general rule that "one is not bound by a judgment in personam in a litigation in which he is not designated as a party or to which he has not been made a party by service of process."
 Hansberry, 311 U.S., at 40, 61 S. Ct. 115 .
-See also, e.g., Richards, 517 U.S., at 798, 116 S. Ct. 1761 ; Martin v. Wilks, 490 U.S. 755 , 761, 109 S. Ct. 2180 , 104 L. Ed.
-2d 835 (1989); Zenith *2172 Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100 , 110, 89 S. Ct. 1562 , 23 L. Ed.
-2d 129 (1969).
-See also, e.g., Richards, 517 U.S., at 798, 116 S. Ct. 1761 ; Martin v. Wilks, 490 U.S. 755 , 761, 109 S. Ct. 2180 , 104 L. Ed.
-2d 835 (1989); Zenith *2172 Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100 , 110, 89 S. Ct. 1562 , 23 L. Ed.
-2d 129 (1969).
+See also, e.g., Richards, 517 U.S., at 798, 116 S. Ct. 1761 ;
+Martin v. Wilks, 490 U.S. 755 , 761, 109 S. Ct. 2180 , 104 L. Ed. 2d 835 (1989);
+Zenith *2172 Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100 , 110, 89 S. Ct. 1562 , 23 L. Ed. 2d 129 (1969).
+See also, e.g., Richards, 517 U.S., at 798, 116 S. Ct. 1761 ;
+Martin v. Wilks, 490 U.S. 755 , 761, 109 S. Ct. 2180 , 104 L. Ed. 2d 835 (1989);
+Zenith *2172 Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100 , 110, 89 S. Ct. 1562 , 23 L. Ed. 2d 129 (1969).
 Though hardly in doubt, the rule against nonparty preclusion is subject to exceptions.
 For present purposes, the recognized exceptions can be grouped into six categories. [6]
 First, "[a] person who agrees to be bound by the determination of issues in an action between others is bound in accordance with the terms of his agreement."
 1 Restatement (Second) of Judgments § 40, p. 390 (1980) (hereinafter Restatement).
-For example, "if separate actions involving the same transaction are brought by different plaintiffs against the same defendant, all the parties to all the actions may agree that the question of the defendant's liability will be definitely determined, one way or the other, in a `test case.'" D. Shapiro, Civil Procedure: Preclusion in Civil Actions 77-78 (2001) (hereinafter Shapiro).
-See also California v. Texas, 459 U.S. 1096, 1097, 103 S. Ct. 714, 74 L. Ed.
-2d 944 (1983) (dismissing certain defendants from a suit based on a stipulation "that each of said defendants . . . will be bound by a final judgment of this Court" on a specified issue).
+For example, "if separate actions involving the same transaction are brought by different plaintiffs against the same defendant, all the parties to all the actions may agree that the question of the defendant's liability will be definitely determined, one way or the other, in a `test case.'" D. Shapiro, Civil Procedure:
+Preclusion in Civil Actions 77-78 (2001) (hereinafter Shapiro).
+See also California v. Texas, 459 U.S. 1096, 1097, 103 S. Ct. 714, 74 L. Ed. 2d 944 (1983) (dismissing certain defendants from a suit based on a stipulation "that each of said defendants . . .
+will be bound by a final judgment of this Court" on a specified issue).
 Second, nonparty preclusion may be justified based on a variety of pre-existing "substantive legal relationship[s]" between the person to be bound and a party to the judgment.
 Shapiro 78.
 See also Richards, 517 U.S., at 798, 116 S. Ct. 1761 .
@@ -153,24 +150,21 @@ Qualifying relationships include, but are not limited to, preceding and succeedi
 See 2 Restatement §§ 43-44, 52, 55.
 These exceptions originated "as much from the needs of property law as from the values of preclusion by judgment."
 18A C. Wright, A. Miller, & E. Cooper, Federal Practice and Procedure Third, we have confirmed that, "in certain limited circumstances," a nonparty may be bound by a judgment because she was "adequately represented by someone with the same interests who [wa]s a party" to the suit.
-Richards, 517 U.S., at 798, 116 S. Ct. 1761 (internal quotation marks omitted)
-.
+Richards, 517 U.S., at 798, 116 S. Ct. 1761 (internal quotation marks omitted).
 Representative suits with preclusive effect on nonparties include properly conducted class actions, see Martin, 490 U.S., at 762, n. 2, 109 S. Ct. 2180 (citing Fed. Rule Civ. Proc. 23)
 ,
-and suits brought by *2173 trustees, guardians, and other fiduciaries, see Sea-Land Services, Inc. v. Gaudet, 414 U.S. 573 , 593, 94 S. Ct. 806 , 39 L. Ed.
-2d 9 (1974).
+and suits brought by *2173 trustees, guardians, and other fiduciaries, see Sea-Land Services, Inc. v. Gaudet, 414 U.S. 573 , 593, 94 S. Ct. 806 , 39 L. Ed. 2d 9 (1974).
 See also 1 Restatement § 41.
 Fourth, a nonparty is bound by a judgment if she "assume[d] control" over the litigation in which that judgment was rendered.
 Montana, 440 U.S., at 154, 99 S. Ct. 970 .
-See also Schnell v. Peter Eckrich & Sons, Inc., 365 U.S. 260 , 262, n. 4, 81 S. Ct. 557 , 5 L. Ed.
-2d 546 (1961); 1 Restatement § 39.
+See also Schnell v. Peter Eckrich & Sons, Inc., 365 U.S. 260 , 262, n. 4, 81 S. Ct. 557 , 5 L. Ed. 2d 546 (1961);
+1 Restatement § 39.
 1 Restatement § 39.
 Because such a person has had "the opportunity to present proofs and argument," he has already "had his day in court" even though he was not a formal party to the litigation.
 Id., Comment a, p. 382.
 Fifth, a party bound by a judgment may not avoid its preclusive force by relitigating through a proxy.
 Preclusion is thus in order when a person who did not participate in a litigation later brings suit as the designated representative of a person who was a party to the prior adjudication.
-See Chicago, R.I. & P.R. Co. v. Schendel, 270 U.S. 611 , 620, 623, 46 S. Ct. 420 , 70 L. Ed. 757 (1926)
-;
+See Chicago, R.I. & P.R. Co. v. Schendel, 270 U.S. 611 , 620, 623, 46 S. Ct. 420 , 70 L. Ed. 757 (1926);
 18A Wright & Miller § 4454, pp. 433-434.
 And although our decisions have not addressed the issue directly, it also seems clear that preclusion is appropriate when a nonparty later brings suit as an agent for a party who is bound by a judgment.
 See id., § 4449, p. 335.
@@ -201,14 +195,14 @@ Id., at 797, 116 S. Ct. 1761 .
 The D.C. Circuit stated, without elaboration, that it did not "read Richards to hold a nonparty . . .
 adequately represented only if special procedures were followed [to protect the nonparty] or the party to the prior suit understood it was representing the nonparty."
 490 F.3d, at 971 .
-As the D.C. Circuit saw this case, Herrick adequately represented Taylor for two principal reasons: Herrick had a strong incentive to litigate; and Taylor later hired Herrick's lawyer, suggesting Taylor's "satisfaction with the attorney's performance in the prior case."
+As the D.C. Circuit saw this case, Herrick adequately represented Taylor for two principal reasons:
+Herrick had a strong incentive to litigate; and Taylor later hired Herrick's lawyer, suggesting Taylor's "satisfaction with the attorney's performance in the prior case."
 Id., at 975.
 The D.C. Circuit misapprehended Richards.
 As just recounted, our holding that the Alabama Supreme Court's application of res judicata to nonparties violated due process turned on the lack of either special procedures to protect the nonparties' interests or an understanding by the concerned parties that the first suit was brought in a representative capacity.
 See Richards, 517 U.S., at 801-802, 116 S. Ct. 1761 .
 Richards thus established that representation is "adequate" for purposes of nonparty preclusion only if (at a minimum) one of these two circumstances is present.
-We restated Richards' core holding in South Central Bell Telephone Co. v. Alabama, 526 U.S. 160 , 119 S. Ct. 1180 , 143 L. Ed.
-2d 258 (1999).
+We restated Richards' core holding in South Central Bell Telephone Co. v. Alabama, 526 U.S. 160 , 119 S. Ct. 1180 , 143 L. Ed. 2d 258 (1999).
 In that case, as in Richards, the Alabama courts had held that a judgment rejecting a challenge to a tax by one group of taxpayers barred a subsequent suit by a different taxpayer.
 See 526 U.S., at 164-165, 119 S. Ct. 1180 .
 In South Central Bell, however, the nonparty had notice of the original suit and engaged one of the lawyers earlier employed by the original plaintiffs.
@@ -229,7 +223,8 @@ Brief for Respondent Fairchild 20.
 See also Brief for Respondent FAA 22 ("there is no clear test" for nonparty preclusion; rather, an "equitable and fact-intensive" inquiry is demanded (internal quotation marks omitted)).
 Only this sort of diffuse balancing, Fairchild and the FAA argue, can account for all of the situations in which nonparty preclusion is appropriate.
 We reject this argument for three reasons.
-First, our decisions emphasize the fundamental nature of the general rule that a litigant is not bound by a judgment to which she was not a party See, e.g., Richards, 517 U.S., at 798-799, 116 S. Ct. 1761 ; Martin, 490 U.S., at 761-762, 109 S. Ct. 2180 .
+First, our decisions emphasize the fundamental nature of the general rule that a litigant is not bound by a judgment to which she was not a party See, e.g., Richards, 517 U.S., at 798-799, 116 S. Ct. 1761 ;
+Martin, 490 U.S., at 761-762, 109 S. Ct. 2180 .
 Martin, 490 U.S., at 761-762, 109 S. Ct. 2180 .
 Accordingly, we have endeavored to delineate discrete exceptions that apply in "limited circumstances."
 Id., at 762, n. 2, 109 S. Ct. 2180 .
@@ -241,8 +236,7 @@ that privity "turns on the facts of particular cases."
 See Brief for Respondent Fairchild 20.
 That observation, however, scarcely implies that privity is governed by a diffuse balancing test. [9]
 Fairchild also cites Blonder-Tongue Laboratories, Inc. v. University of Ill.
-Foundation, 402 U.S. 313 , 334, 91 S. Ct. 1434 , 28 L. Ed.
-2d 788 (1971), which stated that estoppel questions turn on "the trial courts' sense of justice and equity."
+Foundation, 402 U.S. 313 , 334, 91 S. Ct. 1434 , 28 L. Ed. 2d 788 (1971), which stated that estoppel questions turn on "the trial courts' sense of justice and equity."
 See Brief for Respondent Fairchild 20.
 This passing statement, however, was not made with nonparty preclusion in mind; it appeared in a discussion recognizing district courts' discretion to limit the use of issue preclusion against persons who were parties to a judgment.
 See Blonder-Tongue, 402 U.S., at 334, 91 S. Ct. 1434 .
@@ -251,13 +245,19 @@ Des Moines Valley was a quiet title action in which the named plaintiff was the 
 The Government, however, had "no interest in the land" and had "simply permitted [the landowner] to use its name as the nominal plaintiff."
 84 F., at 42.
 The suit was therefore barred, the appeals court held, by an earlier judgment against the landowner.
-As the court explained: "[W]here the government lends its name as a plaintiff . . . to enable one private person to maintain a suit against another," the government is "subject to the same defenses which exist . . . against the real party in interest."
+As the court explained:
+"
+[W]here the government lends its name as a plaintiff . . . to enable one private person to maintain a suit against another," the government is "subject to the same defenses which exist . . . against the real party in interest."
 Id., at 43.
 Des Moines Valley, the FAA contended at oral argument, demonstrates that it is sometimes appropriate to bind a nonparty in circumstances that do not fit within any of the established grounds for nonparty preclusion.
 See Tr. of Oral Arg. 31-33.
-Properly understood, however, Des Moines Valley is simply an application of the fifth basis for nonparty preclusion described above: A party may not use a *2176 representative or agent to relitigate an adverse judgment.
-See supra, at 2172-2173. [10 We thus find no support in our precedents for the lax approach to nonparty preclusion advocated by respondents. Our second reason for rejecting a broad doctrine of virtual representation rests on the limitations attending nonparty preclusion based on adequate representation. A party's representation of a nonparty is "adequate" for preclusion purposes only if, at a minimum: (1)
-the interests of the nonparty and her representative are aligned, see Hansberry, 311 U.S., at 43, 61 S. Ct. 115 ; 1) the interests of the nonparty and her representative are aligned, see Hansberry, 311 U.S., at 43, 61 S. Ct. 115
+Properly understood, however, Des Moines Valley is simply an application of the fifth basis for nonparty preclusion described above:
+A party may not use a *2176 representative or agent to relitigate an adverse judgment.
+See supra, at 2172-2173. [10 We thus find no support in our precedents for the lax approach to nonparty preclusion advocated by respondents.
+Our second reason for rejecting a broad doctrine of virtual representation rests on the limitations attending nonparty preclusion based on adequate representation.
+A party's representation of a nonparty is "adequate" for preclusion purposes only if, at a minimum: (1)
+the interests of the nonparty and her representative are aligned, see Hansberry, 311 U.S., at 43, 61 S. Ct. 115 ;
+1) the interests of the nonparty and her representative are aligned, see Hansberry, 311 U.S., at 43, 61 S. Ct. 115
 and (2) either the party understood herself to be acting in a representative capacity or the original court took care to protect the interests of the nonparty, see Richards, 517 U.S., at 801-802, 116 S. Ct. 1761 ; supra, at 2173-2174.
 In addition, adequate representation sometimes requires (3) notice of the original suit to the persons alleged to have been represented, see Richards, 517 U.S., at 801, 116 S. Ct. 1761 . [11]
 In the class-action context, these limitations are implemented by the procedural safeguards contained in Federal Rule of Civil Procedure 23.
@@ -273,8 +273,7 @@ And after the relevant facts are established, district judges would be called up
 See Tyus, 93 F.3d, at 455 (conceding that "there is no clear test for determining the applicability of" the virtual representation doctrine announced in that case).
 See Tyus, 93 F.3d, at 455 (conceding that "there is no clear test for determining the applicability of" the virtual representation doctrine announced in that case).
 Preclusion doctrine, it should be recalled, is intended *2177 to reduce the burden of litigation on courts and parties.
-Cf.
-Montana, 440 U.S., at 153-154, 99 S. Ct. 970 .
+Cf. Montana, 440 U.S., at 153-154, 99 S. Ct. 970 .
 "In this area of the law," we agree, "`crisp rules with sharp corners' are preferable to a round-about doctrine of opaque standards."
 Bittinger v. Tecumseh Products Co., 123 F.3d 877 , 881 (C.A.6 1997).
 Finally, relying on the Eighth Circuit's decision in Tyus, 93 F.3d, at 456, the FAA maintains that nonparty preclusion should apply more broadly in "public-law" litigation than in "private-law" controversies.
@@ -284,20 +283,18 @@ Brief for Respondent FAA 28.
 When a taxpayer challenges "an alleged misuse of public funds" or "other public action," we observed in Richards, the suit "has only an indirect impact on [the plaintiff's] interests."
 517 U.S., at 803 , 116 S. Ct. 1761 .
 In actions of this character, the Court said, "we may assume that the States have wide latitude to establish procedures . . . to limit the number of judicial proceedings that may be entertained."
-Ibid.
-Taylor's FOIA action falls within the category described in Richards, the FAA contends, because "the duty to disclose under FOIA is owed to the public generally."
+Ibid. Taylor's FOIA action falls within the category described in Richards, the FAA contends, because "the duty to disclose under FOIA is owed to the public generally."
 See Brief for Respondent FAA 34.
 The opening sentence of FOIA, it is true, states that agencies "shall make [information] available to the public."
 5 U.S.C. § 552(a) (2006 ed.).
 Equally true, we have several times said that FOIA vindicates a "public" interest.
 E.g., National Archives and Records Admin. v.
-Favish, 541 U.S. 157 , 172, 124 S. Ct. 1570 , 158 L. Ed.
-2d 319 (2004).
+Favish, 541 U.S. 157 , 172, 124 S. Ct. 1570 , 158 L. Ed. 2d 319 (2004).
 The Act, however, instructs agencies receiving FOIA requests to make the information available not to the public at large, but rather to the "person" making the request.
 § 552(a)(3)(A).
 See also § 552(a)(3)(B) ("In making any record available to a person under this paragraph, an agency shall provide the record in any [readily reproducible] form or format requested by the person . . . ." (emphasis added)
-)
-; Brief for National Security Archive et al. as Amici Curiae 10 ("Government agencies do not systematically make released records available to the general public.").
+);
+Brief for National Security Archive et al. as Amici Curiae 10 ("Government agencies do not systematically make released records available to the general public.").
 Thus, in contrast to the public-law litigation contemplated in Richards, a successful FOIA action results in a grant of relief to the individual plaintiff, not a decree benefiting the public at large.
 Furthermore, we said in Richards only that, for the type of public-law claims there envisioned, States are free to adopt procedures limiting repetitive litigation.
 See 517 U.S., at 803 , 116 S. Ct. 1761 .
@@ -316,7 +313,8 @@ But we are not convinced that this risk justifies departure from the usual rules
 First, stare decisis will allow courts swiftly to dispose of repetitive suits brought in the same circuit.
 Second, even when stare decisis is not dispositive, "the human tendency not to waste money will deter the bringing of suits based on claims or issues that have already been adversely determined against others."
 Shapiro 97.
-This intuition seems to be borne out by experience: The FAA has not called our attention to any instances of abusive FOIA suits in the Circuits that reject the virtual-representation theory respondents advocate here.
+This intuition seems to be borne out by experience:
+The FAA has not called our attention to any instances of abusive FOIA suits in the Circuits that reject the virtual-representation theory respondents advocate here.
 For the foregoing reasons, we disapprove the theory of virtual representation on which the decision below rested.
 The preclusive effects of a judgment in a federal-question case decided by a federal court should instead be determined according to the established grounds for nonparty preclusion described in this opinion.
 See Part II-B, supra.
@@ -325,12 +323,11 @@ Many opinions use the term "virtual representation" in reaching results at least
 See 18A
 Wright & Miller § 4457, pp. 535-539, and n. 38 (collecting cases).
 In these cases, dropping the "virtual representation" label would lead to clearer analysis with little, if any, change in outcomes.
-See Tice, 162 F.3d, at 971. ("[T]he term `virtual representation' has cast more shadows than light on the problem [of nonparty preclusion]
-.
-").
+See Tice, 162 F.3d, at 971. ("[T]he term `virtual representation' has cast more shadows than light on the problem [of nonparty preclusion].").
 In some cases, however, lower courts have relied on virtual representation to extend nonparty preclusion beyond the latter doctrine's proper bounds.
 We now turn back to Taylor's action to determine whether his suit is such a case, or whether the result reached by the courts below can be justified on one of the recognized grounds for nonparty preclusion.
-It is uncontested that four of the six grounds for nonparty preclusion have no application here: There is no indication that Taylor agreed to be bound by Herrick's litigation, that Taylor and Herrick have any legal relationship, that Taylor exercised any control over Herrick's suit, or that this suit implicates any special statutory scheme limiting relitigation.
+It is uncontested that four of the six grounds for nonparty preclusion have no application here:
+There is no indication that Taylor agreed to be bound by Herrick's litigation, that Taylor and Herrick have any legal relationship, that Taylor exercised any control over Herrick's suit, or that this suit implicates any special statutory scheme limiting relitigation.
 Neither the FAA nor Fairchild contends otherwise.
 It is equally clear that preclusion cannot be justified on the theory that Taylor was adequately represented in Herrick's suit.
 Nothing in the record indicates that Herrick understood himself to be suing on Taylor's behalf, that Taylor even knew of Herrick's suit, or that the Wyoming District Court took special care to protect Taylor's interests.
@@ -342,7 +339,8 @@ He concedes, however, that preclusion would be appropriate if respondents could 
 Brief for Petitioner 23, n. 4.
 See also id., at 24, n. 5.
 Respondents argue here, as they did below, that Taylor's suit is a collusive attempt to relitigate Herrick's action.
-See Brief for Respondent Fairchild 32, and n. 18; Brief for Respondent FAA 18-19, 33, 39.
+See Brief for Respondent Fairchild 32, and n. 18;
+Brief for Respondent FAA 18-19, 33, 39.
 The D.C. Circuit considered a similar question in addressing the "tactical maneuvering" prong of its virtual representation test.
 See 490 F.3d, at 976 .
 The Court of Appeals did not, however, treat the issue as one of agency, and it expressly declined to reach any definitive conclusions due to "the ambiguity of the facts."
@@ -363,13 +361,10 @@ Fairchild justifies this proposed burden-shift on the ground that "it is unlikel
 Id., at 28, n. 14.
 We reject Fairchild's suggestion.
 Claim preclusion, like issue preclusion, is an affirmative defense.
-See Fed.
-Rule Civ.
-Proc. 8(c); Blonder-Tongue, 402 U.S., at 350, 91 S. Ct. 1434 .
+See Fed. Rule Civ. Proc. 8(c);
 Blonder-Tongue, 402 U.S., at 350, 91 S. Ct. 1434 .
-Ordinarily, it is incumbent on *2180 the defendant to plead and prove such a defense, see Jones v. Bock, 549 U.S. 199 , 204, 127 S. Ct. 910 , 166 L. Ed.
-2d 798 (2007) and we have never recognized claim preclusion as an exception to that general rule, see 18 Wright & Miller § 4405, p. 83 ("[A] party asserting preclusion must carry the burden of establishing all necessary elements.
-")
+Blonder-Tongue, 402 U.S., at 350, 91 S. Ct. 1434 .
+Ordinarily, it is incumbent on *2180 the defendant to plead and prove such a defense, see Jones v. Bock, 549 U.S. 199 , 204, 127 S. Ct. 910 , 166 L. Ed. 2d 798 (2007) and we have never recognized claim preclusion as an exception to that general rule, see 18 Wright & Miller § 4405, p. 83 ("[A] party asserting preclusion must carry the burden of establishing all necessary elements.")
 We acknowledge that direct evidence justifying nonparty preclusion is often in the hands of plaintiffs rather than defendants. .
 See, e.g., Montana, 440 U.S., at 155, 99 S. Ct. 970 (listing evidence of control over a prior suit)
 But "[v]ery often one must plead and prove matters as to which his adversary has superior access to the proof."
