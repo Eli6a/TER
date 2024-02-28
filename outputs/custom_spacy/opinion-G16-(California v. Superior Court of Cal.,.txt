@@ -34,8 +34,7 @@ The court concluded "that the findings in the family law case adequately demonst
 App. C to Pet. for Cert. 5.
 California then sought a writ of mandate in the California Court of Appeal on the ground that the Superior Court had abused its discretion in blocking extradition.
 The Court of Appeal reluctantly issued the writ:
-"
-Although we abhor Judy's apparent willingness to take advantage of our federal system to further this custody battle, and are sympathetic to [the Smolins'] position, we must conclude that their arguments are irrelevant to the only issue a court in the asylum state may properly address: are the documents on their face in order."
+"Although we abhor Judy's apparent willingness to take advantage of our federal system to further this custody battle, and are sympathetic to [the Smolins'] position, we must conclude that their arguments are irrelevant to the only issue a court in the asylum state may properly address: are the documents on their face in order."
 App. B to Pet. for Cert. 16.
 A divided California Supreme Court reversed.
 The majority interpreted the Superior Court's finding to be that the Smolins were not substantially charged with a crime.
@@ -49,8 +48,7 @@ One such limit is found in Art. IV, § 2, cl. 2, the Extradition Clause:
 "A person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority *406 of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime."
 The obvious objective of the Extradition Clause is that no State should become a safe haven for the fugitives from a sister State's criminal justice system.
 As this Court noted in its first opportunity to construe the Extradition Clause:
-"
-[T]he statesmen who framed the Constitution were fully sensible, that from the complex character of the Government, it must fail unless the States mutually supported each other and the General Government; and that nothing would be more likely to disturb its peace, and end in discord, than permitting an offender against the laws of a State, by passing over a mathematical line which divides it from another, to defy its process, and stand ready, under the protection of the State, to repeat the offense as soon as another opportunity offered."
+"[T]he statesmen who framed the Constitution were fully sensible, that from the complex character of the Government, it must fail unless the States mutually supported each other and the General Government; and that nothing would be more likely to disturb its peace, and end in discord, than permitting an offender against the laws of a State, by passing over a mathematical line which divides it from another, to defy its process, and stand ready, under the protection of the State, to repeat the offense as soon as another opportunity offered."
 Kentucky v. Dennison, 24 How. 66 , 100 (1861).
 The Extradition Clause, however, does not specifically establish a procedure by which interstate extradition is to take place, and, accordingly, has never been considered to be self-executing.
 See, e. g., Hyatt v. People ex rel.
@@ -62,8 +60,7 @@ In 1791, Pennsylvania demanded the extradition of three men charged with kidnapi
 Virginia refused to comply with Pennsylvania's demand.
 The controversy was finally submitted to President Washington who, relying upon the advice of Attorney General Randolph, 9 National State Papers of the United States 1789-1817, pt. II, pp. 144-145 (E. Carzo ed. 1985), personally appeared before the Congress to obtain the enactment of a law to regulate the extradition process.
 Congress *407 responded by enacting the Extradition Act of 1793, which provides in its current form:
-"
-Whenever the executive authority of any State or Territory demands any person as a fugitive from justice, of the executive authority of any State, District or Territory to which such person has fled, and produces a copy of an indictment found or an affidavit made before a magistrate of any State or Territory, charging the person demanded with having committed treason, felony or other crime, certified as authentic by the governor or chief magistrate of the State or Territory from whence the person so charged has fled, the executive authority of the State, District or Territory to which such person has fled shall cause him to be arrested and secured, and notify the executive authority making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear."
+"Whenever the executive authority of any State or Territory demands any person as a fugitive from justice, of the executive authority of any State, District or Territory to which such person has fled, and produces a copy of an indictment found or an affidavit made before a magistrate of any State or Territory, charging the person demanded with having committed treason, felony or other crime, certified as authentic by the governor or chief magistrate of the State or Territory from whence the person so charged has fled, the executive authority of the State, District or Territory to which such person has fled shall cause him to be arrested and secured, and notify the executive authority making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear."
 18 U.S. C. § 3182.
 This Court has held the Extradition Act of 1793 to be a proper exercise of Congress' powers under the Extradition Clause and Art. IV, § 1, to "prescribe the manner in which acts, records and proceedings shall be proved, and the effect thereof."
 Kentucky v. Dennison, supra, at 105;
@@ -90,8 +87,7 @@ Their sole contention is that, in light of the earlier California custody decree
 Section 14:45A(4) prohibits the "intentional taking, enticing or decoying away and removing from the state, by any parent, of his or her child, from the custody of any person to whom custody has been awarded by any court of competent jurisdiction of any state, without the consent of the legal custodian, with intent to defeat the jurisdiction of the said court over the custody of the child."
 A properly certified Louisiana information charges the Smolins with violating this statute by kidnaping Jennifer and Jamie Smolin.
 The information is based on the sworn affidavit of Judith Pope which asserts:
-"
-`On March 9, 1984, at approximately 7:20 a. m., Richard Smolin and Gerard Smolin, kidnapped Jennifer Smolin, aged 10, and James C. Smolin, aged 9, from the affiant's custody while said children were at a bus stop in St. Tammany Parish, Louisiana.
+" `On March 9, 1984, at approximately 7:20 a. m., Richard Smolin and Gerard Smolin, kidnapped Jennifer Smolin, aged 10, and James C. Smolin, aged 9, from the affiant's custody while said children were at a bus stop in St. Tammany Parish, Louisiana.
 "The affiant has custody of the said children by virtue of a Texas court order dated February 5, 1981, a copy of said order attached hereto and made part hereof.
 The information regarding the actual kidnapping was told to the affiant by witnesses Mason Galatas and Cheryl Galatas of 2028 Mallard Street, Slidell, Louisiana, and Jimmie Huessler of 2015 Dridle Street, Slidell, Louisiana.
 Richard Smolin and Gerard Smolin were without authority to remove children from affiant's custody.'
@@ -116,8 +112,7 @@ For example, in Pierce v. Creecy, decided after Roberts, supra , this Court refu
 The Pierce Court concluded that it was enough that "the indictment, whether good or bad, as a pleading, unmistakably describes every element of the crime of false swearing, as it is defined in the Texas Penal Code . . . ."
 210 U.S., at 404 .
 It reasoned:
-"
-If more were required it would impose upon courts, in the trial of writs of habeas corpus, the duty of a critical examination of the laws of States with whose jurisprudence and criminal procedure they can have only a general acquaintance.
+"If more were required it would impose upon courts, in the trial of writs of habeas corpus, the duty of a critical examination of the laws of States with whose jurisprudence and criminal procedure they can have only a general acquaintance.
 Such a duty would be an intolerable burden, certain to lead to errors in decision, irritable to the just pride of the States and fruitful of miscarriages of justice.
 The duty ought not be assumed unless it is plainly required by the Constitution, and, in our opinion, there is nothing in the letter or the spirit of that instrument which requires or permits its performance."
 Id., at 405.
@@ -130,7 +125,6 @@ Of course, the Parental Kidnaping Prevention Act of 1980 creates a uniform feder
 We are not informed by the record why it is that the States of California and Louisiana are so eager to force the Smolins halfway across the continent to face criminal charges that, at least to a majority of the California Supreme Court, appear meritless.
 If the Smolins are correct, they are not only innocent of the charges made against them, but also victims of a possible abuse of the criminal process.
 But, under the Extradition Act, it is for the Louisiana courts to do justice in this case, not the California courts:
-"
-surrender is not to be interfered with by the summary process of habeas corpus upon speculations as to what ought to be the result of a trial in the place where the Constitution provides for its taking place."
+"surrender is not to be interfered with by the summary process of habeas corpus upon speculations as to what ought to be the result of a trial in the place where the Constitution provides for its taking place."
 Drew v. Thaw, supra , at 440.
 The judgment of the California Supreme Court is Reversed.

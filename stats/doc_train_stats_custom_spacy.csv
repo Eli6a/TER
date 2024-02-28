@@ -1,13 +1,13 @@
 model,file,precision,recall,F1_score
-custom_spacy,"opinion-G16-(Taylor v. Sturgell, 553 U.S. 880).txt",0.8986666666666666,0.9232876712328767,0.9108108108108107
-custom_spacy,ROSENBLATT v. BAER_MCL.txt,0.8434782608695652,0.97,0.9023255813953489
-custom_spacy,opinion-G16-(Florida Power _ Light Co. v. Electric.txt,0.6981132075471698,0.8740157480314961,0.7762237762237763
+custom_spacy,"opinion-G16-(Taylor v. Sturgell, 553 U.S. 880).txt",0.9108108108108108,0.9232876712328767,0.9170068027210884
+custom_spacy,ROSENBLATT v. BAER_MCL.txt,0.8508771929824561,0.97,0.9065420560747663
+custom_spacy,opinion-G16-(Florida Power _ Light Co. v. Electric.txt,0.7602739726027398,0.8740157480314961,0.8131868131868133
 custom_spacy,"opinion-G16-(Sanford v. Kepner, 344 U.S. 13).html.txt",0.7948717948717948,0.9393939393939394,0.8611111111111112
 custom_spacy,Baldwin_v_Reese_retagged.txt,0.9743589743589743,0.95,0.9620253164556962
 custom_spacy,Sandoz Inc. v. Amgen Inc_MCL.txt,0.9015748031496063,0.9462809917355371,0.9233870967741934
-custom_spacy,"opinion-G16-(Jenkins v. Georgia, 418 U.S. 153).htm.txt",0.7407407407407407,0.9230769230769231,0.8219178082191781
-custom_spacy,"opinion-G16-(California v. Superior Court of Cal.,.txt",0.8455882352941176,0.9349593495934959,0.888030888030888
+custom_spacy,"opinion-G16-(Jenkins v. Georgia, 418 U.S. 153).htm.txt",0.75,0.9230769230769231,0.8275862068965517
+custom_spacy,"opinion-G16-(California v. Superior Court of Cal.,.txt",0.8846153846153846,0.9349593495934959,0.909090909090909
 custom_spacy,California v. Greenwood_retagged.txt,0.968,0.9758064516129032,0.9718875502008033
-custom_spacy,Commissioner v. Groetzinger_MCL_retagged.txt,0.8614457831325302,0.934640522875817,0.896551724137931
+custom_spacy,Commissioner v. Groetzinger_MCL_retagged.txt,0.8719512195121951,0.934640522875817,0.9022082018927446
 custom_spacy,opinion-G16-(United States v. Mississippi Chemical.txt,0.9027777777777778,0.948905109489051,0.9252669039145908
-custom_spacy,"opinion-G16-(Shapiro v. McManus, 136 S. Ct. 450).h.txt",0.8118811881188119,0.9213483146067416,0.8631578947368421
+custom_spacy,"opinion-G16-(Shapiro v. McManus, 136 S. Ct. 450).h.txt",0.8282828282828283,0.9213483146067416,0.8723404255319148

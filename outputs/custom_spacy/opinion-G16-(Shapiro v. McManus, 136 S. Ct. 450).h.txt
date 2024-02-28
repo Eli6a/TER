@@ -8,9 +8,7 @@ See Currie, The Three-Judge District Court in Constitutional Litigation, 32 U. C
 Decisions of three-judge courts could, then as now, be appealed as of right directly to this Court.
 28 U. S. C. §1253
 In 1976, Congress substantially curtailed the circum- stances under which a three-judge court is required.
-It was no longer required for the grant of an injunction against state statutes, see Pub. L. 94–381, §1, 90 Stat. 1119 (repealing 28 U. S. C. §2281 )
-,
-but was mandated for “an action . . . challenging the constitutionality of the apportionment of congressional districts or the apportion- ment of any statewide legislative body.”
+It was no longer required for the grant of an injunction against state statutes, see Pub. L. 94–381, §1, 90 Stat. 1119 (repealing 28 U. S. C. §2281 ), but was mandated for “an action . . . challenging the constitutionality of the apportionment of congressional districts or the apportion- ment of any statewide legislative body.”
 Id., §3, now codified at 28 U. S. C. §2284 (a).
 Simultaneously, Congress amended the procedures governing three-judge district courts.
 The prior statute had provided:

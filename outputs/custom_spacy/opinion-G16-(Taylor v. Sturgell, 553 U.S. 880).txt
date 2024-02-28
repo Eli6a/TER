@@ -151,9 +151,7 @@ See 2 Restatement §§ 43-44, 52, 55.
 These exceptions originated "as much from the needs of property law as from the values of preclusion by judgment."
 18A C. Wright, A. Miller, & E. Cooper, Federal Practice and Procedure Third, we have confirmed that, "in certain limited circumstances," a nonparty may be bound by a judgment because she was "adequately represented by someone with the same interests who [wa]s a party" to the suit.
 Richards, 517 U.S., at 798, 116 S. Ct. 1761 (internal quotation marks omitted).
-Representative suits with preclusive effect on nonparties include properly conducted class actions, see Martin, 490 U.S., at 762, n. 2, 109 S. Ct. 2180 (citing Fed. Rule Civ. Proc. 23)
-,
-and suits brought by *2173 trustees, guardians, and other fiduciaries, see Sea-Land Services, Inc. v. Gaudet, 414 U.S. 573 , 593, 94 S. Ct. 806 , 39 L. Ed. 2d 9 (1974).
+Representative suits with preclusive effect on nonparties include properly conducted class actions, see Martin, 490 U.S., at 762, n. 2, 109 S. Ct. 2180 (citing Fed. Rule Civ. Proc. 23), and suits brought by *2173 trustees, guardians, and other fiduciaries, see Sea-Land Services, Inc. v. Gaudet, 414 U.S. 573 , 593, 94 S. Ct. 806 , 39 L. Ed. 2d 9 (1974).
 See also 1 Restatement § 41.
 Fourth, a nonparty is bound by a judgment if she "assume[d] control" over the litigation in which that judgment was rendered.
 Montana, 440 U.S., at 154, 99 S. Ct. 970 .
@@ -230,9 +228,7 @@ Accordingly, we have endeavored to delineate discrete exceptions that apply in "
 Id., at 762, n. 2, 109 S. Ct. 2180 .
 Respondents' amorphous balancing test is at odds with the constrained approach to nonparty preclusion our decisions advance.
 Resisting this reading of our precedents, respondents call up three decisions they view as supportive of the approach they espouse.
-Fairchild quotes our statement in Coryell v. Phipps, 317 U.S. 406 , 411, 63 S. Ct. 291 , 87 L. Ed. 363 (1943)
-,
-that privity "turns on the facts of particular cases."
+Fairchild quotes our statement in Coryell v. Phipps, 317 U.S. 406 , 411, 63 S. Ct. 291 , 87 L. Ed. 363 (1943), that privity "turns on the facts of particular cases."
 See Brief for Respondent Fairchild 20.
 That observation, however, scarcely implies that privity is governed by a diffuse balancing test. [9]
 Fairchild also cites Blonder-Tongue Laboratories, Inc. v. University of Ill.
@@ -246,8 +242,7 @@ The Government, however, had "no interest in the land" and had "simply permitted
 84 F., at 42.
 The suit was therefore barred, the appeals court held, by an earlier judgment against the landowner.
 As the court explained:
-"
-[W]here the government lends its name as a plaintiff . . . to enable one private person to maintain a suit against another," the government is "subject to the same defenses which exist . . . against the real party in interest."
+"[W]here the government lends its name as a plaintiff . . . to enable one private person to maintain a suit against another," the government is "subject to the same defenses which exist . . . against the real party in interest."
 Id., at 43.
 Des Moines Valley, the FAA contended at oral argument, demonstrates that it is sometimes appropriate to bind a nonparty in circumstances that do not fit within any of the established grounds for nonparty preclusion.
 See Tr. of Oral Arg. 31-33.
