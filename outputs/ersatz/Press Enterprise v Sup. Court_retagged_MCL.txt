@@ -1,0 +1,112 @@
+CHIEF JUSTICE BURGER delivered the opinion of the Court.
+We granted certiorari to decide whether the guarantees of open public proceedings in criminal trials cover proceedings for the voir dire examination of potential jurors.
+Albert Greenwood Brown, Jr., was tried and convicted of the rape and murder of a teenage girl, and sentenced to death in California Superior Court.
+Before the voir dire examination of prospective jurors began, petitioner, Press-Enterprise Co., moved that the voir dire be open to the public and the press.
+Petitioner contended that the public had an absolute right to attend the trial, and asserted that the trial commenced with the voir dire proceedings.
+The State opposed petitioner's motion, arguing that if the press were present, juror responses would lack the candor necessary to assure a fair trial.
+The trial judge agreed and permitted petitioner to attend only the "general voir dire."
+He stated that counsel would conduct the "individual voir dire with regard to death qualifications and any other special areas that counsel may feel some problem with regard to . . . in private. . . ."
+App. 93.
+The voir dire consumed six weeks and all but approximately three days was closed to the public.
+After the jury was empaneled, petitioner moved the trial court to release a complete transcript of the voir dire proceedings.
+At oral argument on the motion, the trial judge *504 described the responses of prospective jurors at their voir dire: "Most of them are of little moment.
+There are a few, however, in which some personal problems were discussed which could be somewhat sensitive as far as publication of those particular individuals' situations are concerned."
+Id., at 103.
+Counsel for Brown argued that release of the transcript would violate the jurors' right of privacy.
+The prosecutor agreed, adding that the prospective jurors had answered questions under an "implied promise of confidentiality."
+Id., at 111.
+The court denied petitioner's motion, concluding as follows: "I agree with much of what defense counsel and People's counsel have said and I also, regardless of the public's right to know, I also feel that's rather difficult that by a person performing their civic duty as a prospective juror putting their private information as open to the public which I just think there is certain areas that the right of privacy should prevail and a right to a fair trial should prevail and the right of the people to know, I think, should have some limitations and, so, at this stage, the motion to open up . . . the individual sequestered voir dire proceedings is denied without prejudice."
+Id., at 121.
+After Brown had been convicted and sentenced to death, petitioner again applied for release of the transcript.
+In denying this application, the judge stated: "The jurors were questioned in private relating to past experiences, and while most of the information is dull and boring, some of the jurors had some special experiences in sensitive areas that do not appear to be appropriate for public discussion."
+Id., at 39.
+Petitioner then sought in the California Court of Appeal a writ of mandate to compel the Superior Court to release the *505 transcript and vacate the order closing the voir dire proceedings.
+The petition was denied.
+The California Supreme Court denied petitioner's request for a hearing.
+We granted certiorari.
+459 U. S. 1169 (1983).
+We reverse.
+The trial of a criminal case places the factfinding function in a jury of 12 unless by statute or consent the jury is fixed at a lesser number or a jury is waived.
+The process of juror selection is itself a matter of importance, not simply to the adversaries but to the criminal justice system.
+In Richmond Newspapers, Inc. v. Virginia, 448 U. S. 555 , 569 (1980), the plurality opinion summarized the evolution of the criminal trial as we know it today and concluded that "at the time when our organic laws were adopted, criminal trials both here and in England had long been presumptively open."
+A review of the historical evidence is also helpful for present purposes.
+It reveals that, since the development of trial by jury, the process of selection of jurors has presumptively been a public process with exceptions only for good cause shown.
+The roots of open trials reach back to the days before the Norman Conquest when cases in England were brought before "moots," a town meeting kind of body such as the local court of the hundred or the county court.
+[1] Attendance was virtually compulsory on the part of the freemen of the community, who represented the "patria," or the "country," in rendering judgment.
+The public aspect thus was "almost a necessary incident of jury trials, since the presence of a jury. . . already insured the presence of a large part of the public."
+[2] *506 As the jury system evolved in the years after the Norman Conquest, and the jury came to be but a small segment representing the community, the obligation of all freemen to attend criminal trials was relaxed; however, the public character of the proceedings, including jury selection, remained unchanged.
+Later, during the 14th and 15th centuries, the jury became an impartial trier of facts, owing in large part to a development in that period, allowing challenges.
+[3] 1 W. Holdsworth, History of English Law 332, 335 (7th ed. 1956).
+Since then, the accused has generally enjoyed the right to challenge jurors in open court at the outset of the trial.
+[4] Although there appear to be few contemporary accounts of the process of jury selection of that day, [5] one early record written in 1565 places the trial "[i]n the towne house, or in some open or common place."
+T. Smith, De Republica *507 Anglorum 96 (Alston ed. 1906).
+Smith explained that "there is nothing put in writing but the enditement": "All the rest is doone openlie in the presence of the Judges, the Justices, the enquest, the prisoner, and so many as will or can come so neare as to heare it, and all depositions and witnesses given aloude, that all men may heare from the mouth of the depositors and witnesses what is saide."
+Id., at 101 (emphasis added).
+If we accept this account it appears that beginning in the 16th century, jurors were selected in public.
+As the trial began, the judge and the accused were present.
+Before calling jurors, the judge "telleth the cause of their comming, and [thereby] giveth a good lesson to the people."
+Id., at 96-97 (emphasis added).
+The indictment was then read; if the accused pleaded not guilty, the jurors were called forward, one by one, at which time the defendant was allowed to make his challenges.
+Id., at 98.
+Smith makes clear that the entire trial proceeded "openly, that not only the xii [12 jurors], but the Judges, the parties and as many [others] as be present may heare."
+Id., at 79 (emphasis added).
+This open process gave assurance to those not attending trials that others were able to observe the proceedings and enhanced public confidence.
+The presence of bystanders served yet another purpose according to Blackstone.
+If challenges kept a sufficient number of qualified jurors from appearing at the trial, "either party may pray a tales."
+3 W. Blackstone Commentaries *364; see also M. Hale, The History of the Common Law of England 342 (6th ed. 1820).
+A "tales" was the balance necessary to supply the deficiency.
+[6] *508 The presumptive openness of the jury selection process in England, not surprisingly, carried over into proceedings in colonial America.
+For example, several accounts noted the need for talesmen at the trials of Thomas Preston and William Wemms, two of the British soldiers who were charged with murder after the so-called Boston Massacre in 1770.
+[7] Public jury selection thus was the common practice in America when the Constitution was adopted.
+For present purposes, how we allocate the "right" to openness as between the accused and the public, or whether we view it as a component inherent in the system benefiting both, is not crucial.
+No right ranks higher than the right of the accused to a fair trial.
+But the primacy of the accused's right is difficult to separate from the right of everyone in the community to attend the voir dire which promotes fairness.
+The open trial thus plays as important a role in the administration of justice today as it did for centuries before our separation from England.
+The value of openness lies in the fact that people not actually attending trials can have confidence that standards of fairness are being observed; the sure knowledge that anyone is free to attend gives assurance that established procedures are being followed and that deviations will become known.
+Openness thus enhances both the basic fairness of the criminal trial and the appearance of fairness so essential to public confidence in the system.
+Richmond Newspapers, Inc. v. Virginia, 448 U. S., at 569-571 .
+This openness has what is sometimes described as a "community therapeutic value."
+Id., at 570.
+Criminal acts, especially *509 violent crimes, often provoke public concern, even outrage and hostility; this in turn generates a community urge to retaliate and desire to have justice done. this in turn generates a community urge to retaliate and desire to have justice done.
+See T. Reik, The Compulsion to Confess 288-295, 408 (1959).
+Whether this is viewed as retribution or otherwise is irrelevant.
+When the public is aware that the law is being enforced and the criminal justice system is functioning, an outlet is provided for these understandable reactions and emotions.
+Proceedings held in secret would deny this outlet and frustrate the broad public interest; by contrast, public proceedings vindicate the concerns of the victims and the community in knowing that offenders are being brought to account for their criminal conduct by jurors fairly and openly selected.
+See United States v. Hasting, 461 U. S. 499 , 507 (1983); Morris v. Slappy, 461 U. S. 1 , 14-15 (1983).
+"People in an open society do not demand infallibility from their institutions, but it is difficult for them to accept what they are prohibited from observing."
+Richmond Newspapers, supra, at 572.
+Closed proceedings, although not absolutely precluded, must be rare and only for cause shown that outweighs the value of openness.
+[8] In Globe Newspaper Co. v. Superior Court, 457 U. S. 596 (1982), we stated: "[T]he circumstances under which the press and public can be barred from a criminal trial are limited; the State's justification in denying access must be a weighty *510 one.
+Where . . . the State attempts to deny the right of access in order to inhibit the disclosure of sensitive information, it must be shown that the denial is necessitated by a compelling governmental interest, and is narrowly tailored to serve that interest."
+Id., at 606-607.
+The presumption of openness may be overcome only by an overriding interest based on findings that closure is essential to preserve higher values and is narrowly tailored to serve that interest.
+The interest is to be articulated along with findings specific enough that a reviewing court can determine whether the closure order was properly entered.
+We now turn to whether the presumption of openness has been rebutted in this case.
+Although three days of voir dire in this case were open to the public, six weeks of the proceedings were closed, and media requests for the transcript were denied.
+[9] The Superior Court asserted two interests in support of its closure order and orders denying a transcript: the right of the defendant to a fair trial, and the right to privacy of the prospective jurors, for any whose "special experiences in sensitive areas . . . do not appear to be appropriate for public discussion."
+Supra, at 504.
+Of course the right of an accused to fundamental fairness in the jury selection process is a compelling interest.
+But the California court's conclusion that Sixth Amendment and privacy interests were sufficient to warrant prolonged closure was unsupported by findings *511 showing that an open proceeding in fact threatened those interests; [10] hence it is not possible to conclude that closure was warranted.
+[11] Even with findings adequate to support closure, the trial court's orders denying access to voir dire testimony failed to consider whether alternatives were available to protect the interests of the prospective jurors that the trial court's orders sought to guard.
+Absent consideration of alternatives to closure, the trial court could not constitutionally close the voir dire.
+The jury selection process may, in some circumstances, give rise to a compelling interest of a prospective juror when interrogation touches on deeply personal matters that person has legitimate reasons for keeping out of the public domain.
+*512 The trial involved testimony concerning an alleged rape of a teenage girl.
+Some questions may have been appropriate to prospective jurors that would give rise to legitimate privacy interests of those persons.
+For example a prospective juror might privately inform the judge that she, or a member of her family, had been raped but had declined to seek prosecution because of the embarrassment and emotional trauma from the very disclosure of the episode.
+The privacy interests of such a prospective juror must be balanced against the historic values we have discussed and the need for openness of the process.
+To preserve fairness and at the same time protect legitimate privacy, a trial judge must at all times maintain control of the process of jury selection and should inform the array of prospective jurors, once the general nature of sensitive questions is made known to them, that those individuals believing public questioning will prove damaging because of embarrassment, may properly request an opportunity to present the problem to the judge in camera but with counsel present and on the record.
+By requiring the prospective juror to make an affirmative request, the trial judge can ensure that there is in fact a valid basis for a belief that disclosure infringes a significant interest in privacy.
+This process will minimize the risk of unnecessary closure.
+The exercise of sound discretion by the court may lead to excusing such a person from jury service.
+When limited closure is ordered, the constitutional values sought to be protected by holding open proceedings may be satisfied later by making a transcript of the closed proceedings available within a reasonable time, if the judge determines that disclosure can be accomplished while safeguarding the juror's valid privacy interests.
+Even then a valid privacy right may rise to a level that part of the transcript should be sealed, or the name of a juror withheld, to protect the person from embarrassment.
+*513 The judge at this trial closed an incredible six weeks of voir dire without considering alternatives to closure.
+Later the court declined to release a transcript of the voir dire even while stating that "most of the information" in the transcript was "dull and boring."
+Supra, at 504.
+Those parts of the transcript reasonably entitled to privacy could have been sealed without such a sweeping order; a trial judge should explain why the material is entitled to privacy.
+Assuming that some jurors had protectible privacy interests in some of their answers, the trial judge provided no explanation as to why his broad order denying access to information at the voir dire was not limited to information that was actually sensitive and deserving of privacy protection.
+Nor did he consider whether he could disclose the substance of the sensitive answers while preserving the anonymity of the jurors involved.
+Thus not only was there a failure to articulate findings with the requisite specificity but there was also a failure to consider alternatives to closure and to total suppression of the transcript.
+The trial judge should seal only such parts of the transcript as necessary to preserve the anonymity of the individuals sought to be protected.
+The judgment of the Court of Appeal is vacated, and the case is remanded for proceedings not inconsistent with this opinion.
+It is so ordered.
