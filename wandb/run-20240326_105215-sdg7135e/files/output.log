@@ -1,0 +1,21 @@
+
+You're using a DistilBertTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/home/labicquette/.local/lib/python3.10/site-packages/torch/nn/parallel/data_parallel.py:33: UserWarning:
+    There is an imbalance between your GPUs. You may want to exclude GPU 1 which
+    has less than 75% of the memory or cores of GPU 0. You can do so by setting
+    the device_ids argument to DataParallel, or by setting the CUDA_VISIBLE_DEVICES
+    environment variable.
+  warnings.warn(imbalance_warn.format(device_ids[min_pos], device_ids[max_pos]))
+Checkpoint destination directory ./models/distilbert-v0/checkpoint-8 already exists and is non-empty.Saving will proceed but saved results may be invalid.
+/home/labicquette/.local/lib/python3.10/site-packages/torch/nn/parallel/data_parallel.py:33: UserWarning:
+    There is an imbalance between your GPUs. You may want to exclude GPU 1 which
+    has less than 75% of the memory or cores of GPU 0. You can do so by setting
+    the device_ids argument to DataParallel, or by setting the CUDA_VISIBLE_DEVICES
+    environment variable.
+  warnings.warn(imbalance_warn.format(device_ids[min_pos], device_ids[max_pos]))
+Checkpoint destination directory ./models/distilbert-v0/checkpoint-16 already exists and is non-empty.Saving will proceed but saved results may be invalid.
+/home/labicquette/.local/lib/python3.10/site-packages/torch/nn/parallel/data_parallel.py:33: UserWarning:
+    There is an imbalance between your GPUs. You may want to exclude GPU 1 which
+    has less than 75% of the memory or cores of GPU 0. You can do so by setting
+    the device_ids argument to DataParallel, or by setting the CUDA_VISIBLE_DEVICES
+    environment variable.

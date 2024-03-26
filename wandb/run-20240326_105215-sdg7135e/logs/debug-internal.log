@@ -1,0 +1,99 @@
+2024-03-26 10:52:15,942 INFO    StreamThr :9655 [internal.py:wandb_internal():86] W&B internal server running at pid: 9655, started at: 2024-03-26 10:52:15.942438
+2024-03-26 10:52:15,943 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status
+2024-03-26 10:52:15,945 INFO    WriterThread:9655 [datastore.py:open_for_write():87] open: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/run-sdg7135e.wandb
+2024-03-26 10:52:15,945 DEBUG   SenderThread:9655 [sender.py:send():378] send: header
+2024-03-26 10:52:15,947 DEBUG   SenderThread:9655 [sender.py:send():378] send: run
+2024-03-26 10:52:16,433 INFO    SenderThread:9655 [dir_watcher.py:__init__():211] watching files in: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files
+2024-03-26 10:52:16,434 INFO    SenderThread:9655 [sender.py:_start_run_threads():1099] run started: sdg7135e with start time 1711446735.943435
+2024-03-26 10:52:16,435 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: check_version
+2024-03-26 10:52:16,436 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: check_version
+2024-03-26 10:52:16,551 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: run_start
+2024-03-26 10:52:16,561 DEBUG   HandlerThread:9655 [system_info.py:__init__():26] System info init
+2024-03-26 10:52:16,561 DEBUG   HandlerThread:9655 [system_info.py:__init__():41] System info init done
+2024-03-26 10:52:16,561 INFO    HandlerThread:9655 [system_monitor.py:start():194] Starting system monitor
+2024-03-26 10:52:16,561 INFO    SystemMonitor:9655 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-03-26 10:52:16,561 INFO    HandlerThread:9655 [system_monitor.py:probe():214] Collecting system info
+2024-03-26 10:52:16,562 INFO    SystemMonitor:9655 [interfaces.py:start():190] Started cpu monitoring
+2024-03-26 10:52:16,562 INFO    SystemMonitor:9655 [interfaces.py:start():190] Started disk monitoring
+2024-03-26 10:52:16,563 INFO    SystemMonitor:9655 [interfaces.py:start():190] Started gpu monitoring
+2024-03-26 10:52:16,563 INFO    SystemMonitor:9655 [interfaces.py:start():190] Started memory monitoring
+2024-03-26 10:52:16,563 INFO    SystemMonitor:9655 [interfaces.py:start():190] Started network monitoring
+2024-03-26 10:52:16,579 DEBUG   HandlerThread:9655 [system_info.py:probe():150] Probing system
+2024-03-26 10:52:16,597 DEBUG   HandlerThread:9655 [system_info.py:_probe_git():135] Probing git
+2024-03-26 10:52:16,599 DEBUG   HandlerThread:9655 [system_info.py:_probe_git():143] Probing git done
+2024-03-26 10:52:16,599 DEBUG   HandlerThread:9655 [system_info.py:probe():198] Probing system done
+2024-03-26 10:52:16,599 DEBUG   HandlerThread:9655 [system_monitor.py:probe():223] {'os': 'Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.10.12', 'heartbeatAt': '2024-03-26T09:52:16.579496', 'startedAt': '2024-03-26T09:52:15.939174', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '<python with no main file>', 'codePathLocal': None, 'git': {'remote': 'https://github.com/Eli6a/TER', 'commit': 'e50492e0a40c1867247c75b881e4094d1bcbacb2'}, 'email': 'komete17@gmail.com', 'root': '/home/labicquette/M1/TER', 'host': 'DESKTOP-VOM7ARG', 'username': 'labicquette', 'executable': '/bin/python3', 'cpu_count': 6, 'cpu_count_logical': 12, 'cpu_freq': {'current': 3693.1030000000005, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}, {'current': 3693.103, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 1006.853931427002, 'used': 89.88285064697266}}, 'gpu': 'NVIDIA GeForce GTX 1060 6GB', 'gpu_count': 2, 'gpu_devices': [{'name': 'NVIDIA GeForce GTX 1060 6GB', 'memory_total': 6442450944}, {'name': 'NVIDIA GeForce RTX 4070 Ti', 'memory_total': 12878610432}], 'memory': {'total': 25.442611694335938}}
+2024-03-26 10:52:16,599 INFO    HandlerThread:9655 [system_monitor.py:probe():224] Finished collecting system info
+2024-03-26 10:52:16,599 INFO    HandlerThread:9655 [system_monitor.py:probe():227] Publishing system info
+2024-03-26 10:52:16,600 INFO    HandlerThread:9655 [system_monitor.py:probe():229] Finished publishing system info
+2024-03-26 10:52:16,603 DEBUG   SenderThread:9655 [sender.py:send():378] send: files
+2024-03-26 10:52:16,603 INFO    SenderThread:9655 [sender.py:_save_file():1365] saving file wandb-metadata.json with policy now
+2024-03-26 10:52:16,732 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: python_packages
+2024-03-26 10:52:16,732 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: python_packages
+2024-03-26 10:52:16,732 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-26 10:52:16,733 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: stop_status
+2024-03-26 10:52:16,736 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-26 10:52:16,993 DEBUG   SenderThread:9655 [sender.py:send():378] send: telemetry
+2024-03-26 10:52:16,994 DEBUG   SenderThread:9655 [sender.py:send():378] send: config
+2024-03-26 10:52:16,994 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:16,994 DEBUG   SenderThread:9655 [sender.py:send():378] send: telemetry
+2024-03-26 10:52:16,994 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:16,994 WARNING SenderThread:9655 [sender.py:send_metric():1316] Seen metric with glob (shouldn't happen)
+2024-03-26 10:52:16,994 DEBUG   SenderThread:9655 [sender.py:send():378] send: telemetry
+2024-03-26 10:52:17,237 INFO    wandb-upload_0:9655 [upload_job.py:push():131] Uploaded file /tmp/tmpjrtv2c6gwandb/40zlq6ul-wandb-metadata.json
+2024-03-26 10:52:17,434 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_created():271] file/dir created: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/wandb-metadata.json
+2024-03-26 10:52:17,435 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_created():271] file/dir created: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:17,435 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_created():271] file/dir created: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/requirements.txt
+2024-03-26 10:52:19,434 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:20,995 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status_report
+2024-03-26 10:52:24,922 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: partial_history
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,923 DEBUG   SenderThread:9655 [sender.py:send():378] send: metric
+2024-03-26 10:52:24,924 DEBUG   SenderThread:9655 [sender.py:send():378] send: history
+2024-03-26 10:52:24,924 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: summary_record
+2024-03-26 10:52:24,925 INFO    SenderThread:9655 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-03-26 10:52:25,435 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:25,436 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_created():271] file/dir created: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/wandb-summary.json
+2024-03-26 10:52:26,925 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status_report
+2024-03-26 10:52:27,436 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:31,732 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-26 10:52:31,733 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-26 10:52:31,733 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: stop_status
+2024-03-26 10:52:32,680 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: partial_history
+2024-03-26 10:52:32,680 DEBUG   SenderThread:9655 [sender.py:send():378] send: history
+2024-03-26 10:52:32,680 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: summary_record
+2024-03-26 10:52:32,680 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status_report
+2024-03-26 10:52:32,681 INFO    SenderThread:9655 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-03-26 10:52:33,437 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:33,437 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/wandb-summary.json
+2024-03-26 10:52:35,438 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:37,682 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status_report
+2024-03-26 10:52:40,500 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: partial_history
+2024-03-26 10:52:40,501 DEBUG   SenderThread:9655 [sender.py:send():378] send: history
+2024-03-26 10:52:40,501 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: summary_record
+2024-03-26 10:52:40,502 INFO    SenderThread:9655 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-03-26 10:52:41,439 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/output.log
+2024-03-26 10:52:41,439 INFO    Thread-13 :9655 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/labicquette/M1/TER/wandb/run-20240326_105215-sdg7135e/files/wandb-summary.json
+2024-03-26 10:52:41,946 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: pause
+2024-03-26 10:52:41,946 INFO    HandlerThread:9655 [handler.py:handle_request_pause():708] stopping system metrics thread
+2024-03-26 10:52:41,946 INFO    HandlerThread:9655 [system_monitor.py:finish():203] Stopping system monitor
+2024-03-26 10:52:41,946 DEBUG   SystemMonitor:9655 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-03-26 10:52:41,946 DEBUG   SystemMonitor:9655 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-03-26 10:52:41,946 DEBUG   SystemMonitor:9655 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-03-26 10:52:41,946 INFO    HandlerThread:9655 [interfaces.py:finish():202] Joined cpu monitor
+2024-03-26 10:52:41,946 INFO    HandlerThread:9655 [interfaces.py:finish():202] Joined disk monitor
+2024-03-26 10:52:41,960 INFO    HandlerThread:9655 [interfaces.py:finish():202] Joined gpu monitor
+2024-03-26 10:52:41,960 INFO    HandlerThread:9655 [interfaces.py:finish():202] Joined memory monitor
+2024-03-26 10:52:41,960 INFO    HandlerThread:9655 [interfaces.py:finish():202] Joined network monitor
+2024-03-26 10:52:43,502 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status_report
+2024-03-26 10:52:46,732 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-26 10:52:46,733 DEBUG   SenderThread:9655 [sender.py:send_request():405] send_request: stop_status
+2024-03-26 10:52:46,733 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-26 10:52:48,929 DEBUG   HandlerThread:9655 [handler.py:handle_request():146] handle_request: status_report
