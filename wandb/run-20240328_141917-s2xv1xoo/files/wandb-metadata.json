@@ -1,0 +1,79 @@
+{
+    "os": "Linux-6.5.0-25-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-03-28T13:19:18.139532",
+    "startedAt": "2024-03-28T13:19:17.116782",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Eli6a/TER",
+        "commit": "3e239866d12bcd38620021c506ec8bca0a492f40"
+    },
+    "email": "komete17@gmail.com",
+    "root": "/home/labicquette/M1/TER",
+    "host": "X395",
+    "username": "labicquette",
+    "executable": "/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2522.4929999999995,
+        "min": 1400.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1444.287,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 1456.038,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 3589.432,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 3567.16,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 2956.105,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 2528.387,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 2561.431,
+            "min": 1400.0,
+            "max": 2300.0
+        },
+        {
+            "current": 2897.418,
+            "min": 1400.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 467.8895797729492,
+            "used": 235.5896453857422
+        }
+    },
+    "memory": {
+        "total": 13.527046203613281
+    }
+}
