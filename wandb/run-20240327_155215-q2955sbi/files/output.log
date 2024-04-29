@@ -1,0 +1,51 @@
+
+You're using a DistilBertTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'input_ids': [101, 1188, 1110, 117, 170, 1842, 132, 5650, 119, 1753, 1541, 10800, 119, 119, 119, 1252, 1122, 1110, 21534, 119, 102], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+['[CLS]', 'This', 'is', ',', 'a', 'real', ';', 'sentence', '.', 'Not', 'really', 'Legal', '.', '.', '.', 'But', 'it', 'is', 'ok', '.', '[SEP]']
+{0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7'}
+{'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7}
+Some weights of DistilBertForTokenClassification were not initialized from the model checkpoint at distilbert/distilbert-base-cased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+You're using a DistilBertTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+{'eval_loss': 2.0198733806610107, 'eval_precision': 0.5137926208995616, 'eval_recall': 0.7968641894150923, 'eval_f1': 0.622249666638552, 'eval_accuracy': 0.5137926208995616, 'eval_runtime': 43.5654, 'eval_samples_per_second': 0.62, 'eval_steps_per_second': 0.321, 'epoch': 1.0}
+{'eval_loss': 2.022237539291382, 'eval_precision': 0.5121006682020663, 'eval_recall': 0.8078574481850851, 'eval_f1': 0.623926452091814, 'eval_accuracy': 0.5121006682020663, 'eval_runtime': 40.1297, 'eval_samples_per_second': 0.673, 'eval_steps_per_second': 0.349, 'epoch': 2.0}
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'input_ids': [101, 1188, 1110, 117, 170, 1842, 132, 5650, 119, 1753, 1541, 10800, 119, 119, 119, 1252, 1122, 1110, 21534, 119, 102], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+['[CLS]', 'This', 'is', ',', 'a', 'real', ';', 'sentence', '.', 'Not', 'really', 'Legal', '.', '.', '.', 'But', 'it', 'is', 'ok', '.', '[SEP]']
+{0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7'}
+{'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7}
+Some weights of DistilBertForTokenClassification were not initialized from the model checkpoint at distilbert/distilbert-base-cased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+You're using a DistilBertTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 1 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 2 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 3 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 4 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 5 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 6 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 0 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/sequence_labeling.py:171: UserWarning: 7 seems not to be NE tag.
+  warnings.warn('{} seems not to be NE tag.'.format(chunk))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/v1.py:57: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/labicquette/.local/lib/python3.10/site-packages/seqeval/metrics/v1.py:57: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/labicquette/.local/lib/python3.10/site-packages/numpy/lib/function_base.py:518: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/home/labicquette/.local/lib/python3.10/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Checkpoint destination directory ./models/distilbert-v0/checkpoint-57 already exists and is non-empty.Saving will proceed but saved results may be invalid.

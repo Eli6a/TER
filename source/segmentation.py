@@ -85,7 +85,6 @@ def segmentation(text, tokenizer=None, model=None, args=None):
             doc = nlp(text)
             sentences = []
             for sentence in doc.sents:
-                #print(sentence.text)
                 sentences += [sentence.text]
             return sentences
         

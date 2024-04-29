@@ -12,10 +12,11 @@ def pipeline(path, tokeniz="tok", model='mod'):
     #print("experts", experts)
     #experts = [tokenizer(sentence, tokenizer=tokeniz) for sentence in experts]
     #print("tokens experts",experts)
-    print("model", model)
+    #print("model", model)
     seg = segmentation(text, tokenizer=tokeniz, model=model)
-    print("Segmentation", seg)
+    #print("Segmentation", seg)
     saveSegmentation(path, seg, model)
+    save_differences(experts, seg, model, path)
     #print("seg : ",seg)
     
     # sklearn
@@ -44,24 +45,47 @@ def evaluation(dir_path, tokeniz="tok", model='mod'):
     df = pd.DataFrame(columns=["model", "file", "precision", "recall", "F1_score"])
     for file in files :
         p, r, f = pipeline(file, tokeniz, model)
+        if ((p + r + f) /3 )< 0.8 and model != 'naive':
+            print(p,r,f, file)
         #pd.DataFrame({'precision':p,'recall':r, 'F1_score':f, 'file':file}, index=[0])
         df.loc[len(df)] = [model, file.split('/')[-1], p, r, f]
     df.to_csv("../stats/doc_train_stats_" + model + ".csv",index=False)
     return df["recall"].mean(), df["precision"].mean(), df["F1_score"].mean()
 
 def saveSegmentation(path, seg, model):
-    if model != "ersatz":
-        res = ""
-        for i in range(len(seg)):
-            temp_res = ""
+
+    res = ""
+    for i in range(len(seg)):
+        temp_res = ""
             #for j in range(len(seg[i])):
             #    temp_res += seg[i][j] + ' '
             #res += temp_res
             #if i < len(seg)-1:
                     #print("seg i ", seg[i][j])
-            res += seg[i] + "\n"
-        with open("../outputs/"+model+"/"+path.split('/')[-1], 'w') as f:
-            f.write(res)
+        res += seg[i] + "\n"
+    with open("../outputs/"+model+"/"+path.split('/')[-1], 'w') as f:
+          f.write(res)
+  
+
+def save_differences(ori, seg, model, title):
+    path = ["expert", model]
+    res = []
+    precontext = 20
+    postcontext = 20
+
+    for j,doc in enumerate([ori, seg]):
+        temp = ""
+        for i in range(len(doc)):
+            if i != len(doc) - 1:
+                if len(doc[i]) < precontext:
+                    precontext = len(doc[i])
+                if len(doc[i+1]) < postcontext:
+                    postcontext = len(doc[i+1])
+                temp += doc[i][-precontext:] + ' | ' + doc[i+1][:postcontext] + '\n'
+        with open("../errors/"+path[j]+"/"+title.split('/')[-1], 'w') as f:
+            f.write(temp)
+
+
 
 if __name__ == "__main__":
     # execute only if run as a script
