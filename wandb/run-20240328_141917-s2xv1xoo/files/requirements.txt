@@ -293,7 +293,7 @@ threadpoolctl==3.2.0
 tifffile==2023.12.9
 tiktoken==0.6.0
 tokenizers==0.15.0
-torch==1.13.0
+torch==1.13.1
 tornado==6.3.2
 tqdm==4.66.1
 traitlets==5.1.1
