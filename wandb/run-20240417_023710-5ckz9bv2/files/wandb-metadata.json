@@ -1,0 +1,111 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-04-17T00:37:10.863779",
+    "startedAt": "2024-04-17T00:37:10.307706",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Eli6a/TER",
+        "commit": "98d1f785beed0734cf3c3ad609c4670e4f40f517"
+    },
+    "email": "komete17@gmail.com",
+    "root": "/home/labicquette/M1/TER",
+    "host": "DESKTOP-VOM7ARG",
+    "username": "labicquette",
+    "executable": "/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3693.088000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3693.088,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 85.21590042114258
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1060 6GB",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060 6GB",
+            "memory_total": 6442450944
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4070 Ti",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 25.442611694335938
+    }
+}
